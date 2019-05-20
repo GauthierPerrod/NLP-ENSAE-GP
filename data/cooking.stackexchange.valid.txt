@@ -1,0 +1,1500 @@
+__label__baking __label__cookies What is the purpose of baking soda in chocolate-chip cookies?
+__label__storage-method __label__sunchokes How should I store sunchokes for 4 months in a hard freeze?
+__label__thai-cuisine __label__basil How can one use Thai basil stems and flowers?
+__label__vegetables __label__steaming __label__utensils What do you use to get the vegetables out after steaming?
+__label__sugar __label__syrup __label__sorbet Exact proportions of sugar to water in sorbet
+__label__indian-cuisine __label__yogurt Clumpy yogurt conundrum
+__label__salad __label__lettuce __label__cooking-myth Is it worth tearing lettuce for salad?
+__label__oil __label__rice __label__seasoning How are puffed rice cakes flavoured?
+__label__storage-lifetime __label__salt __label__tuna Why would fresh tuna be salted?
+__label__cocktails What is the purpose of bitters in cocktails?
+__label__baking Substitute for baking parchment
+__label__eggs __label__sugar __label__dessert __label__egg-whites __label__meringue Italian meringue deflated after adding sugar
+__label__stock Cooling and diluting over-reduced stock down with cold water
+__label__coffee __label__turkish-cuisine Turkish Coffee necessities
+__label__sugar __label__ground-beef Reasons to sweeten ground beef macaroni casserole
+__label__candy Can the Cadbury Creme Egg's filling be bought independently?
+__label__measurements By `1 tbsp of x` should I assume heaped tablespoon or leveled tablespoon?
+__label__food-safety __label__cheese How do you tell if a cheese rind is edible?
+__label__meat __label__beef __label__pork __label__lamb __label__cut-of-meat 3D meat cuts references?
+__label__potatoes __label__microwave Potato in the microwave
+__label__refrigerator How important is isolating food in a fridge?
+__label__equipment __label__grilling What features should I look for in a fireplace grill?
+__label__tea __label__boiling __label__water Can I boil water to temperature lower than 100 Celsius / 212 Fahrenheit to make a tea?
+__label__flour __label__fats __label__roux Minimum amount of fat in Roux
+__label__salt How to ration salt in small quantities?
+__label__storage-lifetime __label__ceviche How long does ceviche keep?
+__label__beef How to cook beef shank so that it is fall-off-the-bone tender?
+__label__rice __label__sushi __label__asian-cuisine What is the proper way to cool sushi rice after cooking?
+__label__fermentation __label__kefir How do I fix overly yeasty kefir?
+__label__baking __label__substitutions __label__baking-powder How do I make a "baking powder" substitute in a pinch
+__label__bacon __label__gammon What's the difference between bacon and gammon?
+__label__salad __label__salad-dressing __label__storage-lifetime What is the shelf life of my home made coleslaw dressing?
+__label__food-safety __label__equipment How to make sure teapot is safe after being on fire without water
+__label__cheese __label__cheese-making Is pressed cottage cheese a different cheese?
+__label__coffee __label__espresso How to make Latte art on a Cappuccino?
+__label__rice __label__rice-cooker What types of rice are appropriate to use in a rice cooker?
+__label__msg can someone tell me what exactly is msg used for?
+__label__barbecue __label__smoking __label__pork-shoulder How long can i cook a bone in Pork Shoulder?
+__label__baking __label__substitutions Substitute peanut butter for cookie butter?
+__label__food-safety __label__food-preservation __label__sous-vide __label__botulism How long does it take botulism spores to germinate in the fridge?
+__label__chicken __label__sauce __label__flavor __label__recipe-scaling Sweet and sour chicken not sticky
+__label__substitutions __label__cheese __label__vegan What vegan substitutes are available for cheese?
+__label__honey Is there any reason not to decrystallize honey?
+__label__oil __label__brownies Substituting mayonaise for vegetable oil
+__label__cooking-time __label__slow-cooking __label__risotto Why is the rice in my mushroom risotto always very hard?
+__label__water No water in the Crock pot
+__label__soup What exactly is a chowder?
+__label__sugar __label__coconut __label__moisture Can I make sweetened coconut from dried coconut?
+__label__language __label__mousse __label__souffle What's the difference between a souffle and a mousse?
+__label__flour __label__wheat __label__milling How do you know if stone-ground flour is truly milled with stones?
+__label__storage-lifetime __label__packaging UK versus US expiration dates on diet sodas
+__label__cake __label__freezing How do I properly freeze a frosted cake?
+__label__mushrooms __label__sauteing __label__color How to stop mushrooms from discoloring everything?
+__label__language What is the difference between sauting and stir frying?
+__label__baking __label__pie __label__cake __label__cheesecake Is cheesecake a cake or a pie?
+__label__meat __label__sauce __label__tomatoes How can I add meat into a completed tomato sauce?
+__label__fish __label__grilling How do I flavor fish en papillote?
+__label__sauce __label__canning Best way to bottle peri peri sauce?
+__label__food-science __label__mayonnaise __label__emulsion What are some alternatives to xanthan gum for stabilizing mayonnaise?
+__label__non-stick I don't care about the non stick property of a non stick pot. Is there any harm in washing it in a dishwasher?
+__label__bread __label__cleaning __label__cast-iron How do I clean off bread stuck to a non-flat / patterened cast iron pan?
+__label__food-science __label__cooking-time __label__pressure-cooker Can the duration of the whistle determine if food inside a pressure cooker is cooked
+__label__fruit __label__food-science __label__caramelization Does oxidation inhibit caramelization?
+__label__substitutions Substitute For Cream of Tartar
+__label__cheese Age between mild and sharp
+__label__food-safety __label__chicken __label__please-remove-this-tag What has happened to today's chicken compared to the chicken in the 1950's - 80's?
+__label__smoking Cold Smoking in the Tropics - Condensation
+__label__storage Why should we not store onions and potatoes together?
+__label__equipment __label__beef __label__hamburgers What are the best cuts of meat for grinding burgers?
+__label__broth How to simmer bone broth safely with an overnight pause?
+__label__stock __label__broth __label__chicken-stock __label__ramen __label__straining What's the best way to strain stock?
+__label__food-safety __label__cheese __label__feta Can you really keep feta for 3 months in a milk bath?
+__label__butter __label__popcorn How do I butter popcorn without making it soggy?
+__label__chocolate __label__melting __label__chocolate-truffles Are there any special techniques for tempering dark chocolates with different cacao percentages?
+__label__food-science __label__boiling __label__water How do I stop my pans boiling over?
+__label__frying __label__oil __label__deep-frying Making "french fries" out of Cassava/Yuca root
+__label__nutrient-composition Nitrogen factor role in calorie calculation
+__label__steak __label__frozen how to season a frozen steak
+__label__culinary-uses __label__beets What are some ways to prepare beet greens?
+__label__beans __label__nuts __label__seeds __label__grains __label__vocabulary What is the difference between Seed, Grain, Nut, Kernel, Pit, Bean?
+__label__cake __label__flavor Cake flavour options
+__label__bread Why did my chocolate chip banana bread split?
+__label__fruit __label__jam The persimmon jam makes my tongue dry
+__label__storage-lifetime __label__tea My tea bags are expired, can I still use them?
+__label__storage-method __label__garlic Can you reconstitute garlic powder?
+__label__french-cuisine __label__shallots Spring onion (green onion/scallion) in coq au vin?
+__label__temperature __label__lasagna I'm tweaking a Lasagna Bolognese
+__label__frying __label__seafood How to fry sepia?
+__label__baking __label__oven Utilizing both oven racks when baking
+__label__chocolate Saving old chocolate
+__label__bread __label__cooking-time How can you know that your bread is done?
+__label__vegetables __label__sweet-potatoes What are the major differences between yams and sweet potatoes?
+__label__chocolate Is there a way to add shine to a chocolate coating after it has hardened?
+__label__equipment Need help choosing burner for wok
+__label__freezing __label__cheesecake No-bake cheesecake - freeze or chill overnight?
+__label__cleaning How to prevent flies sticking to hood fan lightbulb guard?
+__label__cleaning __label__fish How to clean the rubbery skin from monkfish before cooking?
+__label__pasta __label__food-science __label__oil Does adding oil to pasta water reduce the tendency to boil over?
+__label__mushrooms __label__sauteing How to properly saut mushrooms so that they don't release water?
+__label__cleaning __label__cookware How to clean an all-clad stainless steel pan
+__label__cookware Bowed bottom on Stainless Steel fry pan
+__label__food-safety __label__storage-method Will liquid keep longer if I boil it and then leave the lid on?
+__label__storage-method __label__basil Fresh basil storage
+__label__equipment __label__fondue Can I use a fondue bourguignonne set to make cheese fondue?
+__label__freezing __label__chicken-breast Can I leave boneless chicken breast flat in freezer overnight?
+__label__storage-method What type of bowl is best for a fruit salad?
+__label__cheesecake What type of cheesecake is the most common in southern US SuperMarkets?
+__label__chili Fixing oily chili
+__label__food-science __label__temperature __label__refrigerator What does a fridge do apart from storing and cooling?
+__label__cookware __label__cast-iron __label__stainless-steel __label__stir-fry Stir-fry pan choices
+__label__culinary-uses __label__herbs __label__cilantro What is a good use for lots of fresh cilantro?
+__label__fruit __label__culinary-uses __label__plums Simple things to do with very tart plums?
+__label__cake __label__decorating "Cloth" that's edible (or even better, yummy)?
+__label__pork __label__liver What are good techniques to prepare liver?
+__label__wine __label__spicy-hot How is it that zinfandel can taste spicy?
+__label__substitutions __label__herbs __label__curry Substitute for lemon grass in curry dish
+__label__kefir Frozen Kefir Grains Seem Dead...Any Suggestions?
+__label__baking __label__oven __label__pizza __label__cooking-time __label__gas How can I reliably bake pizza with no temperature control or pizza stone?
+__label__sauce __label__gravy __label__heat Is my pan too hot for brown sauce / gravy?
+__label__equipment __label__shortcuts __label__sifting How can I make sifting easier?
+__label__coffee __label__alcohol __label__drinks __label__whiskey When *brewing* Irish coffee in a drip coffeemaker or French press, do I need to use more Irish whiskey?
+__label__pork Ribs safety after outside defrosting
+__label__curry __label__ratio __label__thai Ratios in traditional Thai peanut curry recipes
+__label__baking __label__cookies How do I get my chocolate chip cookies to turn out thick and soft?
+__label__sushi __label__japanese-cuisine __label__food-identification What is this sushi?
+__label__vegan Do vegans eat honey?
+__label__oil If not hydrogenated, how are spreads from olive oil made?
+__label__meat __label__steak __label__grade How does the USDA grading system work?
+__label__oranges __label__juicing How much juice can you get from an orange?
+__label__oil __label__steak __label__olive-oil Can I use extra virgin olive oil for cooking steak?
+__label__temperature __label__steak Trouble cooking steak to the standard internal temperature
+__label__meat __label__cut-of-meat What cut of meat is used to make shabu shabu?
+__label__cleaning How do I clean a George Foreman grill?
+__label__gluten-free __label__grains What grains are gluten free?
+__label__soup __label__blender __label__carrots __label__hand-blender Carrot soup and avoiding the use of a blender?
+__label__salmon __label__smoking Hot Smoked Salmon on Big Green Egg
+__label__storage-lifetime __label__cream Cream Cheese expiration dates
+__label__barley Dark barley water
+__label__beans __label__pressure-cooker Pressure cooking beans with salt and spices
+__label__mushrooms __label__sauteing How to prevent shitakes from sticking to pan when sauteeing?
+__label__freezing __label__herbs Can I freeze fresh hyssop?
+__label__knives __label__japanese-cuisine Uses of kohaishu vs santoku
+__label__molecular-gastronomy __label__spherification Can I reuse an alginate bath for reverse spherification?
+__label__oats What makes steel-cut oats different?
+__label__muffins Mixing liquid ingredients to "just combine" to dry ingredients for muffins
+__label__grilling __label__smoking __label__ribs __label__charcoal __label__smoke-flavor Is charcoal or the smoker at fault for low temperature smoking?
+__label__lamb __label__butchering Is there an easy way to french trim a rack of lamb?
+__label__yeast How can I cultivate and store yeast?
+__label__bread How can I keep my freshly baked loaf fresh until the next morning if I bake it at night?
+__label__cheese __label__vegan __label__mozzarella Vegan alternative to Mozzarella
+__label__flan How do you make the sauce that is underneath Flan?
+__label__gelatin Secrets to making crystal clear gelatin?
+__label__sweet-potatoes Canned yams vs. fresh
+__label__marrow Boiled beef bones and ended up with green marrow...is this normal?
+__label__grilling __label__cutting __label__hot-dog Is there anything gained by butterfly cutting a hot dog for grilling?
+__label__baking __label__nuts Substituting hazelnuts for almonds, baking
+__label__coffee __label__french-press French-press coffee has a powdery taste
+__label__cookies Is eating cookie dough without egg safe?
+__label__cheese __label__yogurt __label__cheesecake Casein content after curdling
+__label__syrup __label__vanilla What is a moist vanilla bean?
+__label__chocolate Is there a difference in appearance between semi and unsweetened chocolate?
+__label__microwave is electricity smell from microwave after metal was put in it mean the microwave is ruined?
+__label__olive-oil What makes for good olive oil?
+__label__temperature __label__steak __label__pan __label__stove __label__induction How to determine perfect pan temperature for steak?
+__label__baking __label__glaze __label__doughnuts Why does my glaze soak into my doughnuts?
+__label__japanese-cuisine __label__sushi How is sushi supposed to be eaten?
+__label__freezing __label__ground-beef What's the best way to store (freeze) purchased ground beef?
+__label__turkey __label__gravy __label__thanksgiving __label__liver How to identify turkey liver
+__label__dessert __label__creme-brulee Different techniques in making creme brulee
+__label__fish Frying fish without it falling to shambles
+__label__equipment __label__microwave __label__cookware How can I reheat leftovers without a microwave?
+__label__pasta __label__oil __label__boiling Making pasta: is oil justified?
+__label__food-safety __label__meat __label__marinade __label__jerky How necessary is it to marinade meat before making jerkies?
+__label__soy __label__soymilk __label__filtering Making soy milk: best way to separate okara?
+__label__electric-stoves __label__dutch-oven Is it ok to use an enamelled Dutch oven on an electric stove top with the older ring burners?
+__label__onions __label__garlic __label__smell How to suppress bad breath after eating garlic or onion
+__label__substitutions __label__beef __label__alcohol __label__beer __label__roast-beef What I can use to replace black beer on roast recipe?
+__label__storage-lifetime __label__butter How does butter remain edible for so long without refrigeration?
+__label__rice __label__cooking-myth Lifting the lid on cooking rice - is it such a big deal?
+__label__fruit __label__pie __label__glaze Creating a recipe for a glazed fruit pie - what starch to use?
+__label__substitutions __label__potatoes __label__pumpkin __label__french-fries __label__sweet-potatoes How to make Pumpkin Fries
+__label__soup __label__shrimp Why did my shrimp bisque turn out so broth like?
+__label__storage-method __label__meat __label__aging __label__dry-aging Hanging at home
+__label__meat __label__spices __label__middle-eastern-cuisine __label__turkish-cuisine Doner kebab aroma
+__label__rabbit Rabbit that looks and tastes like chicken?
+__label__equipment __label__hand-blender Is there a hand blender with a metal coupling connection?
+__label__whipped-cream __label__meringue __label__whipper How do I make meringue using a whipped cream charger?
+__label__cake __label__buttermilk Substituting buttermilk powder for buttermilk
+__label__substitutions __label__vegetables __label__spinach How good a substitute is callaloo for spinach?
+__label__baking __label__equipment Is there really such a thing as a muffin scoop?
+__label__substitutions __label__macarons Substitute for coconut in macaroons
+__label__sauteing Why is sauteing beneficial?
+__label__food-safety __label__spoilage licking spoon and putting back in the food
+__label__cookware __label__risotto __label__pan What should I look for in a cooking pan for Risotto?
+__label__honey How to protect honey jar from ants?
+__label__roast __label__roast-beef Arm Roast after 5 hours still tough
+__label__fish __label__frying Are sea bass fillets meant to be crisp on the flesh side when fried?
+__label__storage-method __label__pickling __label__asparagus Refrigerator pickles in plastic?
+__label__bread __label__dough __label__sourdough What went wrong with my sourdough?
+__label__substitutions __label__baking-powder __label__almond-milk Adjusting baking powder to work with almond milk
+__label__temperature The cooking temperature 15 degree is consider as ...?
+__label__chicken How to get breading to stick to chicken?
+__label__sugar How to turn sugar syrup into sugaring wax?
+__label__flavor __label__cheese Is it possible to mature shop-bought hard cheese?
+__label__temperature __label__candy How do I prevent grainy fudge?
+__label__electric-stoves Cooking on top of hob covers
+__label__pasta __label__history Why are there so many different pasta shapes?
+__label__food-safety Vacuum sealed ham left out for 9 hours, is it still safe to eat?
+__label__food-safety Sealed package beef steaks
+__label__substitutions __label__flour Substitute for refined white flour to make fried potato wedges crispy?
+__label__equipment __label__frying-pan Fissler frying pans. Are they worth the price?
+__label__equipment __label__meat __label__thermometer on proper thermometer poking?
+__label__cleaning What is the best way to clean mussels?
+__label__sugar __label__egg-whites __label__meringue How to prevent Meringue from turning chewy/gummy-like?
+__label__baking __label__butter __label__egg-whites __label__sponge-cake Why did a receipe call for pouring boiling butter in egg-whites?
+__label__eggs How do I "fold in" egg whites?
+__label__cleaning __label__wine How to polish wine glasses if my hand cannot reach in?
+__label__eggs __label__hard-boiled-eggs How do I keep an egg from cracking while being boiled?
+__label__meat __label__temperature __label__sous-vide Cooking Temperature for Crocodile meat?
+__label__baking __label__aluminum-foil Is aluminum foil porous?
+__label__chickpeas How to Prepare Chickpea Pure from a Can?
+__label__meat __label__salt What is processed meat?
+__label__turkey Coooking the Turkey the night before
+__label__food-science How do you make the wishbone break easier?
+__label__flavor __label__mayonnaise How do I get homemade mayonnaise to taste like store bought mayonnaise?
+__label__yeast Can an opened pack of dried yeast be stored for later use?
+__label__slow-cooking __label__hamburgers How long is cooked hamburger able to sit in a crockpot?
+__label__mushrooms Are chestnut mushrooms and baby portabella mushrooms the same thing?
+__label__fish __label__shrimp Brown line in back of shrimp
+__label__cooking-time __label__oxtail Oxtail soup, what is the normal simmer time?
+__label__sauce __label__rice __label__tomatoes How does (Goya) Sofrito sauce compare to salsa?
+__label__soup __label__budget-cooking Which parts of a chicken are used to make chicken soup?
+__label__beef __label__steak __label__food-identification __label__cut-of-meat What kind of steak is this?
+__label__substitutions __label__tamarind How do I use tamarind powder?
+__label__equipment __label__cleaning __label__cookware __label__storage __label__frying-pan Reuse frying & sauce pans multiple times during cooking session
+__label__resources __label__learning What are good instructional cooking TV shows?
+__label__dehydrating dehydrating puree food
+__label__coffee Emergency Coffee via Chocolate Covered Coffee Beans?
+__label__baking __label__equipment __label__quickbread __label__aluminum-cookware __label__teflon Durable loaf pans for quick breads?
+__label__food-safety __label__citrus Does wax on citrus fruit make the zest unsafe to eat or compromise its flavor?
+__label__beverages __label__puree __label__straining What's an effective method to strain liquids?
+__label__bacon Bacon fat producing solid white and gelatin state
+__label__culinary-uses Culinary use for the green parts of lemongrass?
+__label__baking __label__cookies Temps rising above set temps
+__label__equipment __label__stand-mixer Kitchenaid mixer dropping metal shavings
+__label__indian-cuisine What am I missing in my dishes (Indian Cuisine)
+__label__cake Floating rhubarb in cake
+__label__flour __label__milling Are stone or metal grinding wheels better for flour?
+__label__onions __label__knife-skills __label__cutting What are the official names for slicing an onion from pole-to-pole or cross-pole?
+__label__baking __label__substitutions __label__sugar __label__chocolate __label__butter converting pure chocolate to "bittersweet" chocolate
+__label__flavor __label__tea __label__drinks __label__beverages Why does tea become bitter if brewed too hot or too long?
+__label__pan Putting a wet pan on hot stove top
+__label__vegetables __label__food-preservation __label__salt __label__canning __label__mushrooms Adjust salt (in mushrooms)
+__label__middle-eastern-cuisine __label__food-identification What is the name of this Israeli street food?
+__label__oven __label__temperature How hot is your oven?
+__label__reheating Keep macaroni cheese creamy after refrigerating
+__label__traditional __label__hot-dog __label__sauerkraut Sauerkraut for hot dogs
+__label__sous-vide How to keep bags from floating in a sous vide supreme
+__label__cheese __label__food-science What happens to cheese as it ages?
+__label__indian-cuisine __label__deep-frying __label__baking-soda fluffiness of medu vada without baking soda
+__label__sous-vide __label__fats At what temperature will the fats on meat render?
+__label__chicken __label__fresh How do I tell the freshness of raw chicken?
+__label__baking __label__noodles __label__baking-soda __label__ramen Why should I bake baking soda for making ramen noodles?
+__label__baking __label__pastry __label__blind-baking How do I stop my pastry shrinking?
+__label__food-transport How to pack items that may leak liquids for lunch?
+__label__oil __label__vinegar __label__refrigerator Does olive oil and balsamic vinegar together need to be refrigerated?
+__label__pepper How can I handle black pepper without sneezing?
+__label__eggs __label__omelette How to make omelettes extremely quickly
+__label__language __label__knife-skills What's the term for cutting part way through a vegetable or fruit to increase surface area?
+__label__milk __label__microwave __label__cupcakes Why did my eggless cup cake prepared with condensed milk get charred in a convection microwave?
+__label__baking __label__cookies My parchment paper soaked in oil after finish baking cookies
+__label__baking __label__bread Why and what kind of breads should be scored?
+__label__equipment __label__meat __label__polish-cuisine __label__russian-cuisine Good thread for tying meat
+__label__rice What's the best way to cook brown rice?
+__label__temperature Cooking too long, or too hot?
+__label__equipment __label__knives What should I look for in a new kitchen knife set?
+__label__baking __label__cake How can I get my layer cake to cook more evenly/not burned?
+__label__cake __label__cooking-time __label__citrus __label__oranges Cooking oranges to put in a cake
+__label__chocolate Making dark chocolate at home
+__label__wok __label__vietnamese-cuisine Gas stove + Wok Vs. Induction top + Skillet
+__label__baking __label__temperature __label__drying How does baking temperature affect kale chips?
+__label__beans __label__language What is the English name for Chitra Rajmah?
+__label__frying __label__cleaning __label__safety Why does my pan always splatter when I make chicken breasts?
+__label__fruit __label__apples Which types of apples are considered to be "quick-cooking" apples?
+__label__indian-cuisine Low Salt Indian Food
+__label__food-safety At what point is eating left-overs or perishables not just daring but dumb?
+__label__oil __label__water __label__sauteing __label__stainless-steel How to saute without oil on stainless steel pots/pans?
+__label__eggs __label__freezing __label__food-preservation Can I freeze egg whites?
+__label__butter __label__milk __label__alcohol __label__emulsion Homogenizing whole milk, butter, and vodka
+__label__language __label__pastry __label__german-cuisine Is "krapfens" commonly used to designate donuts?
+__label__chicken Frozen and Unfrozen Chicken: what's the difference?
+__label__equipment __label__rice __label__rice-cooker How does a typical electric rice cooker work?
+__label__frying __label__cleaning __label__deep-frying __label__smell How do I eliminate a lingering smell of fried food?
+__label__storage-method __label__storage Storage approach for chopped vegetables?
+__label__breakfast __label__oats Cooking Porridge in steam oven
+__label__icing __label__ganache Ganache coating on a roulade
+__label__salt __label__fermentation __label__german-cuisine __label__sauerkraut Salt for Sauerkraut
+__label__cheese Cheap cheese is tasteless. Can I make it tastier in my mac and cheese?
+__label__food-safety __label__cheese Is it safe to eat moldy cheese if you slice off the edges?
+__label__food-safety __label__eggs __label__pasteurization __label__salmonella How can I buy or make pasteurized eggs?
+__label__storage-method __label__honey Why does honey stored with the comb last longer?
+__label__texture __label__stews __label__sweet-potatoes What determines sweet potato softness?
+__label__chicken What is "rendered chicken fat"?
+__label__baking __label__brownies How to remove brownies cleanly from silicone molds?
+__label__hamburgers __label__restaurant Would it be advisable to partially pre-grill hamburgers and freeze so that they can be pan fried when a customer orders?
+__label__food-safety __label__lamb How to safely cook a lamb's head?
+__label__substitutions __label__rice __label__risotto Firm risotto using generic rice. Is it possible?
+__label__sauce __label__mayonnaise Mayonnaise Split
+__label__squash __label__skin __label__peel Why did butternut squash make my fingers dry and yellow?
+__label__cast-iron __label__chili Would a cast iron pot work well for chili? If so, why?
+__label__oven __label__popcorn Make microwave popcorn in the oven
+__label__oil __label__fats __label__cooking-myth Is it safe to mix vegetable and animal fats?
+__label__substitutions __label__cheese __label__italian-cuisine What is the best substitute for Provolone?
+__label__pasta __label__measurements __label__menu-planning How to judge quantity of fresh pasta dough per person
+__label__pork __label__roast Roasting a frozen Creole Pork Leg?
+__label__barbecue Flavour-wise, what is the use of an electric/gas BBQ?
+__label__food-safety __label__chicken __label__raw-meat Do I need to wash my tongs between handling raw meat in pan?
+__label__frying __label__deep-frying What do the numbers on my deep fryer dial mean?
+__label__food-safety __label__oil Is cloudy-looking used peanut oil safe?
+__label__milk Is my milk spoiled?
+__label__induction With what can you maximise energy from an induction stove?
+__label__baking __label__salt Should you add some salt to flour when baking?
+__label__indian-cuisine __label__texture Remedy for Dry Chicken Yakhni pulao ?
+__label__menu-planning __label__organization __label__software meal planning software with collaboration and sharing
+__label__substitutions __label__chili-peppers I have a recipe that calls for a Cubanelle Pepper, but my dad can't eat peppers.
+__label__equipment __label__whipped-cream Overpressurizing a cream whipper?
+__label__middle-eastern-cuisine __label__tahini Are there different styles of tahini?
+__label__food-safety Food safety when tasting from dish
+__label__wine Low tannin dry red wine, good for sauces and stews?
+__label__sugar How much brown sugar should I substitute for white sugar?
+__label__bread How can I improve the shape/appearance of this bread?
+__label__yogurt How to catch culture out of yogurt?
+__label__oven Are there any guidelines for converting cooking recipes from Regular Ovens to Convection?
+__label__cast-iron Rodent droppings on cast-iron frying pan
+__label__sharpening __label__knife-safety Do I need to wipe/clean my knife after sharpening/honing?
+__label__tomatoes How does one soften sun dried tomatoes?
+__label__knife-skills __label__almonds How can I take apart almonds?
+__label__pastry __label__timing Red Bean Cream puffs timing and filling
+__label__bread __label__yeast Culturing Yeast in Dough
+__label__roux __label__gravy __label__thanksgiving __label__color Why is my gravy opaque?
+__label__melting-sugar __label__tahini Why did my halva crumble?
+__label__meat __label__pasta __label__ravioli Do I need to cook the meat filling before stuffing ravioli?
+__label__tea What kind of tea do you boil for 45minutes?
+__label__bread __label__flatbread __label__griddle My flatbreads are still doughy inside after cooking?
+__label__eggs How to get rid of the smell and taste of egg whites? I throw up when i eat them
+__label__beef __label__ribs What cut of short rib do I have, and how do I prepare them?
+__label__tea __label__infusion Infusing orange into tea while avoiding bitterness
+__label__substitutions __label__bread How to convert between flours?
+__label__meat __label__meatballs Is using vinegar a viable way to reduce burning? How would it affect taste?
+__label__gas stove top griddles
+__label__vegan __label__pineapple How does pineapple affect umami when used in vegan-fish-sauce recipes?
+__label__cooking-time __label__temperature __label__sausages __label__thermometer Why are my (italian Whole foods) sausages still pink inside?
+__label__storage-lifetime __label__spices __label__ginger How long does ginger root last?
+__label__vegan __label__tofu __label__soymilk Filtered or non-filtered soymilk maker?
+__label__baking __label__cake __label__sponge-cake Correct way to join two halves of sponge cake?
+__label__baking __label__parchment Edible Non Toxic Pencil Alternative for Baking Stencils?
+__label__chicken __label__raw-meat Smelly chicken - is it unsafe?
+__label__eggs __label__ingredient-selection __label__budget-cooking small, medium or large eggs
+__label__cookware __label__pan __label__pot __label__dutch-oven sauce pan vs. dutch oven vs. stock pot - any difference besides size?
+__label__spices __label__spanish-cuisine __label__paella __label__saffron How much Saffron to use?
+__label__baking __label__chocolate __label__temperature __label__cookies __label__chips Why must I return the chilled chocolate cookie dough to room temperature before baking?
+__label__eggs After breakfast, egg plate clean up
+__label__substitutions __label__herbs What flavor (if any) do ti leaves impart? How about substitutes?
+__label__substitutions Can I use a fresh peach in place of preserves?
+__label__nutrient-composition __label__recipe-scaling __label__organization Nutritonal Facts of a recipe
+__label__thawing Putting half thawed joint of pork back in fridge to fully defrost?
+__label__food-safety __label__food-preservation __label__potatoes __label__dehydrating What to do with dehydrated potatoes tainted black?
+__label__substitutions __label__chili-peppers Can I use 3 jalapenos in place of 1 habanero?
+__label__flavor __label__food-science __label__herbs How do I cook with bay leaves?
+__label__potatoes How to make stiff mashed potatoes?
+__label__microwave __label__gnocchi Can I cook gnocchi with sauce in the microwave?
+__label__chocolate __label__melting-chocolate __label__tempering What does non-tempered couverture chocolate taste like?
+__label__indian-cuisine __label__paneer Why would rasagullas break while cooking?
+__label__egg-whites __label__lime How can I stop my eggs from cooking when I make lemon/lime curd?
+__label__food-safety __label__chocolate Food safe airbrushing
+__label__food-safety __label__eggs __label__hard-boiled-eggs Are these eggs safe to eat?
+__label__oven __label__grilling __label__outdoor-cooking How do I cook food in this square stone oven?
+__label__chili-peppers __label__chili What happens to the heat/capsaicin content of a pepper when you roast it?
+__label__garlic __label__temperature How hot does garlic need to get to lose its sharpness?
+__label__vegetables how to use CSA vegetables most efficiently
+__label__fruit How much juice is in 1 pear
+__label__cast-iron __label__pan __label__seasoning-pans how can I strip the surface from an iron alloy pan without harming the metal?
+__label__milk __label__chemistry __label__frosting Why do uncooked frostings that contain milk not need to be refrigerated?
+__label__utensils Need help identifying a kitchen tool, with a wooden handle, and a cylindrical cutter
+__label__substitutions Can I substitute teriyaki glaze and baste for teriyaki sauce?
+__label__baking __label__substitutions __label__butter __label__fats Can I always use butter instead of margarine when baking?
+__label__coffee Pouring technic (coffee) - the difference between clockwise and counterclockwise pour
+__label__baking __label__flour __label__bread baking bread with all-purpose flour
+__label__oil __label__temperature __label__onions __label__deep-frying What is the right temperature for deep-frying?
+__label__fish __label__milk __label__poaching What is the effect of poaching fish in milk?
+__label__beef __label__wine __label__stews Can I use mulled wine for deglazing a beef stew?
+__label__freezing __label__food-preservation __label__pastry Will these mince pies still be good and/or safe to consume?
+__label__dough __label__cookies How can I fix my dry crumbly cookie dough?
+__label__flavor __label__alcohol __label__storage Pros and cons of a brass hip flask
+__label__baking __label__pairing __label__espresso Flavour matching with espresso in baking
+__label__equipment How to reseason cast iron skillets using a fire
+__label__slow-cooking how early can I put food into a slow-cooker?
+__label__oven Passive cooker hood vs recirculation one
+__label__soup Accompaniment for salty soup?
+__label__vegetables __label__nutrient-composition The way to cook vegetables that keeps most of the nutrients
+__label__sauce __label__pasta How to avoid cooked pasta soaking up sauce when stored?
+__label__bread __label__dough __label__yeast Can I let my bread dough rise in the mixer bowl?
+__label__storage-method __label__sauce __label__meat Keeping left-over pan sauces longer?
+__label__eggs __label__sugar __label__egg-whites __label__mixing Beating Egg Whites with Granulated Sugar Added for Tapioca Pudding
+__label__food-safety ham broth left out overnight
+__label__ice-cream Why did my ice cream turn out like this?
+__label__drinks Making your own drink powders?
+__label__substitutions __label__conversion Does this type of frosting have a name?
+__label__sauce __label__tomatoes __label__spaghetti __label__reduction My tomato sauce is very watery
+__label__meat __label__frozen __label__thawing Can thawing meat too quickly affect its quality?
+__label__bread __label__pizza __label__italian-cuisine __label__crust How can I make a super-thin, yet strong, calzone crust?
+__label__baking __label__dough __label__corn How to make home made corn flakes?
+__label__herbs __label__middle-eastern-cuisine Difference between parsley and coriander(cilantro)?
+__label__food-identification __label__squash Help Identifying a pale green, spherical squash-y like vegetable
+__label__organization __label__kitchen __label__efficiency Timing cooking: methods / workflow
+__label__jam What is the shelf-life for Homemade Jams?
+__label__food-safety __label__cooking-time Do you need to cook a casserole with raw eggs before you freeze it?
+__label__beans How much do dry beans expand when soaked?
+__label__freezing Can I use a whole uncut green pepper that I accidentally froze or is it garbage?
+__label__temperature __label__milk __label__steaming Can you get sick from milk that's been heated at a high temperature?
+__label__baking __label__cookies Reducing sweetness of packaged cookie mix
+__label__soup __label__vegetarian __label__raw How can I fix a bitter raw leek soup?
+__label__meat __label__seasoning How long can I let a steak rest after seasoning and before cooking?
+__label__spices __label__indian-cuisine What do I do with this spice mix?
+__label__baking __label__cake __label__soda Cake sinks in the middle when baking. Only happens when I make a Coca-Cola Cake
+__label__rabbit How many people does one rabbit feed?
+__label__baking __label__caramelization __label__cheesecake How to get "burned" effect on cheesecake?
+__label__smoothie Smoothie amount decreases
+__label__bread Bread bowls verus loaf of bread
+__label__please-remove-this-tag __label__cheese __label__low-carb How do I make my cheese "crackers" less greasy?
+__label__baking __label__cake __label__honey How can I prevent my honey cake from splitting open?
+__label__sugar __label__cookies Can I use raw sugar to make cookies instead of granulated?
+__label__baking __label__yeast __label__bread How to convert a recipe calling for active dry yeast into rapid rise yeast?
+__label__bread Can avocado act as an egg replacement for vegan bread
+__label__equipment __label__knives What is this double-serrated knife good for?
+__label__food-safety __label__rice Rice with worm and possibly their eggs
+__label__dough __label__pizza How to judge the quality of pizza dough?
+__label__oven __label__fish Cooking temperature and time adjustments for cooking several whole fish in a conventional oven?
+__label__cookies What could possibly happen if I overmix the butter and sugar in a cookie recipe?
+__label__pork is it safe to put frozen pork overnight in the microwave light without turning it on
+__label__baking __label__bread Why is milk powder used in bread machine recipes?
+__label__pasta __label__spaghetti Truly long spaghetti
+__label__spices What sour spices are there?
+__label__bread __label__dough __label__vegan __label__batter How can I modify corn bread recipes to accomodate a wet filling?
+__label__substitutions can I substitute greek yogurt for sour cream for a topping for baked cheesecake?
+__label__food-safety __label__storage-method Storing cooked rice in fridge
+__label__oven __label__roasting __label__corn Roasting corn in the oven
+__label__substitutions __label__milk Can non-dairy creamer be used to make desserts like rice pudding?
+__label__milk __label__yogurt Can soured raw milk be used to make yogurt?
+__label__substitutions __label__potatoes How do Blue potatoes differ from Yukon Gold potatoes?
+__label__substitutions __label__salt Is low sodium salt really effective?
+__label__bread __label__pizza __label__fermentation __label__sourdough-starter Will my results differ when using a sourdough starter vs poolish for pizza dough?
+__label__food-science __label__milk __label__soy Why did my soy (Silk) milk suddenly become as viscous as rubber cement?
+__label__equipment __label__wok __label__gas Can I take off the gas deflector on my stove for cooking with a wok?
+__label__baking __label__oven __label__temperature __label__cooking-time How to decide the baking temperature when recipe doesn't mention it?
+__label__baker-percentage What is the ratio of molassas and pineapple juice for a non-alcoholic rum substitute?
+__label__knives What knife should I take if traveling?
+__label__bread Trying to adjust a recipe to recreate Peruvian "Tres Puntas" rolls
+__label__cheese-making What is the difference (practically) between different types of rennet?
+__label__baking __label__cake __label__cookies __label__coloring How to avoid using artificial food coloring in cookie and cake decorating
+__label__bread __label__dough Lightening Bread
+__label__food-safety __label__oven __label__mustard Can I sterilize homemade mustard jars in the oven?
+__label__wok __label__equipment Is it ok to use a metal turner in a wok?
+__label__seafood __label__shellfish __label__food-identification __label__romanian-cuisine __label__balkan-cuisine Identify this seafood from the Black Sea known in Romanian as "rapane"?
+__label__baking __label__frying __label__bacon How to make perfect crispy bacon strips?
+__label__language __label__bacon __label__heat __label__vocabulary Is there standard terminology for the doneness of bacon strips?
+__label__tea Why does unsweetened tea get colder, faster than sweet tea?
+__label__custard Expiry date of custard powder?
+__label__oil __label__boiling __label__lemon __label__extracts Making lemon oil from vodka
+__label__equipment __label__coffee Lifetime of French press filter
+__label__peeling __label__sweet-potatoes How deeply should I peel sweet potatoes?
+__label__cheese What are the preferred uses for different sharpness of cheddar cheese?
+__label__equipment __label__utensils Very unusual kitchen tools
+__label__food-safety Silverfish in a restaurant
+__label__baking-soda __label__leavening Can I use lye as a leavener instead of baking soda?
+__label__sauce __label__food-science __label__color How can I make a mayo/ketchup-based sauce come out with a consistent color?
+__label__barbecue __label__asparagus How long to cook asparagus on a BBQ?
+__label__substitutions __label__vegan __label__sausages __label__barbecue What changes should I make to accomodate vegan naked fatties?
+__label__spices __label__ground-beef __label__chili Is it a good idea to use cardamom in chili?
+__label__bread __label__sourdough What's the difference between tangzhong and levain?
+__label__bread __label__yeast __label__chemistry When you try to "catch" yeast from the air: is it normal for the flour and water to split
+__label__storage-lifetime __label__tortilla __label__flour-tortilla tortilla recipe with longest shelf life
+__label__baking __label__pizza Stop pizza toppings sliding off sauce
+__label__salt __label__shopping __label__kosher-salt Where can I buy kosher salt in London?
+__label__herbs What can I do with verbena leaves?
+__label__beans How to reduce gas from eating beans?
+__label__asian-cuisine __label__curry __label__shrimp What variety of shrimp paste should I use for Brazilian Vatapa?
+__label__eggs __label__hard-boiled-eggs What's the right way to hard boil eggs?
+__label__chicken __label__indian-cuisine __label__curry chicken texture after precooking starts to break
+__label__bread __label__vegetarian Is it possible to make vegetarian 'prawn' toast?
+__label__storage-method __label__freezing How to store cut fruits & vegetables for days?
+__label__beans __label__timing Can I cook two types of dried beans simultaneously?
+__label__beans __label__pressure-cooker Split beans in a pressure cooker?
+__label__pressure-cooker Is aluminum pressure cooker reactive? Will it give "off" flavors?
+__label__chocolate __label__cocoa Chocolate: difference between "Cocoa Mass" and "Cacao"?
+__label__equipment __label__cleaning Are recirculation extractor hoods good?
+__label__food-safety __label__slow-cooking Chicken stock in slow cooker - danger zone?
+__label__rice __label__steaming Why boil rice first when steaming rice?
+__label__cooking-time __label__pressure-cooker How can I tell if the food inside a pressure cooker is done cooking?
+__label__food-safety Is there anything wrong with rubbing a stick of butter on the pan?
+__label__equipment __label__sous-vide Using sous-vide oven to make stock or soup (no bags)
+__label__ice-cream __label__molecular-gastronomy __label__emulsion __label__additives Why mono and diglycerides instead of xanthan?
+__label__food-safety __label__pickling Can I get botulism by using 2 cups vinegar to 8 cups water when canning pickles - as most recipes require 1:1 ratio of vinegar to water?
+__label__baking __label__substitutions __label__butter __label__cookies How to adjust the ingredients when recipe asks for salted peanuts and unsalted butter while I have the opposite?
+__label__culinary-uses __label__reheating __label__meatballs What is the best way to re-serve day old meat balls?
+__label__grilling __label__sausages Slicing bratwurst for quicker, more even grilling
+__label__food-safety __label__storage-lifetime __label__storage __label__syrup How long can I keep shrub syrup in the refrigerator
+__label__tea Can anyone identify this type of green tea?
+__label__food-safety __label__storage-method __label__salad-dressing How should I store homemade salad dressing?
+__label__coffee __label__espresso Making espresso correctly - rerunning hot water several times through an espresso puck to fill an Americano
+__label__meat __label__hamburgers __label__learning How to cook meat?
+__label__fruit __label__oven __label__microwave __label__drying __label__convection Can a convection microwave be used to dry fruit
+__label__oil __label__wok What is the best oil to use when cooking in a wok?
+__label__food-safety __label__defrosting What are the acceptable methods to thaw food items?
+__label__food-safety Is it ok to store open cans in the fridge?
+__label__cleaning __label__cookware How can I cook with worcestershire sauce in a pan without leaving an impossible to remove char on the pan?
+__label__oil __label__pan Will a grill pan reduce oil splatter when pan-frying steaks?
+__label__food-safety Safety with vacuum packed food
+__label__chicken __label__soup Will cooking chicken longer in soup make it less tough and stringy?
+__label__meat brined turkey and fat
+__label__slow-cooking __label__braising __label__veal Flank postmortem (how I was outflanked)
+__label__spices Why did my Red Chilli Powder Turned Brown?
+__label__baking __label__equipment __label__cookies How to get cheap cookie cutters?
+__label__food-safety Refreezing bacon
+__label__flavor __label__herbs __label__seasoning __label__oregano __label__mortar Is it a good idea to grind dried oregano with a mortar and pestle?
+__label__food-safety Safety of white canned beans
+__label__baking __label__flour __label__pan How to butter and flour the chimney of a bundt form
+__label__refrigerator __label__tomatoes __label__storage Why did the skin of my tomatoes fracture after a few days in a refrigerator?
+__label__milk __label__cocoa How can I prevent the cocoa in my hot chocolate from solidifying over time?
+__label__oil __label__grilling __label__steak Should I use oil to stop the steaks from sticking to the grill?
+__label__apples __label__chutney What are the basic ratios for making a chutney
+__label__substitutions __label__salt __label__please-remove-this-tag __label__food-science Substitute for Salt
+__label__knife-skills __label__coconut How do you open a coconut?
+__label__equipment __label__cleaning __label__pan Toaster Oven pan Without The Toaster Oven
+__label__freezing __label__ice-cream How much brine do I need to freeze icecream?
+__label__chicken-breast cooked frozen chicken breasts
+__label__dough Too Soft Cookie Dough
+__label__wok __label__induction Wok comparison for induction
+__label__mexican-cuisine __label__tortilla How can I make a Taco Shell?
+__label__baking __label__fruit What fruits keep their sweetness when baking?
+__label__food-safety __label__flour Should flour be thrown out past its expiry date?
+__label__substitutions __label__fats __label__bacon Substituting with Bacon and Bacon Fat in a Recipe
+__label__salt __label__seasoning __label__broth __label__pepper To salt or not salt broth for use in recipes?
+__label__sauteing Evenly sauteing green beans
+__label__storage-lifetime __label__apples __label__storage Why do apples, when placed in a cool environment for extended periods of time, form a 'waxy' layer on their skins
+__label__baking __label__cast-iron Can you bake cornbread in enameled cast iron?
+__label__chicken __label__meat __label__butchering What is the easiest way to remove chicken leg/drumstick tendons?
+__label__rice __label__asian-cuisine __label__sushi __label__vinegar __label__japanese-cuisine Black Rice Vinegar for Sushi
+__label__baking __label__cheese __label__dough __label__pizza __label__italian-cuisine How can I prevent the cheese on my homemade pizza from hardening too soon?
+__label__yeast How does yeast feed on the water
+__label__food-identification Canadian meat/fat "candy"
+__label__vegetables __label__soaking How briny should the water be when soaking broccoli to remove bugs?
+__label__eggs __label__vegetables Proper preparation of veggies for an egg scramble
+__label__beef __label__cooking-time __label__slow-cooking Will cooking meat in a slow cooker longer than the recipe calls for have any adverse effects?
+__label__pork __label__japanese-cuisine I am trying to cook Buta no Kakuni or Japanese pork belly but it's tough
+__label__substitutions __label__equipment __label__soup What can be used instead of cheesecloth?
+__label__storage-method __label__coffee Good ways to store coffee?
+__label__fruit __label__pie __label__blueberries __label__cornstarch How can I keep my blueberry pie firm without the flavor of corn starch?
+__label__chicken Why does freshly slaughtered chicken needs to be cooled down before cooking?
+__label__food-safety __label__utensils __label__cleaning Should you store cutlery upside down?
+__label__cake __label__batter __label__cupcakes How do I make cake batter from scratch without butter?
+__label__baking __label__equipment What kind of nonstick coating is this?
+__label__tea What difference does oxygen content of tea water make?
+__label__melon How much of toxins really penetrate melons?
+__label__chicken __label__cutting How do I cut out the vein/tendon from a chicken breast tendorloin?
+__label__equipment __label__tomatoes How can I cut lots of cherry tomatoes in half quickly and evenly?
+__label__coffee __label__espresso How do espresso machines hold pressure at all?
+__label__flavor __label__asian-cuisine What is the black, slightly sweet, flavour in some Asian food?
+__label__chocolate __label__melting-chocolate Are commercial chocolate almonds coated with something that prevents melting?
+__label__bacon __label__thickening __label__pairing __label__spicy-hot __label__sour-cream What kind of cooling garnish is like ice cream but doesn't melt?
+__label__baking Can I use dried dates instead of fresh ones for baking a cake? The dates should build the base of the cake
+__label__equipment __label__grinding __label__mortar __label__pestle Does a granite pestel need to be re-grooved?
+__label__grilling __label__temperature __label__heat __label__charcoal How hot do charcoal grills get?
+__label__measurements Is it ever more accurate to measure by volume rather than by weight?
+__label__flavor __label__ice-cream __label__sorbet __label__cherries What to do with too-bitter sorbet?
+__label__potatoes __label__roast Why aren't my potatoes cooked?
+__label__food-safety __label__fruit __label__color __label__oranges Can a blood orange be half bloody?
+__label__steak __label__kosher-salt Kosher salt vs. Table salt for rib eye steak
+__label__bread Should I preheat my bread baking containers?
+__label__temperature __label__water Is there a difference in tepid water and lukewarm water?
+__label__butter What does butter do in cooking?
+__label__substitutions __label__vegetarian Substitute for chicken broth in tomato soup
+__label__braising __label__high-altitude Would a tagine be better for high altitude braising?
+__label__coffee __label__ingredient-selection Domestic, fresh taste-alike for an Italian coffee
+__label__potatoes Will potatoes discolor if I pre-make scalloped potatoes?
+__label__chocolate __label__milk __label__yogurt Is it possible to make homemade yogurt using chocolate milk?
+__label__fish What can I do to make sure plaice filet doesn't get dry?
+__label__pasta __label__flour Using whole wheat flour instead of all purpose and semolina
+__label__whipped-cream __label__whipper Does a liquid need to cool under pressure in a whipped cream charger prior to serving or just be cold?
+__label__knives Do you hone paring knives?
+__label__eggs __label__storage-lifetime Why do eggs have expiry dates?
+__label__sushi __label__japanese-cuisine Mushy sushi surimi texture?
+__label__dough Impossible to Roll Croissant Dough
+__label__pasta __label__texture __label__salad Why is the texture of the pasta in a store-bought pasta salad different to the texture of pasta I've cooked at home?
+__label__cheese __label__food-science __label__cheese-making __label__melting What determines how well cheese melts
+__label__food-safety __label__cleaning What is the preferred method for sanitizing the kitchen?
+__label__food-safety __label__carrots __label__pineapple What makes carrot bits turn green in carrot pineapple bread? (And are they safe?)
+__label__baking __label__substitutions __label__bread What combination of flours can be used as a substitution to a bread flour?
+__label__bread __label__indian-cuisine How do I make soft chapattis?
+__label__food-safety __label__raw-meat __label__utensils Is it safe to use the same cooking utensils for raw and cooked meat?
+__label__sausages __label__chorizo How to cook sausage?
+__label__nuts __label__chestnuts __label__puree Can I make my own chestnut puree?
+__label__storage __label__ham Is ham safe to eat if it was at room temperature but is recooked?
+__label__substitutions __label__spices __label__soup Using anise seed instead of star anise
+__label__sauce __label__cooking-time Can you estimate how long it takes to reduce a liquid?
+__label__food-safety __label__vegetables __label__beets How can I tell whether beetroot is still edible?
+__label__baking __label__eggs __label__cake __label__cookies Why do some ingredients in baking recipes need to be at room temperature?
+__label__aluminum-cookware Is it safe to use calphalon when the aanondized coating begins to wear?
+__label__chicken __label__frying __label__restaurant-mimicry __label__chicken-breast How to make extra crispy and crunchy breading like KFC?
+__label__cheese How can I stop my cheese seizing?
+__label__cookies Date cookies are thin and spread out
+__label__food-safety __label__teflon Is it safe to cook in a clean Teflon pot if the inside bottom has blistered and peeled from exposure to high heat?
+__label__substitutions __label__cookware How do I make buckwheat pancakes without non-stick cookware?
+__label__baking __label__cake __label__apples Coating fruit before adding to a cake
+__label__meringue __label__ratio How much acid to use for stabilizing meringue?
+__label__baking __label__conversion __label__muffins How to convert a muffin/cupcake recipe to a large muffin recipe
+__label__chicken __label__deep-frying Can I make fried chicken without a deep frier?
+__label__slow-cooking __label__roast-beef __label__pot-roast How to cook a pot roast without it tasting like vegetables
+__label__bread Does the direction matter in the Stretch and Fold method?
+__label__chicken __label__roasting __label__flavor __label__apples Apple Cider is too sweet for gravy
+__label__cast-iron __label__seasoning-pans What's the best way to season a cast iron skillet?
+__label__baking What does it mean to "fold in" an ingredient into a mix?
+__label__food-safety __label__eggs How long can I keep eggs past the sell by date and still eat them?
+__label__substitutions __label__food-science __label__thickening __label__jam __label__pectin What alternative gelling agents can I use for jam and marmalade?
+__label__sauce __label__food-science __label__thickening What is bearnaise sauce thickened by?
+__label__beef How are Thin Slice Beef rolls for hot-pot prepared in restaurants?
+__label__sauce __label__food-identification "Old wild west" secret sauce
+__label__equipment roaster oven temperature is off
+__label__chicken Are chicken gizzards okay to eat if still pink inside?
+__label__brownies __label__history Why are these called "no bake" brownies?
+__label__pork __label__filtering Filtering home-rendered lard
+__label__ingredient-selection __label__vanilla How to compare the strength of commercial natural vanilla extracts?
+__label__equipment Does any blender also do up-down shaking movement?
+__label__cookware Durability of Hard Andonised metal (Aluminum)
+__label__oven __label__microwave __label__convection Replacing toaster oven with convection oven or convection microwave?
+__label__food-safety __label__temperature __label__thermometer What does a meat thermometer display if the meat temperature is uneven?
+__label__baking __label__roasting __label__slow-cooking __label__language __label__crockpot What is the difference between roasting, baking, and broasting?
+__label__food-safety travelling with cooked chickens
+__label__beef __label__roast __label__roast-beef How to cook eye of round roast?
+__label__bread __label__hamburgers What are the best burger buns available in the UK?
+__label__blender __label__juicing __label__food-processing Blender vs food processor vs juicer
+__label__refrigerator __label__juice __label__vitamins How long do vitamins last in multivitamin juice?
+__label__shopping __label__fresh __label__lettuce Is the lettuce inside the wilted outer leaves still good?
+__label__flavor __label__sugar __label__curry What's the point of using sugar in savory dishes?
+__label__fish __label__sushi Would pre-sliced, pre-packaged fish be considered sushi grade if I freeze it for at least a week before consumption?
+__label__sauce __label__cheese Why does my cheese sauce taste like flour/paste?
+__label__cookbook Preview for "The New Best Recipe"? Suitability for vegetarians?
+__label__fire Did I just almost start an oil fire?
+__label__soup I saved the geletinious material from roasting the turkey. Is this appropriate for use in turkey soup?
+__label__wok __label__chinese-cuisine __label__language What is wok hai and how do I get it in my food?
+__label__microwave __label__lemon __label__lemon-juice __label__juicing Will microwaving lemons make them easier or more efficient to juice?
+__label__baking __label__chicken __label__roasting __label__chicken-breast How do I bake chicken breast?
+__label__sauce __label__pasta __label__tomatoes __label__italian-cuisine In a tomato sauce recipe, how can I cut the acidity?
+__label__substitutions __label__vanilla Vanilla extract vs. Vanilla powder
+__label__meat __label__cooking-time Can I pause halfway through coking boneless shoulder?
+__label__salt __label__pickling Pickles are really salty (lactic fermenation)
+__label__please-remove-this-tag __label__sauce __label__cranberries What is the cranberries/sugar ratio used in the American cranberry sauce?
+__label__food-safety stagnant water in my tumble or 1 gallon container, how many days until it becomes contaminated or undrinkable?
+__label__substitutions Can I substitute red onion for green onion
+__label__clotted-cream What do you get when you reheat and cool clotted cream?
+__label__chocolate __label__candy __label__storage Storage of chocolates/candies in process (i.e. prior to cutting, dipping, etc)?
+__label__cooking-time __label__breakfast __label__oats Fast way to cook steel-cut oats when no microwave is available
+__label__soup __label__lentils Best way to cook lentils?
+__label__chicken __label__sous-vide __label__chicken-breast Can I cook Foster Farms chicken sous-vide in its original plastic?
+__label__chicken __label__stock __label__duck Can I use duck feet to make duck stock
+__label__chinese-cuisine __label__spicy-hot What is the ingredient that gives a sichuan (szechuan) hot pot the mouth numbing experience?
+__label__pairing __label__ham Honey-glazed gammon (ham) - What to serve with it?
+__label__salt __label__steak Pink salt for cooking steak
+__label__sauce __label__stock __label__broth __label__chicken-stock How close are store bought broths and stocks to the real thing?
+__label__pan Machine washed my cake pans
+__label__cheese __label__milk __label__cream __label__mozzarella Mozzarella. Obtaining buffalo milk from whole milk and heavy cream
+__label__baking __label__substitutions __label__eggs __label__milk __label__muffins How do I substitute skim milk for dry milk in a muffin recipe?
+__label__onions __label__caramelization Is butter required to caramelize onions?
+__label__food-safety __label__chicken __label__soy __label__camping Soy chicken on a backpacking trip
+__label__deep-frying __label__turkey Oil temp goes up when turkey breast is added - why?
+__label__storage-method __label__pumpkin Pumpkin rotting, need to process it now - any ideas with a long shelf life?
+__label__raw __label__cocoa Can I use unsweetened baking cocoa raw, or do products with it in it need to be cooked?
+__label__bread Lemon sweet yeast bread
+__label__storage-method __label__storage-lifetime __label__brownies Good ways to store brownies?
+__label__food-science __label__popcorn Why does microwave popcorn burn?
+__label__food-safety Food Poisoning Prevention
+__label__spices __label__nuts __label__coconut __label__peanuts __label__toasting Dry roasting nuts and spices beforehand
+__label__cheese 40lb.round of opened grana padano cheese
+__label__baking Why would a recipe be sensitive to the brand of cream cheese I bought?
+__label__fruit __label__ripe __label__ingredient-selection How do I tell if a cantaloupe is ripe?
+__label__candy Edible straws that look like plastic ones
+__label__carrots How to shred carrots without them getting mushy
+__label__baking __label__fruit __label__cake How to keep the fruit on an upside-down cake?
+__label__freezing Can you freeze Spring Roll Wraps?
+__label__coffee __label__measurements What is the definition of a cup of coffee
+__label__rice Cooking and storing rice for a whole week
+__label__greens __label__asian-cuisine Tan ho, a salad green?
+__label__storage-lifetime __label__refrigerator __label__bacon How long will grease (from bacon or roast) keep in the fridge?
+__label__cheese-making Halloumi ended up too soft
+__label__pasta How much water does pasta absorb when it is cooked?
+__label__butter __label__melting Is butter ever the same after having been melted?
+__label__soup __label__broth When making chicken soup, should I reuse the vegetables I used to make the broth?
+__label__cheese-making Cheese from UHT Milk
+__label__coffee __label__chemistry By what reactions do moisture and light steal away my coffee's freshness?
+__label__baking __label__food-safety __label__storage-method __label__storage-lifetime __label__cake Can I leave a cake / cupcakes frosted with cream cheese frosting out on the counter?
+__label__equipment __label__kitchen Sharing a kitchen space with other companies
+__label__whipped-cream How fast can one whip cream?
+__label__salt __label__fermentation How much salt do I use to ferment 1 quart of cabbage?
+__label__soup __label__mushrooms How do I get rid the yellow layer of oil that forms in my cream of mushroom soup?
+__label__butter __label__buttermilk Buttermilk + Butter =?
+__label__substitutions __label__texture __label__smoothie How can I thicken my smoothie without frozen ingredients?
+__label__meat What is freezer burn?
+__label__chicken Why would chicken have significant regional differences in flavor?
+__label__candy __label__melting-sugar __label__smoke-flavor Blown sugar globe with smoke enclosed inside - is it a plausible candy to make?
+__label__tea Loose-leaf tea: specifics of re-steeping multiple times?
+__label__baking __label__equipment __label__oven __label__dutch-oven Dutch oven instead of oven?
+__label__vegetables Can Kale be hot like horseradish?
+__label__coffee __label__espresso How to identify a good espresso?
+__label__coffee __label__cinnamon Why does cinnamon in the grounds make older coffee taste better?
+__label__reheating Is it acceptable to reheat frozen food?
+__label__fish __label__milk __label__poaching Would using milk powder better than fresh milk when poaching?
+__label__charcuterie __label__corned-beef Corned Beef, Cabbage vs. Reuben - Multipurpose?
+__label__oats What's the fastest way to cook oatmeal porridge?
+__label__dessert __label__microwave __label__frozen Cook a frozen cobbler in a microwave instead of oven
+__label__flavor __label__broccoli How to reduce the bitter taste in broccoli rabe
+__label__baking __label__eggs __label__water What's the purpose of adding water to an egg wash?
+__label__nuts __label__allergy __label__peanuts Is a peanut a nut?
+__label__vinegar __label__pickling __label__mold How to deal with mold on pickle?
+__label__equipment Thinning copper-bottomed staninless pot
+__label__bread __label__milk __label__sourdough __label__fermentation Milk in fermented bread dough
+__label__food-safety __label__botulism How can I reassure myself a given food is not a botulism risk?
+__label__substitutions __label__jam Can I substitute marmalade for peach preserves?
+__label__beef __label__coloring __label__ground-beef __label__color Why are drippings from restaraunt ground beef colored orange?
+__label__frying __label__flour Tricks to mask the burnt flour taste
+__label__knives __label__bacon __label__knife-skills What knife and cutting technique should I use for cubing bacon?
+__label__mexican-cuisine __label__avocados Trick to keeping guacamole from turning brown
+__label__equipment __label__bread How to bake low carb bread in a Zojirushi bread machine model #BBCC-x20
+__label__boiling __label__water __label__pot My water is boiling too fast
+__label__dough __label__crust What does it mean when dough is referred to as "short"?
+__label__baking __label__cookies __label__mixing How does your hand/stand mixer's speed effect the texture of your cookies?
+__label__equipment __label__pasta How can I repair a pasta maker that was washed with water and has started to rust?
+__label__grilling __label__meat __label__hamburgers Why do burgers sometimes fall apart on the grill?
+__label__flavor __label__dough __label__refrigerator Do beignets have to sit overnight?
+__label__rice __label__rice-cooker Why does my rice smell?
+__label__chicken __label__roasting Conflicting instructions from different sources: roasting chicken
+__label__bread __label__storage-method Bread going stale in enamel breadbasket
+__label__chocolate __label__alcohol __label__tempering Can you add alcohol to chocolate being tempered?
+__label__storage-lifetime __label__refrigerator __label__tuna How long will tuna salad stay good refrigerated?
+__label__pasta __label__noodles Can I cook pasta without heating it up... ever?
+__label__pizza How to cook a thin crispy pizza on a pizza stone
+__label__nuts __label__dehydrating __label__nut-butters What is the most cost effective way at home to dehydrate nuts?
+__label__candy __label__fudge How do you add ingredients to fudge without stiring it?
+__label__food-safety __label__chicken __label__cast-iron Cast Iron to Fridge?
+__label__sauce __label__beef __label__ground-beef Cooking minced/ground beef with a jar of sauce
+__label__vegetables __label__lentils __label__greens What would give Swiss Chard a gritty texture?
+__label__meat __label__rice __label__indian-cuisine How do I avoid dry meat and burned masala and rice in biryana?
+__label__yogurt Making yogurt I put the yogurt in before heating the milk
+__label__sugar __label__granola Making a better caramel for granola bar
+__label__mexican-cuisine __label__beans __label__budget-cooking Should I rinse canned beans before using them?
+__label__stock __label__shrimp Can I reduce a prawn/shrimp broth
+__label__chicken __label__pasta __label__spices __label__italian-cuisine __label__seasoning What are some seasonings that can spice up a bland frozen chicken alfredo?
+__label__freezing Can you freeze jalapenos?
+__label__juice What determines if a juice is clear or opaque?
+__label__equipment __label__japanese-cuisine How do I make wagashi with kashigata?
+__label__chocolate __label__salt How to separate salt from chocolate?
+__label__cheese Crumbly cheddar
+__label__cookware __label__stove __label__safety __label__stoneware Did I ruin my stoneware dutch oven by heating it on a gas stove?
+__label__baking __label__cookies __label__pizza-stone Making cookies on a pizza stone
+__label__cookware __label__cast-iron Can I use a Dutch oven for cooking sauces?
+__label__cheese __label__pasta Is it okay to prepare "Cannelloni with Spinach" recipe and put it in fridge BEFORE baking?
+__label__deep-frying __label__french-fries Is there a practical way to make belgian fries for four at home?
+__label__soup Fix a bad vegetable soup
+__label__butter __label__ice-cream __label__emulsion Making ice cream and fats don't dissolve in base
+__label__substitutions __label__gluten-free __label__breadcrumbs What would be an appropriate gluten-free substitute for breadcrumbs?
+__label__bread __label__sandwich Toasting sandwich bread before packing a lunch - when is it appropriate?
+__label__storage-method __label__cheese How should block cheese be stored for maximum shelf life?
+__label__texture __label__emulsion __label__dip How could buffalo chicken dip be stabilized?
+__label__storage __label__fresh Fresh Herb Storage
+__label__frying __label__oil How do you figure out how much oil to use for pan frying?
+__label__baking __label__eggs __label__cake How to unbake a cake?
+__label__cooking-time __label__sous-vide __label__fats Rendering fat by sous vide
+__label__rice How to make fluffy rice and which type of type of rice to use?
+__label__freezing __label__mexican-cuisine __label__tamales When do I freeze tamales?
+__label__roasting __label__turkey Roasting multiple turkeys (cooking time estimation)
+__label__sourdough __label__rye Rye flour in starter
+__label__onions __label__chili Making chili less oniony
+__label__baking __label__bread __label__yeast __label__gluten-free How do I make brown rice bread rise without any wheat flour?
+__label__temperature __label__tea __label__water __label__chai Does Boiling Water, Instead of Warm Water, Hurt the Flavor of Tea/Hot Chocolate
+__label__substitutions __label__steak __label__honey Parmesan Crusted Steak - Replace olive oil with honey
+__label__eggs __label__meringue Making my meringues form peaks
+__label__lemon-juice Why is my lemon juice fizzing and smelling like yeast?
+__label__coffee __label__grinding How important is fresh ground coffee vs a good coffee grinder?
+__label__fish Preparation of gravlax versus lox
+__label__tomatoes __label__thickening __label__salsa How do I make homemade Salsa thicker?
+__label__eggs Buy Omega 3 eggs in bulk?
+__label__bread __label__kneading When should I knead with oil and when with flour?
+__label__baking __label__equipment __label__stove Why does my Wonder Pot now bake unevenly?
+__label__baking __label__bread __label__oil __label__olive-oil Should I use olive oil in in baking?
+__label__temperature __label__steak Should you wait certain amount of time after steak reaches 170 degrees internal temperature
+__label__chocolate How do you make a chocolate chip cookie where the chips remain gooey after baked and cooled?
+__label__utensils What is the best way to build a kitchen knife collection?
+__label__food-safety __label__water How long can a pitcher of tap water be left out, and still be drinkable?
+__label__cleaning How can I clean white burn marks in the center of my glass top burner?
+__label__substitutions __label__brining __label__corned-beef Is there any substitute for saltpeter / sodium nitrate in corned beef brine?
+__label__legumes __label__snacks What's the difference between dried split peas and dried snack peas such as wasabi peas?
+__label__potatoes __label__texture How to get very smooth, flat cooked potato pieces
+__label__alcohol __label__food-identification Tzaziki: the drink, not the sauce
+__label__chicken __label__seasoning Roasted chicken ends up only salty outside
+__label__dough __label__consistency Minimum liquid to make solid dough
+__label__baking __label__equipment __label__oven __label__gas Gas or electric for rack oven in a bakery?
+__label__emulsion Looking for a tasteless emulsifier, or a method to mix oily substances into water
+__label__lamb Is my Frozen solid Lamb ok to roast I am asking for food safety reasons
+__label__food-safety __label__freezing __label__beer How to thaw a bottle of beer that got frozen accidentally without exploding the bottle
+__label__equipment __label__coffee __label__measurements __label__drinks Should I get the small or large size of a pour over brew device when I'm only brewing one cup? (eg. Hario V60, Woodneck)
+__label__equipment __label__coffee __label__beer __label__whipped-cream __label__soda Are N2O and CO2 chargers interchangeable for culinary purposes?
+__label__baking __label__dough __label__sugar __label__cookies Forgot sugar in sugar cookies
+__label__candy Softening nougat candy
+__label__mexican-cuisine __label__salad __label__presentation How should I layer the ingredients in a taco salad?
+__label__chocolate __label__bananas How can I make melted chocolate set faster?
+__label__oven __label__roasting __label__brie How to adjust an oven to accommodate two items with different cook times and temperatures?
+__label__grilling __label__kebab Sirloin Tip Kebab cooking times
+__label__equipment __label__cleaning __label__smell Odour removing metallic soap: what is it and how does it work?
+__label__brining __label__goose Should I brine a goose?
+__label__fruit __label__canning __label__peaches How to get the pits out of clingstone peaches for peach butter
+__label__coffee __label__espresso Why is my espresso salty?
+__label__coffee What is it that a filter Coffee maker can do that we can't do in a better or equivalent way at home?
+__label__culinary-uses __label__vegetables Uses for Radish and Turnip greens?
+__label__gluten-free Vegetarian gluten free savouries
+__label__honey __label__muffins __label__blueberries Why are the blueberries in my blueberry muffins not melting?
+__label__storage-method __label__freezing __label__juice Does it harm juice if I store it in sub-zero temperatures?
+__label__food-safety __label__chicken Is a partially frozen chicken safe if not immediately cooked at the proper temperature?
+__label__equipment __label__wok __label__electric-stoves Should I bother trying to use a traditional wok on an electric stove?
+__label__food-science __label__steaming __label__broccoli Why does broccoli turn brown when steaming?
+__label__spoilage How long do raw chestnuts keep?
+__label__substitutions __label__sugar __label__pastry Is Dextrose the same as Atomized Glucose Powder?
+__label__food-safety __label__boiling Is it safe to use plastic wrap in boiling water?
+__label__vegetables __label__frozen Using older frozen vegetables
+__label__bread __label__sourdough __label__mold Is sourdough more resistant to mold than other breads?
+__label__dough __label__pizza __label__proofing How do I prevent crust formation when proofing pizza dough?
+__label__culinary-uses __label__nuts What can I do with Hazelnuts and Walnuts?
+__label__baking __label__cake How can I harden the centre of a partly cooked christmas cake
+__label__shopping __label__cookware How to buy a molcajete and/or paellera
+__label__storage __label__mint __label__food-transport candied mints storage and transporting long distance
+__label__baking __label__macarons How to evenly bake a daquoise disk?
+__label__baking __label__pork __label__roast How much longer do I cook the roast?
+__label__cast-iron what is the best oil/fat to use to season a cast iron skillet
+__label__sous-vide __label__pot-roast Sous Vide Roast: What should I do with the excess liquid in the bag?
+__label__lettuce Why is lettuce rarely cooked?
+__label__stock Should I roast meat/bones before making stock out of it?
+__label__food-safety __label__fish __label__sushi __label__raw Is it safe to eat raw fish?
+__label__cookware __label__cast-iron What's the use of the hexagon bottom in braisers?
+__label__butter __label__raw __label__peanuts How do I make raw peanut butter creamy?
+__label__baking __label__cookies Why do my snickerdoodles always come out flat?
+__label__baking __label__cookies Cookies rise nicely in the oven, but then collapse
+__label__bread How can I translate my bread machine recipe to using a stand mixer instead?
+__label__chicken __label__temperature How do I accurately take a chicken thigh's temperature?
+__label__frying-pan Burning crumpet bottoms
+__label__substitutions __label__french-cuisine __label__pepper Au poivre without green pepper, is it good?
+__label__food-safety __label__defrosting Why can food be left out to cool (140F to 40F in < 6h) but not to defrost?
+__label__pasta What is the correct water to pasta ratio?
+__label__substitutions __label__mushrooms Mushroom substitutes
+__label__cake What is the difference between Devil's Food and Chocolate cake?
+__label__storage-method __label__fruit __label__fresh __label__peaches Storing fresh peaches for a long time
+__label__baking __label__bread __label__yeast __label__rising How does halving a bread recipe impact rising time?
+__label__cheese __label__milk __label__cheese-making __label__dairy __label__mozzarella How to make mozzarella with rennet?
+__label__shopping __label__ingredient-selection __label__salad __label__fresh Salad ingredients: how to pick them at the market?
+__label__cheese __label__language Goat cheese royale definition?
+__label__salt __label__soup Soup is too salty!
+__label__food-safety Can you cook chicken breasts frozen on the George Foreman Grill?
+__label__chocolate __label__baking __label__cake __label__chili-peppers How do I incorporate chiles into a chocolate cake recipe?
+__label__food-safety __label__bread __label__food-science __label__sourdough Why isn't a Sourdough starter unsanitary?
+__label__substitutions __label__kosher Kosher alternative for blood sausage
+__label__meat __label__oil __label__spices __label__fish Add spice then oil, or oil then spice?
+__label__potatoes __label__boiling best way to infuse flavour into boiled potatoes
+__label__fruit __label__coconut __label__fresh What are the principal components of coconut taste, and how do they differ between fresh and stale coconuts?
+__label__microwave Why does a microwave rotate the food being cooked? And is there ever a time when it shouldn't rotate?
+__label__food-safety __label__cheese Are the white crystals on my American Cheese safe to eat?
+__label__tofu Better ways to drain tofu in a hurry?
+__label__substitutions __label__cupcakes Is there a basic, universal recipe for cupcakes?
+__label__vegetables __label__roasting How can you prepare turnips to make them less bitter?
+__label__storage __label__honey Honey changing into unusable, hardened clump
+__label__tea __label__filtering Black tea develops cloudy dregs; how to avoid?
+__label__smoking Removing the flavour of smoke
+__label__dough __label__oven __label__pizza __label__thickening __label__peel Best thickness for shaped pizza dough for good sliding from the peel/tray into the oven
+__label__organization How do you organize your recipes?
+__label__food-science __label__organization Diagrammatic Notations for Recipes
+__label__storage __label__carrots How to properly store cubed carrots?
+__label__soup __label__garlic Are Garlic cloves supposed to be put as whole or as chopped up pieces in a soup?
+__label__cheese How long spreadable cheedar cheese lasts
+__label__substitutions __label__flour __label__rolling Is there an alternative to spreading flour when rolling the dough?
+__label__reheating If I'm reheating things in tins and I don't have enough oven space, can I stack them on top of each other?
+__label__sauce __label__butter Why use clarified butter in a bearnaise
+__label__flavor __label__indian-cuisine __label__curry Why does my curry taste so bland?
+__label__beans Why do red kidney beans come in 410g cans?
+__label__eggs __label__cake __label__batter When adding eggs to scratch cake batter, why are you supposed to add them one at a time?
+__label__pineapple What makes pineapples cause a burning / itchy feeling in the mouth?
+__label__substitutions __label__herbs __label__thai-cuisine __label__lime What can I substitute for Kaffir Lime Leaves?
+__label__food-safety __label__pork __label__sous-vide Dangers associated with sous-vide temperature and time
+__label__nutrient-composition __label__ramen Does dumping the water from boiling ramen noodles reduce the fat content much?
+__label__pie __label__wheat Substitutions for Wheat Flour in Pie Crust
+__label__fish __label__bones How to cook a fish to make its bone as soft as those in sardines?
+__label__meat __label__smoking __label__cut-of-meat __label__charcoal How do I prevent smoked brisket from being chewy?
+__label__chicken __label__meat __label__sauce __label__frying __label__food-science Will meat taste okay if I cook it in a pan where the leftover fond seems burned?
+__label__oven __label__slow-cooking __label__pork-shoulder How long is the longest I can slow cook pork shoulder?
+__label__culinary-uses __label__herbs __label__coriander What kind of dishes use fresh coriander fruits
+__label__baking __label__food-safety __label__storage-method __label__bechamel Is it difficult to make a bchamel sauce for 15 persons?
+__label__equipment __label__knives When is a Utility Knife to be preferred over a Chef's or a Paring knife?
+__label__storage-lifetime I moved to US recently from India and I am looking for Plastic jars for storage,
+__label__baking __label__dough __label__pastry How to make my croissants to grow?
+__label__meat __label__marinade __label__acidity Why marinade meat with acid or enzymes?
+__label__equipment __label__oven Cooking food directly on oven rack
+__label__substitutions __label__sushi __label__allergy __label__vinegar __label__soy What can be substituted for vinegar in sushi rice?
+__label__spices __label__pepper White pepper vs. black pepper
+__label__spicy-hot __label__jerky __label__hot-sauce Reduce hotness of beef Jerky
+__label__baking __label__gluten-free Three ingredient peanut butter cookies - how to improve texture
+__label__eggs __label__bagels How to prepare eggs in shape suited for bagel?
+__label__food-safety __label__vegetables Are large veins in a rhubarb leaf safe to eat?
+__label__oil __label__korean-cuisine What type of oil is used in korean side dishes?
+__label__sauce __label__rice __label__beans How can I make my black beans less dry?
+__label__cleaning How to clean lecithin residue?
+__label__sugar __label__brown-sugar __label__moisture Difference between brown sugar and white sugar?
+__label__sauce __label__storage-lifetime __label__refrigerator __label__spaghetti How long will spaghetti last in the refrigerator when stored in a sealed container?
+__label__fermentation __label__cabbage __label__sauerkraut cabbage - volume to weight conversion?
+__label__tea How can I make my tea stronger?
+__label__chocolate Dipping Cakepops in Callebaut Callets
+__label__baking __label__eggs __label__cake __label__measurements How many jumbo double yolk eggs should I substitute for large eggs?
+__label__tea Should a teabag or looseleaf tea brew at room to cold temperature water?
+__label__honey __label__raw __label__honeycomb How to extract raw honey from honeycomb?
+__label__substitutions __label__fats __label__vegan __label__carrots __label__dairy-free Replacing cream and butter in a carrot casserole/pie
+__label__vegetables __label__microwave Is it ok to microwave veggies without water instead of blanching them in a pot of water?
+__label__dessert The sugar mixture of my baklava did not melt
+__label__freezing Freezing traditional Greek dishes
+__label__vinegar __label__rice-wine Making white vinegar, question about rice wine
+__label__refrigerator __label__peanut-butter How to spread peanut butter that is required to stay refrigerated?
+__label__restaurant-mimicry __label__lobster Why are my homemade lobster rolls so much worse than those at the restaurants whose recipes I'm using?
+__label__boiling __label__pork How to boil pork knuckle?
+__label__roasting __label__turkey Roasting a turkey in a roaster oven
+__label__stock __label__wine Why is wine not a common ingredient in (meat) stock?
+__label__storage-lifetime __label__food-preservation __label__tea __label__citrus __label__ratio I am attempting to preserve the shelf life of ice tea up to six months with citric acid, I need a perfected ratio?
+__label__baking __label__dessert __label__creme-anglaise What is the difference between crme anglaise and crme ptissire?
+__label__cast-iron Black flakes from new cast iron pan
+__label__vegetables __label__fresh __label__mold Strange orange gel on surface of zucchini?
+__label__storage-method __label__alcohol storing liquor in cabin for the winter--quality loss?
+__label__cake __label__fresh __label__frosting how long does a cake with avocado frosting last in the fridge?
+__label__flavor __label__fish Is it feasible to use anchovies to improve the taste of random dishes?
+__label__garlic __label__smell How do you remove garlic smells from your fingers?
+__label__ceramic What material/metal is typically used under the layer of coating in 'ceramic' frying pans?
+__label__ice-cream Question about consistency of homemade ice cream
+__label__cleaning __label__utensils __label__chili-peppers How do I clean up my utensils after cutting extremely hot chillis?
+__label__baking __label__chicken Trouble with Baked Chicken Wings
+__label__refrigerator Why does water leak from a refrigerator?
+__label__peanuts How do you shell groundnuts (peanuts) without breaking their kernels?
+__label__tea __label__spoilage Is tea that has been out on air for long dangerous to drink?
+__label__cake __label__language __label__oranges What are the pips and skin of an orange?
+__label__cheese Why are cheese curds squeaky?
+__label__baking __label__resources __label__gluten-free What reading materials give in-depth coverage of baking with gluten-free ingredients and techniques?
+__label__food-safety __label__marinade Reusing marinade
+__label__seasoning-pans __label__wok Seasoning a wok, have I burned on the factory oil?
+__label__baking My meringue forms syrup beads on top
+__label__substitutions __label__eggs Substituting different types of eggs
+__label__spices __label__soup Will paprika taste good in my soup?
+__label__pork Saving my 'bacon'
+__label__baking __label__substitutions __label__cookies __label__fats Could I substitute peanut butter in place of butter or crisco for cookies?
+__label__food-safety __label__storage How can I keep food hot for extended periods without an active heat source?
+__label__cast-iron __label__stir-fry Can an enameled dutch oven be used for stir frying?
+__label__food-safety __label__juice Grape Juice left out overnight, now has fizz
+__label__soup __label__utensils Soup 'fork' source
+__label__noodles __label__hungarian-cuisine __label__german-cuisine What is Spaetzle? How is it cooked?
+__label__pasta __label__italian-cuisine What ingredients can be added to pasta to give a different color?
+__label__peanuts If I put peanuts in a coffee grinder, will I get peanut butter or peanut powder?
+__label__flavor What is a useful search term for the sensation of flavor progression in a spoonful?
+__label__food-safety How long does it take to cool 5 lb of deep fried chicken from 350 degree to 75 degree
+__label__soup I accidentally boiled away most of my soup, what can I do to recover it?
+__label__meringue Adding Adjuncts to Meringues
+__label__coffee __label__drinks __label__espresso What factors lead to rich crema on espresso?
+__label__spicy-hot __label__chili Is there a "safe" way to cook ghost chili?
+__label__freezing __label__soymilk Will soymilk keep well in the freezer?
+__label__resources __label__restaurant Requirements for a Good Chef
+__label__sausages __label__veal What are the preferred veal cuts for sausage making?
+__label__freezing can I freeze chicken defrost it and eat cold for lunch?
+__label__candy __label__grinding __label__almonds How do I grind almonds for making marzipan?
+__label__food-preservation __label__juice __label__oranges How to preserve home made orange juice
+__label__fermentation __label__cabbage __label__korean-cuisine __label__kimchi Does kimchi always have live cultures?
+__label__pan __label__salmon Should I use a metal pan or non-stick pan for cooking salmon on the stove top?
+__label__cutting __label__cutting-boards Does a silicone cutting board really work well?
+__label__okra Why pour water over the covering plate while cooking okra?
+__label__stainless-steel White cloudy areas on bottom of new stainless steel skiillet
+__label__canning __label__jam How can I keep my jam from overcooking while I process it?
+__label__eggs __label__dough __label__pasta __label__flour Do you need eggs for extruded pasta dough?
+__label__baking __label__cake __label__oven __label__temperature Lowering oven temps
+__label__sauce __label__basics What are the fundamental sauces that every cook should know how to make?
+__label__baking __label__cheesecake Water bath issue when doubling a cheesecake recipe to make bars
+__label__substitutions __label__sauce __label__onions What can I use to replace onions on sauces?
+__label__fish __label__raw __label__wasabi __label__sashimi Sashimi Recommendations?
+__label__substitutions __label__soup __label__stock __label__gelatin Add gelatin to soup as a replacement for stock?
+__label__food-safety Reusing marinade JUST used for raw chicken
+__label__food-safety __label__food-science __label__food-preservation Cure #1 in Brine for Brisket
+__label__food-identification __label__spicy-hot __label__thai-cuisine __label__condiments Help in identifying a Thai condiment
+__label__bread __label__sourdough __label__cutting __label__rye Does 100% rye sourdough bread always have a sticky crumb? How do I make it stick to the knife less?
+__label__reheating __label__flan Can I salvage undercooked flan
+__label__flavor __label__nuts __label__coconut __label__infusion __label__flavour-pairings How to infuse coconut flavor into nuts?
+__label__food-safety __label__chicken-breast Is this Chicken Situation safe to cook and eat?
+__label__vegetables How long to cook green onions relative to other vegetables
+__label__food-preservation __label__canning __label__strawberries How can I avoid limp strawberries?
+__label__quickbread __label__doughnuts __label__baker-percentage Baker's Percentages for Baked Doughnuts?
+__label__food-safety Refrigerating warm potato salad 13 hours after dinner
+__label__spices __label__flavor What are the differences between various types of paprika, and which have the most flavor?
+__label__storage-method __label__storage-lifetime __label__fats Storage life for goose fat
+__label__spices What do these additions to common spice mixes do with your dish?
+__label__oil __label__garlic __label__emulsion Garlic and oil emulsion
+__label__mexican-cuisine At what step is the difference made between a quesadilla and burrito?
+__label__dessert __label__consistency Troubleshooting my Bavarian Creme
+__label__seeds __label__flax Does flax seed loses its properties after smashing it?
+__label__salt What is a "moist" salt?
+__label__kimchi __label__sodium Does washing kimchi with water reduce the sodium content much?
+__label__spices __label__storage __label__organization Do you know of any good rectangular spice storage solutions?
+__label__eggs __label__hard-boiled-eggs Do eggshells let flavours pass through during boiling?
+__label__coffee __label__temperature __label__espresso What is the optimal temperature for making coffee, specifically in an AeroPress?
+__label__eggs __label__pasta __label__dough How do I hand-roll homemade pasta made with egg?
+__label__bread __label__pairing __label__sandwich Are there guidelines for choosing bread for a sandwich?
+__label__garlic Why is my garlic brown and slightly translucent?
+__label__seitan How to make round Seitan sausages
+__label__food-safety __label__storage-method __label__sugar Is my Citrus Sugar still good?
+__label__peeling __label__chili-peppers Peeling roasted green chilies
+__label__sugar Turn melted sugar back into granular?
+__label__equipment __label__oven Can you put All-Clad LTD2 in the oven?
+__label__sauce __label__ingredient-selection __label__marinara Marinara Sauce recipe
+__label__drinks Can you premake mojitos?
+__label__food-safety __label__food-preservation __label__jam How do I prevent jams from turning brown?
+__label__equipment __label__non-stick Does Heating Up A PTFE Non-Stick Pan Create "Fumes"?
+__label__baking __label__pizza Ideal temperature and method to bake a deep dish pizza
+__label__freezing __label__yeast How long can fresh yeast be frozen?
+__label__sardines What are these little balls in my sardines?
+__label__baking __label__substitutions __label__dough __label__flour __label__pizza Is there any substitute for vital wheat gluten?
+__label__storage-method __label__freezing __label__bulk-cooking Once a month cooking
+__label__baking __label__cookies How do I speed up the preparation time for chocolate chip cookies?
+__label__sauce What are the key ingredients in Worcester Sauce?
+__label__vegetables __label__rice __label__rice-cooker __label__timing When to add diced vegetables when cooking rice
+__label__coffee __label__espresso Why should one always use the same kind of coffee for an Espresso machine?
+__label__equipment __label__stove How to choose a premium dual fuel range (Viking, Wolf, Aga, and the like...)
+__label__eggs __label__sauce __label__cream Mousseline sauce, use the white or the yolk of the egg?
+__label__substitutions __label__indian-cuisine __label__paneer Substitue for paneer? Have low fat milk, plain youghurt, cream cheese and butter
+__label__substitutions __label__cake __label__vegan How to veganize and improve this cake recipe?
+__label__baking __label__equipment What happens if I wash my baker's couche?
+__label__cheese __label__allergy Substitutes for cheese due to allergy.
+__label__sugar __label__decorating How to make sugar glass without corn syrup or cream of tartar?
+__label__meat __label__freezing __label__thawing What is it in frozen food that makes chefs so mad?
+__label__chicken __label__marinade What should I use to marinate chicken with a lime seasoning?
+__label__cookies __label__recipe-scaling Added more flour than what the recipe calls for to make butter cookies
+__label__temperature What cooking techniques depend on controlled temperature between 100 and 120 degrees celsius?
+__label__asian-cuisine Substitute for Chinkiang vinager
+__label__cleaning __label__pan Sticky aluminum half sheet pans - Self cleaning oven - What would happen?
+__label__baking __label__substitutions __label__sugar __label__cookies Is the mixing order important when substituting white sugar + molasses for brown sugar?
+__label__equipment __label__cleaning __label__oven Is it normal to see flames inside my self-cleaning oven?
+__label__wok What type of wok apparatus is depicted in this home?
+__label__yeast __label__ginger Ginger and yeast
+__label__meat __label__pressure-cooker What am I doing wrong with my pressure cooker?
+__label__smoothie __label__greens __label__root __label__kale What's the best way to store lots of kale to use for smoothies?
+__label__baking __label__cake __label__coffee What purpose does coffee serve in a chocolate cake recipe?
+__label__flavor __label__deep-frying Deep frying - taste difference in saturated vs. unsaturated oil
+__label__baking __label__fruit How can I replace apples with peaches?
+__label__food-safety __label__shopping __label__mushrooms Why are mushrooms safe for everyone to touch at the supermarket?
+__label__spices Differences/Similarities between cinnamon and nutmeg
+__label__fruit __label__juice Making juice from fresh fruit
+__label__equipment __label__blender Slowing motor and electric smoke coming from Magic Bullet blender?
+__label__graham-crackers How much Graham baking crumbs do I use for 1 sheet of graham crackers?
+__label__food-safety __label__food-preservation __label__canning What are the guidelines for creating a canning recipe?
+__label__storage-method __label__ripe __label__avocados What can I do to help my avocados ripen?
+__label__frying __label__deep-frying __label__gnocchi What causes gnocchi to pop violently when fried?
+__label__roasting __label__peanuts For peanut butter, do peanuts have to be roasted with their shells or without their shells?
+__label__flavor __label__vegetarian __label__roasting __label__vegan __label__pumpkin Possible Pumpkin Flavors
+__label__propane-grill Why does my food taste like propane when i grill?
+__label__baking __label__oven __label__temperature __label__cheesecake "Place pan in a large pan; add 1 inch of hot water to larger pan." -- Why?
+__label__equipment __label__sharpening How can I sharpen my peeler?
+__label__asian-cuisine __label__noodles __label__japanese-cuisine Mysterious Disintegrating Udon noodles
+__label__chicken __label__temperature What would cooking chicken at 140 degrees F for a prolonged period do?
+__label__fruit __label__dessert __label__food-identification Identify this dessert
+__label__coconut How do I finely strain fresh coconut milk?
+__label__freezing __label__fruit what's a good technique for freezing blueberries?
+__label__cookies __label__language Cookies called monte cows?
+__label__butter Where can I find yak butter online or in NYC?
+__label__chicken __label__frozen __label__calories Do they count calories in fried chicken accurately?
+__label__sauce __label__tomatoes __label__italian-cuisine What is the difference between tomato puree, paste and sauce?
+__label__food-safety __label__soy Does soy sauce expire?
+__label__creme-brulee What makes creme brulee set?
+__label__baking __label__peaches How can I use these peaches in a box cake mix?
+__label__frying __label__oil __label__steak What oil to use when cooking steak, and what difference does it make?
+__label__food-safety Refrigerator in garage was turned off
+__label__vegetables __label__asparagus Should asparagus be peeled before cooking?
+__label__baking __label__cookies What should a good cookie dough look like?
+__label__beef __label__steak Is wagyu beef suitable for amateur cooking
+__label__baking __label__bread How to make a sandwich bread with a very soft crust? And what is the ideal temperature to bake sandwich bread?
+__label__vinegar __label__pickling Do I need Malt Vinegar for pickling onions?
+__label__equipment Food mills versus food strainer/sauce makers
+__label__potatoes __label__deep-frying __label__french-fries How to make crispy French fries?
+__label__equipment __label__oven __label__gas __label__induction How do we decide between gas, induction, and electric (ceramic) stoves?
+__label__storage-method __label__vegetables __label__temperature How to keep vegetables and herbs fresh for longer?
+__label__sauce __label__cream Sauce made from butter and cream flakes/curdles
+__label__beef __label__pork __label__garlic __label__ginger __label__cooking-myth Is this a true? You should use garlic with pork and ginger with beef and never vice versa?
+__label__food-safety __label__freezing __label__sous-vide Is the rapid ice bath chill post-sous vide actually necessary when putting the meat/fish in the freezer?
+__label__eggs __label__frying __label__potatoes __label__flour Getting Potato and Turnip Patties to hold together... how?
+__label__baking __label__equipment __label__pie What is the proper usage of a pie bird?
+__label__uht __label__yogurt Can UHT milk be used to make yogurt?
+__label__flavor __label__garlic __label__ginger Why did my ginger garlic paste have a bitter aftertaste?
+__label__chocolate How can I make this cool chocolate shape?
+__label__coffee __label__espresso How to make good coffee in a Moka pot?
+__label__bread __label__yeast active dry yeast vs instant yeast
+__label__pizza __label__cast-iron Pizza crust mix for pizza with cast iron pan?
+__label__evaporated-milk __label__dulce-de-leche Can you make caramel with evaporated milk?
+__label__bread __label__baker-percentage Baker's Math Formula System - Why Isn't the Flour Mass in Corn Bread Formula 100%?
+__label__onions __label__spoilage slimy red onion
+__label__sauce __label__asian-cuisine __label__soy What are the differences between types of soy sauce?
+__label__learning How should I go about starting cooking?
+__label__vegetables __label__vinegar is it okay to wash vegetables by soaking/submerging?
+__label__food-safety __label__canning __label__cooking-myth Does cooking one month expired canned goods render it edible?
+__label__equipment __label__pan __label__non-stick Is Greenpan safe?
+__label__food-safety __label__butter Will using 4 year old unsalted butter make one sick?
+__label__storage-lifetime __label__refrigerator Does a colder refrigerator keep things fresh longer?
+__label__meat Help roaster oven quit in the night!
+__label__bread __label__cake __label__dough __label__batter Is it possible to make breads using cake techniques?
+__label__baking __label__bread A general rule which applies to different types of bread
+__label__freezing __label__steak __label__dry-aging Will freezing affect the quality of a dry-aged steak?
+__label__chicken __label__freezing __label__raw-meat To refreeze or to refrigerate?
+__label__gelatin How is gelatine sold in U.S. grocery stores?
+__label__food-safety __label__pork What are the ranges of Pork Temperature that are flavorful and safe?
+__label__storage-method __label__food-preservation __label__refrigerator Does a home produce refrigerator exist?
+__label__sauce __label__language __label__spaghetti __label__marinara What is the difference between marinara and spaghetti sauce?
+__label__bread __label__rye What are "rye sours"?
+__label__equipment __label__knives What's optimal hardness for a kitchen knife blade?
+__label__cake How to trim a cake so it's level?
+__label__substitutions __label__meat __label__pasta __label__carbonara What other meat can I use instead of pork in a Spaghetti Carbonara?
+__label__ham Cooking smoked cured ham on a rotisserie
+__label__grains Soaking millet before making ogi
+__label__cheese __label__food-identification Black Diamond cheddar, wedge not wheel
+__label__dessert __label__chestnuts Marron glac / Candied chestnuts breaking up. How to avoid this?
+__label__cake __label__batter __label__blender mixing cake batter in a blender?
+__label__baking __label__cookies Why are my cookies falling apart?
+__label__food-identification Dutch vegetable cordon-bleu
+__label__tea __label__food-identification Name of the tea with tiny green leaves
+__label__molecular-gastronomy What is the proper word/term/expression to describe a dish that appears to be something different
+__label__storage-method __label__storage-lifetime __label__cheese How best to store cheese long term?
+__label__fruit __label__ripe __label__lemon __label__citrus __label__ingredient-selection Are ripe meyer lemons supposed to be soft?
+__label__canning __label__jam New to jam making - do I need to can?
+__label__cast-iron How do you clean and season a cast iron pot?
+__label__fish fish pie safe to cook half way, then cook the rest later?
+__label__eggs __label__sous-vide __label__pasteurization How to pasteurize eggs in a sous vide machine (in the shell)
+__label__food-safety Supply of Boiling water without power outlet
+__label__substitutions What can I use instead of clam juice?
+__label__quinoa How do you cook quinoa?
+__label__food-safety Can string cheese be frozen?
+__label__please-remove-this-tag Is it possible to patent recipes?
+__label__canning __label__vacuum __label__glucose-syrup Vacuum sealing jars of Simple Syrup
+__label__bread __label__indian-cuisine __label__flatbread Naan without tandoor?
+__label__baking Can vegetable enzymes kill yeast?
+__label__curry __label__indian-cuisine __label__onions Which onions to use and how to cook them for an Indian curry recipe that specifies "fry until deep pink"?
+__label__meat Cooking Moose meats
+__label__caramel __label__melting How long can melted salted caramel last?
+__label__food-safety __label__yogurt Can pasteurized milk turn into yogurt by itself?
+__label__eggs __label__duck How to better combine preserved eggs with strong ammonia smell with other foods?
+__label__chutney What's the difference between chutney and relish?
+__label__frying __label__cut-of-meat __label__reduction Which cut makes cheapest goulash?
+__label__freezing Greaseproof paper
+__label__pasta __label__shopping __label__middle-eastern-cuisine Non-Quick Cooking Couscous - Is that a real thing anywhere?
+__label__fish __label__japanese-cuisine On heating smoked salmon
+__label__substitutions __label__gelatin __label__gelling-agents Replacing agar-agar with gelatin
+__label__chocolate __label__milk Making my cocoa mix into instant cocoa mix
+__label__substitutions __label__salt __label__butter How much to reduce salt when using salted butter in place of unsalted butter
+__label__roasting __label__crust __label__gluten-free Gluten-free replacement to coat something with before roasting, to obtain crust
+__label__texture Can I make hard / crunchy food without sugar or fat?
+__label__baking __label__bread My bread is tasteless
+__label__baking Tasty's Cookie Cream Puffs
+__label__storage-lifetime My commercial made chapati becomes brittle within 12hrs
+__label__pastry __label__icing __label__french-cuisine __label__custard __label__glaze How can you achieve the glazed top in a mille-feuille?
+__label__equipment __label__cleaning __label__roasting What is the best way to clean a roasting tray/baking tray that has sauce burned on to it?
+__label__baking __label__sourdough Mold or dry sourdough starter? (pic included)
+__label__substitutions __label__asian-cuisine What would be a good substitute for rice wine?
+__label__food-science __label__candy What can I add to boiled lollies to stop them from melting in humid weather?
+__label__eggs Eggs smelled bad but not anymore when I put them in the ref
+__label__substitutions __label__eggs __label__ice-cream __label__allergy Substitute for egg yolk in ice-cream (Egg Allergy)
+__label__substitutions __label__alcohol __label__wine Is there a substitute for port wine in a dessert risotto?
+__label__eggs __label__cookware __label__scrambled-eggs Prevent scrambled eggs from sticking to stainless steel
+__label__tea How is British tea prepared?
+__label__baking __label__dessert __label__vanilla Can I filter out vanilla bean seeds?
+__label__cast-iron Is it safe to deglace a cast-iron pan?
+__label__flavor __label__coffee __label__milk Why does my coffee late taste different when pouring the milk before I add the coffee?
+__label__baking __label__cake __label__recipe-scaling How much can I change the height of a cake?
+__label__frying __label__boiling __label__meatballs Benefits of boiling meatballs before frying them
+__label__baking __label__cookies __label__budget-cooking Can you re-use parchment paper when baking batches of cookies?
+__label__potatoes __label__boiling __label__mash Mashed potato: start with hot water or cold water?
+__label__vegetables __label__butter __label__water __label__steaming Cooking vegetables with butter and water
+__label__food-science __label__milk __label__water __label__oats Steel Cut Oats: cooking in milk vs. water
+__label__fermentation __label__chili-peppers __label__kimchi How does Korean chili powder differ from "US" chili powder?
+__label__sauce __label__cast-iron __label__stainless-steel Pan sauce without meat
+__label__chicken __label__broth __label__bones What's the most cost effective way to make chicken bone broth?
+__label__food-science __label__sugar __label__custard __label__pudding How to scale up pudding recipe 10x?
+__label__pasta __label__salt __label__boiling When cooking pasta in salted water how much of the salt is absorbed?
+__label__cheese __label__grating How can I grate soft cheeses?
+__label__pasta __label__milk __label__language What is macaroni cooked in milk called?
+__label__beets Bitter roasted beets
+__label__garlic Preparing minced garlic the night before using them
+__label__pot I boiled dry my 18/10 ss pot, is it damaged and unsafe to cook with now
+__label__microwave Why is some metal safe to use in a microwave, but others not?
+__label__chicken __label__free-range Is free-range chicken more flavourful?
+__label__substitutions __label__corn __label__syrup __label__icing What is a substitute for corn syrup in boiled icing?
+__label__storage-method __label__storage-lifetime __label__garlic What is the shelf life of a garlic bulb, with the "skin" still on, left in the fridge?
+__label__food-safety __label__bananas Only the core of my banana is black. Is it safe to eat?
+__label__coffee __label__beans __label__caffeine How do they get caffeine out in decaffeinated coffee?
+__label__oven __label__dough Dough(s) to hold moist oven dish contents
+__label__rice __label__asian-cuisine __label__chinese-cuisine __label__japanese-cuisine __label__utensils Is rice supposed to be eaten with chopsticks?
+__label__storage-method __label__herbs How to maximize and preserve horseradish potency without vinegar?
+__label__history __label__traditional __label__professional __label__clothing Why do chefs traditionally wear a high white hat?
+__label__sugar __label__butter __label__shortening How can I stop my buttercream being grainy?
+__label__pasta __label__measurements __label__spaghetti Best way to measure Spaghetti/Linguini portions?
+__label__equipment __label__stove __label__electric-stoves __label__induction What are the differences between an induction stove and a regular electric stove?
+__label__substitutions __label__baking __label__food-science __label__oil __label__fats Why can applesauce be used in place of oil?
+__label__flour __label__sourdough Can I change the flour type of my sourdough starter?
+__label__nutrient-composition __label__beans __label__lentils How does lentils' nutritional profile change in germinating lentils in water?
+__label__italian-cuisine Are spuntini a form of appetizers?
+__label__sauce __label__wine __label__reduction Does quality decrease by heavily reducing wine?
+__label__eggs what would happen if 1 egg was ommitted from the oatmeal cookie recipe that calls for 2?
+__label__baking __label__muffins What caused my blueberry muffins to come out flat? 
+__label__equipment __label__food-preservation __label__vacuum Are any retail vacuum-sealing systems worth the expense?
+__label__spices __label__spanish-cuisine __label__paprika Pimenton ahumado vs. Pimenton de la vera
+__label__safety __label__fire __label__skillet How to avoid too hot pan that causes fire
+__label__eggs __label__salt __label__scrambled-eggs Does adding salt before cooking toughen scrambled eggs?
+__label__restaurant-mimicry __label__salad-dressing Help me duplicate Potbelly's fat-free vinaigrette
+__label__sourdough __label__wheat __label__sourdough-starter Remedy a sourdough which used milled red winter wheat
+__label__fondant How to prevent fondant from crumbling?
+__label__chocolate __label__dessert __label__ice-cream Is it possible to have chocolate chunks in ice cream that aren't waxy?
+__label__storage-method __label__meat __label__cooking-time __label__steak __label__restaurant How do they Prepare Steak so fast in Restaurants?
+__label__substitutions __label__storage-lifetime Shelf-stable "frosting" for a savory "gingerbread" house?
+__label__frying __label__bacon __label__frying-pan How can I get my bacon flatter?
+__label__eggs __label__egg-whites __label__stand-mixer Is it possible to whisk egg whites too much?
+__label__food-safety __label__soup Can I RE-freeze chicken soup after it has thawed?
+__label__flavor __label__chili-peppers How can I make the best use of chocolate peppers?
+__label__bread __label__yeast What to do about yeast that doesn't work?
+__label__steak __label__steaming Is it possible to steam steak?
+__label__slow-cooking __label__roast Should a roast be covered in liquid in a slow-cooker?
+__label__bread __label__yeast Does preferment add sourness to taste of bread?
+__label__pizza __label__crust How Does a Grocery Store "Self-Rising Crust" Work
+__label__cleaning __label__cast-iron __label__dutch-oven __label__fire How did rust appear on my cast iron in a matter of minutes?
+__label__food-safety __label__chicken __label__meat __label__steak __label__marinade How long is it safe to marinate meat?
+__label__stock __label__broth Stock vs Broth - What's the difference in usage?
+__label__kitchen What techniques and tips do you have for keeping an organized, clean work area while you cook?
+__label__milk __label__uht UHT Milk: small white floating stuff?
+__label__freezing __label__pork Pork shoulder discoloured in the freezer to a greenish grey colour. What happened?
+__label__whipped-cream Differences between heavy and light whipping cream?
+__label__food-safety What is the best way to get rid of the ants from the box of clarified butter?
+__label__food-safety __label__salad-dressing __label__botulism Is storing homeade dressing with garlic powder safe?
+__label__baking __label__glass Which is better, baking in glass or metal?
+__label__mushrooms __label__truffles Are European white truffles significantly superior in flavour to those from North America?
+__label__temperature __label__oven Is there no use for high temperatures in ovens?
+__label__indian-cuisine __label__restaurant-mimicry What is the orange coloured cream inside McAloo Tikki called and what are its ingredients?
+__label__baking __label__bread __label__salt How much salt can I safely add to bread dough?
+__label__food-safety __label__storage-method __label__storage Unopened shredded cheese gets soggy in the fridge
+__label__baking __label__dough __label__bread __label__yeast __label__seasonal How to get threads in a yeast dough?
+__label__pizza __label__pizza-stone Why does a pizza stone make my pizza dough bread-like?
+__label__potatoes __label__deep-frying __label__chips Par-fry potato chips or Par-boil?
+__label__sauce __label__thickening What is a blended sauce?
+__label__baking __label__batter __label__baking-powder __label__english-cuisine __label__yorkshire-puddings Is it okay to put baking powder in Yorkshire Pudding batter?
+__label__oil __label__deep-frying __label__japanese-cuisine What type of vegetable oil should I use for tempura?
+__label__cream __label__whipped-cream How is long-lasting whipped cream made?
+__label__cheese __label__cheese-making I want to make my own cheese. How do I get started?
+__label__cheese Cheddar equivalents as far as amount of flavor
+__label__cheese island cheese - azorean (or portugese)
+__label__storage __label__food-processing __label__packaging Why don't they sell frozen tomatoes like other frozen vegetables and fruits?
+__label__tea What's the difference between Yorkshire Tea (red band) and Yorkshire Gold?
+__label__baking __label__cooking-time __label__refrigerator __label__pie How do I cook a cottage pie from chilled?
+__label__storage-lifetime __label__alcohol Do unopened bottles of Gin and Campari turn bad in extreme heat?
+__label__kohlrabi How soft does a Kohlrabi get when cooked?
+__label__baking __label__cake __label__recipe-scaling How does the baking time change if I scale up a cake recipe?
+__label__chicken __label__freezing Help freezing chicken breasts
+__label__baking __label__pie __label__blind-baking How can I check if a blind baked dough is done?
+__label__eggs __label__frying __label__flour How to thoroughly bread meat with eggs and flour for frying without the mess
+__label__candy Making super-sour sweets -- issues with stickiness
+__label__baking __label__bread __label__sourdough-starter Tartine + Sourdough Taste
+__label__sous-vide __label__pressure-cooker Can I use sous vide instead of pressure cooking
+__label__bread __label__ingredient-selection Bread-machine recipes: are liquid ingredients fungible?
+__label__salmon __label__raw-meat __label__raw __label__frozen __label__sashimi Fresh salmon that was frozen after: till when can it still be eaten raw
+__label__substitutions __label__yogurt What is the difference between Greek yogurt and plain yogurt?
+__label__eggs __label__turkey Can you eat turkey eggs?
+__label__substitutions __label__vegetarian __label__vegan __label__turkey __label__thanksgiving What is the ideal fake turkey substitute for a vegan Thanksgiving?
+__label__pasta What is the effect of a semolina/plain flour mix in pasta making?
+__label__cheese __label__milk __label__microwave Raw milk curdling in microwave
+__label__salt Pasteles are too salty
+__label__dough __label__pizza __label__italian-cuisine __label__low-carb __label__rye 100% Rye Pizza Base Recipes?
+__label__food-safety __label__eggs __label__food-science Why do Duck eggs have longer expiry than Chicken Eggs?
+__label__food-safety __label__sauce __label__wine __label__reduction Can you use wine for cooking even after it's past it's drinking date?
+__label__cheese __label__cheese-making What determines how hard or soft a cheese will be?
+__label__equipment __label__roasting __label__pan Pans with ceramic coating useful?
+__label__food-safety __label__storage-method __label__seitan What method for advance prep of seitan prevents deterioration of texture and preserves flavor while protecting from spoilage?
+__label__veal __label__venison What is thet difference between venison and veal?
+__label__coffee What special knowledge or skills about coffee do baristas have?
+__label__cookware Pan For Induction Heating
+__label__sugar __label__salad __label__american-cuisine Why is there sugar in a seven-layer salad?
+__label__baking __label__substitutions __label__ingredient-selection __label__citrus __label__oranges Baking or Cooking - why orange and not other sweet citrus fruit?
+__label__temperature __label__microwave __label__heat What temperature is 'High' in a 950 watt microwave?
+__label__knife-skills __label__goose When to carve a goose - hot or cold
+__label__storage-lifetime __label__soup Is continuously simmering or refrigerating cooked soup a more effective way to prevent spoilage?
+__label__cake __label__chinese-cuisine How to properly store a Chinese new year cake and how long will it last?
+__label__food-history Chopsticks versus forks?
+__label__equipment __label__pizza __label__barbecue __label__pizza-stone How do you clean a pizza stone?
+__label__cake __label__juice What juices to use in cake?
+__label__baking __label__bread __label__pita __label__kneading Kneading before or after rising?
+__label__baking __label__pie __label__boiling __label__water Why use boiling water in a shoofly pie?
+__label__food-safety __label__eggs __label__boiling Can I boil eggs in the same pot I'm boiling something else?
+__label__butter What's the purpose of clarifying butter?
+__label__meat __label__temperature __label__cooking-time __label__lamb Cooking lamb that falls off the bone
+__label__soup __label__ingredient-selection When a recipe calls for a can of condensed soup, is the water implied?
+__label__alcohol __label__frozen What's the secret to getting restaurant-quality frozen drinks at home?
+__label__chocolate __label__cream __label__egg-whites __label__foam __label__mousse Chocolate mousse - methods to have firm foamy mousse using white egg and cream
+__label__freezing __label__storage How long can I freeze uncooked rice noodles for ( not dried but in sealed bag )
+__label__food-safety __label__fruit __label__blender __label__pineapple __label__efficiency Blending pineapples and coconuts whole, safety and experience?
+__label__storage-method __label__coffee How best to store roast coffee beans?
+__label__baking __label__sugar __label__butter __label__quickbread How to make a proper scone?
+__label__beans __label__japanese-cuisine Can I turn a can of red kidney beans into red bean paste for Japanese Style Red Bean Paste Buns?
+__label__spices Homemade Taco seasoning recipes
+__label__substitutions __label__vegetarian How should "vegetarian duck" (seitan) be pre-prepared to substitute into a duck recipe
+__label__baking __label__substitutions __label__yeast __label__bread yeast subtitution in a recipe with no water
+__label__culinary-uses __label__herbs __label__basil What are some good uses for Lemon Basil?
+__label__seafood How to know if frozen clams are good when cooked
+__label__knife-skills __label__cranberries Chopping fresh cranberries
+__label__roast __label__lamb __label__bones What is a "boned lamb leg"?
+__label__baking __label__bread __label__sourdough __label__sourdough-starter What's are the benefits of different sourdough starter consistencies?
+__label__electric-stoves Is there a good test for whether a flat-top stove is working correctly?
+__label__temperature __label__oil __label__fats __label__stove How reliable is determining cooking oil temperature with a thermometer?
+__label__baking __label__bread __label__potatoes Search terms for potatoes inside of a bun
+__label__vegetarian __label__thai-cuisine __label__tofu __label__texture How to make tofu that is crispy and flavorful outside and soft inside?
+__label__chicken __label__freezing __label__storage-lifetime __label__beef Chicken and Beef stored in the freezer not entirely frozen - safe?
+__label__oven __label__grilling Gas grill compared to regular (high end) oven
+__label__coffee __label__history __label__food-history Looking for coffee from the 80's for my father, Lucern?
+__label__chocolate __label__egg-whites __label__whipper __label__mousse How to make chocolate mousse that will set?
+__label__baking __label__cake __label__vegan Protein networks in vegan cakes
+__label__flavor __label__lentils __label__squash __label__grains How to add savor to a squash and grain mix?
+__label__whipper My iSi whipper suddenly has started leaking
+__label__bread __label__flavor Adding Pulses (Legumes) in Powder Form to Bread
+__label__fruit Are Asian Pears Bitter? Mine Was
+__label__cleaning __label__cookware Burned enameled cast iron stock pot
+__label__baking __label__bread __label__dough __label__kneading When is it best to do stretch and fold versus mechanical kneading?
+__label__storage-lifetime __label__fresh __label__bananas __label__ripe How can I increase the longevity of my bananas?
+__label__icing __label__decorating How do I practice piping icing without wasting icing and money?
+__label__wok __label__stir-fry __label__carbon-steel Wok patina; when to redo seasoning?
+__label__bread __label__malt Why add malt to bread?
+__label__garlic __label__smell How can I get rid of garlic breath?
+__label__bread __label__food-preservation How to make bread mould resistant?
+__label__brownies milk chocolate brownie turned out hard and very chewy
+__label__thickening __label__custard __label__consistency __label__ratio __label__flan Ratio of liquid/glucomannan/xanthan gum for flan or Walden Farms dip
+__label__spices __label__food-preservation Why do vegetables cooked with freshly ground spices taste better than those cooked with powdered spices available in the market?
+__label__equipment __label__grilling __label__propane-grill The inside of my grill lid is rusting
+__label__fruit __label__indian-cuisine __label__food-identification Name the vegetable from Nilgiri hills
+__label__cake __label__pan __label__teflon How to properly clean a bundt mold without ruining the surface
+__label__sauteing Tips on tossing a frying pan
+__label__crockpot Cooked meat in slow cooker on warm. Can it still be safe to eat?
+__label__fruit __label__dehydrating __label__drying __label__mango How to dry out rehydrated dried mangos?
+__label__food-science __label__marinade __label__wasabi Why does horseradish paste "curdle" when cooked?
+__label__storage-lifetime Using Agar agar beyond its use by date
+__label__please-remove-this-tag __label__dessert __label__taffy Homemade taffy turned out too thick and hard
+__label__food-safety __label__roux How long will roux keep?
+__label__substitutions __label__eggs __label__history Why powdered eggs?
+__label__recipe-scaling How should we divide the recipe ingredient?
+__label__sauce When do I add the chicken stock in this recipe? The author doesn't specify
+__label__pork __label__veal What kind of meat to use for Wiener Schnitzel?
+__label__sugar __label__brown-sugar __label__moisture How to quickly soften brown sugar
+__label__containers What does the clock-like symbols under plastic containers mean?
+__label__chocolate __label__food-identification Can anyone identify this chocolate?
+__label__cast-iron __label__induction Do induction cookers increase risk of cracking cast iron?
+__label__baking __label__food-safety __label__cake __label__refrigerator __label__frosting How long can frosting with butter, powdered sugar, salt, vanilla, and milk, that is covered with fondant be left out of the refrigerator?
+__label__salt __label__food-preservation __label__butter Is less quality cream used in salted butter?
+__label__basics Where can I find fast, cheap, healthy meal recipes for a busy single guy?
+__label__equipment __label__temperature How to measure the temperature of a pan?
+__label__restaurant How much experience is needed to work in a restaurant?
+__label__equipment __label__salt What is the point of a salt mill?
+__label__baking __label__chia Adding raw chia seeds to baked goods?
+__label__brisket My brisket is too sweet
+__label__knives __label__sharpening Can I sharpen a knife with sandpaper?
+__label__temperature __label__oven Graphing oven temperature over time
+__label__storage-method __label__coffee __label__tea Why are the storage instructions extremely opposite in cases of tea and coffee?
+__label__baking __label__temperature __label__hamburgers __label__meatloaf How long should I bake a hamburger meatloaf, and at what oven temperature?
+__label__chicken __label__temperature __label__deep-frying __label__chicken-breast __label__chicken-wings Confirming Fried Chicken is completely cooked
+__label__milk __label__dairy Is it OK to mix milk and fermented dairy?
+__label__dough __label__knives Knife to Cut Dough
+__label__bread __label__dough __label__yeast What is the minimum temperature yeast will be active?
+__label__cake Making a literal thousand-layer cake?
+__label__potatoes Sprouting Potatoes in Fridge? Safe to eat?
+__label__pork __label__roast Roasting 6kg (13lb) Pork Leg
+__label__equipment __label__cleaning __label__knives Is it true that even quality knives with wood handles can warp and be contaminated with bacteria?
+__label__food-safety __label__onions Can I reuse chopped onions?
+__label__substitutions __label__fish __label__sushi Alternative to Escolar ("Butter Fish") for Nigirizushi
+__label__equipment __label__soup __label__asian-cuisine How do I use a Chinese spoon?
+__label__beef My mince in my bolognese has got a cardboard texture
+__label__frying __label__bananas How to fry crispy bananas?
+__label__sauce What is pizza sauce?
+__label__potatoes __label__microwave __label__fire Is it possible for a potato to catch fire after 10 minutes in the microwave?
+__label__meat __label__freezing __label__turkey __label__frozen __label__raw-meat Is there a difference between freezing meat at 26F and 0F?
+__label__salt __label__japanese-cuisine __label__fermentation How to best prepare Sukimono
+__label__baking __label__oven __label__consistency What consistency should flan have when it is removed from the oven?
+__label__eggs Can egg be scrambled inside shell?
+__label__ribs Spare Ribs: spacing out the soak and the grill
+__label__wine __label__ingredient-selection __label__carbonation How to recognize fizzy wine?
+__label__milk __label__vegan __label__dairy-free How is this non-dairy creamer really non-dairy when it has sodium caseinate?
+__label__indian-cuisine __label__chili Chili ended up tasting like indian food
+__label__cleaning Cleaning a food processor
+__label__storage-method __label__pickling __label__chili-peppers __label__bell-peppers Pickling Peppers
+__label__eggs Fluffy texture in a Spanish tortilla
+__label__dough Why does my dough always need more water than the recipe calls for?
+__label__garlic __label__peeling Unpeeled garlic cloves in French / Belgian cooking?
+__label__pasta __label__gravy Can water in which pasta was cooked be used to make gravy?
+__label__beef __label__middle-eastern-cuisine __label__lamb __label__balkan-cuisine What cut of ground beef is ideal to mix with ground lamb for kofta?
+__label__rice __label__microwave __label__milk Is it possible to cook semolina or rice with milk in the microwave?
+__label__ice-cream __label__coloring Tips for patriotic vanilla ice cream
+__label__food-safety __label__beans __label__thai-cuisine __label__legumes Can I substitute "green beans" for "string beans"?
+__label__coffee Rebrewing cofee
+__label__potatoes What is the fastest/easiest way to prepare potatoes for mashing?
+__label__oven what table material is electric oven safe to place on to?
+__label__fish __label__chemistry How can I avoid getting swindled? How can I detect polyphosphates in fish fillets?
+__label__baking __label__eggs __label__cake Cooking an eggless cake
+__label__herbs __label__please-remove-this-tag __label__comparisons When, if ever, are dried herbs preferable to fresh herbs?
+__label__cake __label__cream Preventing heavy top layer of cake from crushing cream layer
+__label__microwave __label__tea __label__water __label__foam What is the white foam that builds up when I make tea?
+__label__food-safety __label__chicken How long will sealed chicken keep?
+__label__boiling __label__liver Do you need to rinse liver?
+__label__vegetables Are there any differences between "baby" vegetables and their "regular" counterparts
+__label__stews __label__pot __label__braising __label__dutch-oven When braising, how deep should I fill a single pot?
+__label__meat __label__tenderizing Does milk tenderize meat?
+__label__asian-cuisine Which foods and ingredients are the main sources of fibre in traditional Lao cuisine?
+__label__yogurt How do I recognize that yogurt has turned bad?
+__label__salt What kinds of metals are good for a salt shaker?
+__label__food-safety __label__seafood Razor clams good or bad?
+__label__equipment __label__bulk-cooking __label__catering Catering event for 1st time. How should I prepare?
+__label__equipment __label__herbs __label__italian-cuisine __label__blender Couldn't make pesto in a blender
+__label__food-safety Why is ground beef red on the bottom also?
+__label__potatoes __label__chips What to do with soggy mushy potato chips?
+__label__storage-method __label__spaghetti How to preserve spaghetti for a short amount of time?
+__label__food-safety __label__freezing __label__buttermilk Can buttermilk be frozen successfully?
+__label__cake __label__temperature __label__serving Correct temperature to serve a chocolate gateau (cake)
+__label__sauce __label__oil What was wrong with using White Truffle Oil?
+__label__pie __label__crust Greasy Pie Crust
+__label__fruit __label__citrus What is this citrus fruit?
+__label__freezing __label__food-preservation What is the best way to preserve oyster stew?
+__label__food-safety __label__temperature __label__soup __label__food-preservation How long could a meat-based broth be held safely near 180F/82C?
+__label__stock __label__sous-vide __label__gelatin __label__chicken-stock __label__pressure-cooker why use a pressure cooker for collagen to gelatin conversion?
+__label__herbs Why did some leaves of my fresh Fenugreek turn yellow after a few days of purchase, and how to prevent the leaves from turing yellow?
+__label__salad __label__chicken-breast How should chicken breasts for a chicken salad be cooked?
+__label__roasting __label__honey __label__peanuts How to make Honey Roasted Peanuts just like Planters?
+__label__food-science __label__soda Freezing temp of carbonated beverages
+__label__food-safety Help - Thawed frozen Lasagne issues
+__label__cheese __label__indian-cuisine __label__paneer Deep freezing paneer (cottage cheese)?
+__label__meat __label__barbecue __label__smoking __label__kangaroo Ways to bar-b-que and smoke Kangaroo
+__label__food-safety __label__sauce __label__mold What is this cotton-like stuff growing on my pizza sauce?
+__label__meat __label__cookware __label__stews __label__casserole What are the benefits of stewing on the hob over cooking in the oven?
+__label__flavor __label__cupcakes Does peppermint flavour work with orange flavour?
+__label__refrigerator At which end of the scale on the knob is the refrigerator temperature lowest, at which is it highest?
+__label__fish __label__seafood __label__marinade __label__lemon __label__ceviche What north atlantic fish can we use to make a good ceviche?
+__label__bread __label__eggs __label__sugar __label__milk How to prevent burning when frying bread?
+__label__sugar Demerera sugar vs. brown sugar
+__label__tea Teabags: for how long should I let them sit in the hot water?
+__label__molecular-gastronomy Is it possible to make a marshmallow that isn't sweet?
+__label__dessert __label__candy __label__restaurant-mimicry __label__texture __label__gelatin How do you make Welch's fruit snacks?
+__label__indian-cuisine __label__language __label__food-identification Name of an Indian dish with stuffed whole potatoes
+__label__baking __label__texture __label__quickbread How to make cornbread less crumbly?
+__label__baking __label__bread __label__rising Why won't my bread rise much during baking?
+__label__cookies __label__cookbook What type of cookies does the author Rose Levy talk about in Christmas cookies book?
+__label__alcohol __label__spoilage Crystals on bottle of sweet alcohol
+__label__texture __label__celery Are there any drawbacks to cooking with limp celery?
+__label__equipment __label__chicken __label__frying __label__skillet Can I use a regular pan instead of a cast iron skillet?
+__label__gelatin Why do we soak and squeeze gelatine?
+__label__freezing semi-freezing ripe avocado for easier handling
+__label__yogurt __label__cheese-making I failed to make yogurt, what have I made?
+__label__coffee Which part of the coffee brew is best?
+__label__baking __label__bread __label__dessert How to bake bread and desserts without an oven?
+__label__whipped-cream __label__whipper Can one get quality whipped cream by putting only 250 ml (1 cup) whipping cream into a half litre (1 pint) NO2 whipper?
+__label__food-safety Spoiled garlic ok to use?
+__label__canning __label__juice How to make Grape Must
+__label__strawberries How can I prevent strawberries from discolouring cream?
+__label__yeast I'm brewing hard cider - what can I do with the yeast afterward?
+__label__roasting __label__corn __label__hominy How can I roast hominy while minimizing the popping?
+__label__baking __label__bread __label__kneading Why punch down knead free bread?
+__label__substitutions __label__coconut Non-coconut substitute for coconut cream?
+__label__baking __label__eggs __label__cake Can I use whole eggs instead of egg yolks in a lemon bundt cake?
+__label__food-safety __label__beef __label__steak __label__raw-meat __label__tartare How safe is steak tartare?
+__label__baking How to make butter and sugar mixture into a breadcrumb consistency?
+__label__food-safety __label__coffee Is old brewed coffee too unsafe to drink?
+__label__slow-cooking Converting to a 2 quart slow cooker
+__label__wine Does it matter what type of wine is used to make mulled wine?
+__label__salt __label__truffles Homemade Truffle Salt
+__label__salt __label__nuts Is there any way to "Salt" unsalted cashew pieces?
+__label__beef __label__american-cuisine Kobe beef in the U.S?
+__label__temperature __label__cooking-time how long to cook stuffed chicken breasts
+__label__baking __label__cocoa How does one use cocoa butter in cooking?
+__label__baking __label__cookies __label__consistency Why do my cookies fall flat and not cook on the bottom?
+__label__substitutions __label__jam __label__gelling-agents __label__gelatin Is there a way to make jam or chutney without Gelatin / Pectin?
+__label__rice How to remove cardamom seeds from rice
+__label__pie __label__spinach __label__frozen Nonsoggy spinich pie with frozen spinach
+__label__fish __label__stock __label__salmon __label__cooking-myth Reason(s) for not making stock with oily fish (salmon)?
+__label__oil __label__chili-peppers __label__mold Why did my hot pepper oil get moldy?
+__label__mexican-cuisine __label__tortilla How do you ensure a tortilla keeps all its contents when making a burrito?
+__label__cheese __label__melting __label__fondue Why does adding commercial processed cheese to fondue change its consistency?
+__label__chocolate __label__melting Can milk chocolate candy be used as a chocolate substitute in fudge?
+__label__food-safety __label__meat __label__freezing Refreeze ground hamburger as hamburgers after thawing?
+__label__substitutions __label__baking-soda __label__baking-powder __label__leavening If I can't find baking soda or baking powder, what should I do?
+__label__tea What's the difference between rectangular tea bags and pyramid tea bags?
+__label__quinoa When making Eetch, is it necessary to saut the onions and simmer the tomato products? Are there differences if using quinoa rather than bulghur?
+__label__food-safety __label__sous-vide Sous vide vegetables packed in advance?
+__label__meat __label__stews __label__timing How to recook a roast?
+__label__temperature What is the temperature range for food not to burn your mouth?
