@@ -1,0 +1,2500 @@
+__label__deu	aufgrund der wirtschaft unterliegt das budget schwankungen . 
+__label__deu	nur unter uns gesagt ,  er ist ein lügner . 
+__label__rus	Эти наушники одновременно стильные и удобные . 
+__label__rus	Солнце восходит на востоке ,  а заходит на западе . 
+__label__avk	ko ropexe golapil  ! 
+__label__tur	kızımın ateşi var .  doktoru aramam gerekir . 
+__label__ell	Τα ρούχα σου πάντα μυρίζουν άσχημα . 
+__label__eng	the woman they were due to call has left . 
+__label__deu	wie bist du so schnell hergekommen ? 
+__label__oci	quina ora èra quan entrètz hens la bastida  ? 
+__label__epo	mi ne scias ĉiujn detalojn . 
+__label__vie	cái này giá bao nhiêu ? 
+__label__fra	soudain ,  j ' ai mal au cœur . 
+__label__por	eu tenho medo de andar a cavalo . 
+__label__uig	مەڭگۈلۈك ھاياتلىقنى خالايمەن ! 
+__label__oci	lo daubrissètz pas ,  vos prègui . 
+__label__heb	היא הסתלקה לה לאיטליה . 
+__label__jpn	そんなことが再び起こらないように気をつけます。
+__label__oci	còpii ma frasa . 
+__label__rus	Ты считаешь себя смешным ? 
+__label__swe	i dag var havet varmt ! 
+__label__hun	merész dolog volt tőled ilyet mondani . 
+__label__heb	אי אפשר לשהות פה יותר . 
+__label__bul	Сега аз съм един зает човек . 
+__label__jpn	幸い、薬の効果はすぐに現れた。
+__label__bel	У самаахвяраванні найгалоўнейшае — своечасова ад яго адмовіцца . 
+__label__pol	pójdę do przodu . 
+__label__spa	en ese caso ,  ¿qué leyeron ? 
+__label__arq	نتا مالايكا ! 
+__label__pol	jego ojciec chcąc nie chcąc przystał na jego plan . 
+__label__rus	Ты должна сообщить об этом в полицию . 
+__label__kab	Ɣef ttmenya n ṣṣbeḥ ,  tarbaεt telḥa-d rrif n terga . 
+__label__eng	sami is a human being . 
+__label__wuu	我去拿老王寻得来。
+__label__deu	ich wurde gebeten ,  dich zu informieren ,  dass dein vater in einem unfall gestorben ist . 
+__label__cmn	他不是一个绅士。
+__label__spa	olvídalo .  no tiene caso darle consejo . 
+__label__por	vós estáveis lá ? 
+__label__cmn	可能你们中的许多人在动物园都看过熊猫。
+__label__ceb	dili ginapakaon sa esperansa ang atong mga pamilya . 
+__label__kzj	mangakan zikoi doid daamin . 
+__label__deu	was hat sie bewogen ,  deutsch zu lernen ? 
+__label__fra	je ne sais pas précisément où je suis née . 
+__label__jpn	京都の繁華街は交通渋滞がすごかった。
+__label__nds	worüm sünd de hier ? 
+__label__spa	¿vendrás conmigo ? 
+__label__fin	minun olisi pitänyt kysyä ensin tomilta . 
+__label__jpn	子供はいくら誉めても誉めすぎる事はないと考える人も居る。
+__label__rus	Тебе надо мобилизоваться . 
+__label__pol	coś widzę . 
+__label__bre	ur ganerez vat eo maja keuc . 
+__label__bel	Яна стала паліцэйскай . 
+__label__ukr	Не будь собакою . 
+__label__spa	su filosofía de la vida difiere de la mía . 
+__label__ces	málo močím . 
+__label__mar	तू त्याच्या ब्लॉग वाचतोस ? 
+__label__nld	ik ben niet bang voor enorme spinnen . 
+__label__avk	h eltay francavon zo sometiyar . 
+__label__pol	wszystkie jej tajemnice się wydały . 
+__label__ukr	Не думаю ,  що Том був здивований . 
+__label__ita	sono cattive . 
+__label__kab	nek d tom nenna-d i sin ih . 
+__label__pes	بالاتر از تحمل بالهایت پرواز نکن . 
+__label__nob	nei ,  du har ingen sjanse . 
+__label__ber	acḥal n warrazen ay d-yerbeḥ tom ? 
+__label__lat	nihil habeo dicere . 
+__label__tat	Озакламый кайтырмын . 
+__label__urd	ٹام تمھیں جانے نہیں دے گا۔
+__label__eng	i ' ve always been a confident person . 
+__label__glg	aló en parís fálase o francés . 
+__label__jpn	トムは眠っているようだ。
+__label__srp	Она је молила повећање плате . 
+__label__vol	lödob in yokohama . 
+__label__por	ele lavou uma maçã . 
+__label__mar	आजकाल जपानमध्ये निन्जा व सामुराइ नाहीत . 
+__label__eng	the cold doesn ' t seem to bother you as much as it bothers me . 
+__label__aze	mən lazanyanı sevirəm . 
+__label__srp	Имам два цвета . 
+__label__epo	kion li nun faras viaopinie ? 
+__label__jpn	宇宙飛行士たちが、無事に戻ったので人々は喜んだ。
+__label__lit	miestas skaičiuoja apie šimtą tukstančių geventojų . 
+__label__ber	ili-k d uɣdim ,  ad tilid d aseɛdi . 
+__label__pol	chodzę na zakupy co drugi dzień . 
+__label__ell	Είμαι στη Ρωσία . 
+__label__fra	je vais prendre deux aspirines avant de me coucher parce que j ' ai mal à la gorge . 
+__label__deu	als ich das klassenzimmer erreichte ,  war sie schon weg . 
+__label__pol	by poruszać wskaźnikiem kursora proszę użyć klawiszy strzałek . 
+__label__nld	ze hebben beiden dezelfde leeftijd . 
+__label__tlh	lengwij cha '  jajmey wa ' dich sis . 
+__label__ron	acum asta este amuzant . 
+__label__ita	vai a studiare in belgio . 
+__label__ita	ho bisogno di un ' ambulanza . 
+__label__cmn	这只手机实在是太贵了。
+__label__heb	תום ורעייתו נפרדו . 
+__label__por	É cedo demais . 
+__label__ron	azi e joi . 
+__label__srp	tvoja crna duša ,  u potpunosti trula . 
+__label__hin	मेरा बस्ता चोरी हो गया था।
+__label__lfn	Ме но фа еста де мулте аниос . 
+__label__jpn	私はどのサイズが合いますか。
+__label__avk	kas va jinafa rieta kevbenul  ? 
+__label__por	você irá ao dentista ? 
+__label__heb	האם היית אי פעם במקסיקו ? 
+__label__epo	kelkfoje la realo ŝajnas al mi nereala . 
+__label__tlh	bimighqu '  ! 
+__label__heb	אייעץ לך בנושא . 
+__label__epo	eble mi devintus diri al tomo . 
+__label__ita	le ombre umane possono essere viste come ombre divine . 
+__label__tur	İklimbilimcilerine göre ,  yarından itibaren hava çok sıcak olacak . 
+__label__nds	ik heff mi de karsbeerblössen ankeken . 
+__label__cmn	在父亲回家之前，我已经睡了。
+__label__ber	yismiḍ mliḥ lḥal . 
+__label__ell	τι είδος πορτοκάλια φυτέυετε εδώ;
+__label__tat	Бар сөйләгәнем - ялган .  Һәм бу хак сүз . 
+__label__pol	bob wrócił do domu bardzo późno . 
+__label__cor	ni a wor . 
+__label__rus	Том был неравнодушен к чарам Мэри . 
+__label__fra	thomas est tombé des nues . 
+__label__pol	widziałem toma nagiego . 
+__label__deu	wir sollten mit tom reden . 
+__label__nob	jeg støtte på en gammel venn . 
+__label__ita	ha qualche piano per il fine settimana ? 
+__label__tlh	ramjepmey vihaj . 
+__label__tur	bence gözlerin çok güzel . 
+__label__jpn	誰が君にそのニュースを告げたのか。
+__label__lit	jai pasisekė pabėgti . 
+__label__eus	tom etxera joan zen lasterka . 
+__label__ita	non gli ho parlato . 
+__label__por	uma quadrilha é um conjunto de bandidos . 
+__label__deu	das hätte eigentlich nicht passieren sollen . 
+__label__ron	tom a fost prins depășind viteza . 
+__label__ukr	Чому Тома немає вдома ? 
+__label__srp	Колико сам могао разабрати из његових речи ,  каже да пуно пије ,  и да је тешки алкохоличар . 
+__label__ell	Τα μπλε τριαντάφυλλα είναι πολύ όμορφα . 
+__label__tur	Şimdi eve gidiyorum . 
+__label__heb	סבסטיאן נשוי כבר שלושה ימים . 
+__label__eng	i ' ve been having second thoughts about your plan . 
+__label__bre	lonket em eus ec ' h anv . 
+__label__epo	Ĉiu ,  kiu vivas sufiĉe longe ,  povas iĝi maljuna . 
+__label__tur	tom ' un bu akşam akşam yemeğine geldiğini unuttum . 
+__label__mar	मी जुगार बंद करेन . 
+__label__ita	noi abbiamo cibo in eccesso . 
+__label__rus	Я из Киото . 
+__label__glg	fun convidado á súa festa de aniversario . 
+__label__spa	saqué el pastel del horno . 
+__label__por	o que está acontecendo por aqui ? 
+__label__srp	to je lep brod . 
+__label__lit	senukas atrodo prislėgtas . 
+__label__kab	fessus yiles-is . 
+__label__kab	ilaq-iyi ad uɣaleɣ deg unezgum ? 
+__label__rus	Нет ,  это меньшее ,  что я могу сделать . 
+__label__hun	meg fogod változtatni a véleményedet . 
+__label__jpn	彼が辞職すると言ううわさが広まっている。
+__label__ber	mary tejbed afus-is . 
+__label__cat	va escoltar amb molta atenció per no perdre ' s ni una sola paraula . 
+__label__dtp	pohoroon o kopolintaan do oloson dot au gatangon montok popokito do kohompit id abaabayan . 
+__label__rus	Мне надо сбросить вес ,  вот я и на диете . 
+__label__eng	you don ' t even understand the idea of real boredom . 
+__label__por	todo erro traz consigo uma lição . 
+__label__ita	va a fare carriera in portogallo . 
+__label__xal	Алдрсиг арhмҗар бәрҗ болдг ,  амнас алдрсиг күцҗ болдго . 
+__label__tur	beni burada zorla tutuyorlar . 
+__label__isl	Þetta er húsið sem þau bjuggu í . 
+__label__jpn	空のビンを捜して水を入れなさい。
+__label__fra	si un enfant dit que tu es moche ,  t ' es moche ! 
+__label__ita	viaggiamo sul filo del rasoio . 
+__label__por	estava tranquilo até que vi a seringa . 
+__label__ita	la mia squadra ha vinto la partita . 
+__label__kab	teskaddeb . 
+__label__cmn	有沒有其他人可以回答？
+__label__eng	mary promised to keep it to herself . 
+__label__bre	amañ emaon . 
+__label__fra	je n ' ai pas bu un verre depuis six mois . 
+__label__rus	Он у нас недавно . 
+__label__cmn	發生在一年前。
+__label__sqi	si e shqipton mbiemrin tënd ? 
+__label__oci	es la fauta deu tòm . 
+__label__mhr	Чыла свидетельым йодышт пытарымек ,  судышто титаклыше-влак ойлаш тӱҥалыт . 
+__label__tur	ona deli gibi aşık oldum . 
+__label__nld	de duitsers hebben geen gevoel voor humor ?  ik vind dat niet grappig ! 
+__label__vie	anh ta đã ra biển để bơi . 
+__label__tur	hiçbir ihtimali kovma . 
+__label__por	a mulher de tom testemunhou contra ele . 
+__label__lit	pica tai mano mėgstamiausias valgis . 
+__label__pol	straciliśmy wszystko i musieliśmy zacząć od zera . 
+__label__lfn	parla plu lenta . 
+__label__lat	anna mihi hoc donum dedit . 
+__label__bre	oc ' h ober petra emaout ? 
+__label__war	hi tom permi nareklamo mahitungod kan mary . 
+__label__ita	"dove andrà fra due settimane ? " "in lettonia . "
+__label__bul	Том сега не е в Бостън . 
+__label__ukr	Мені цілком однаково . 
+__label__epo	Ŝi estis tre senpacienca kun siaj infanoj . 
+__label__khm	ញ៉ាំ  ! 
+__label__kab	ayɣer a tettruḍ ? 
+__label__tur	ne zaman avustralya ' ya göçtün ? 
+__label__fra	ils perdirent la bataille . 
+__label__heb	מאשימים בכך את תום . 
+__label__eng	you like camping ,  don ' t you ? 
+__label__nds	appels wasst op bööm . 
+__label__ber	iḍelli ay tedda . 
+__label__nld	ik zou frans moeten leren . 
+__label__hin	"ये किसके खत हैं ? " "लिंडा के।"
+__label__fra	tom ne peux pas porter toutes ces valises ,  tu devrais l ' aider . 
+__label__heb	הוא נאה וחסון . 
+__label__tur	tom davul çalar ve ayrıca şarkı söyler . 
+__label__eng	tom didn ' t want to bother mary . 
+__label__dan	alt er gået godt . 
+__label__fra	combien facturez-vous les leçons  ? 
+__label__mhr	Испан йылме тудын шочмо йылмыже . 
+__label__deu	der neue motor muss alle notwendigen tests durchlaufen . 
+__label__tur	tom her pazartesi yüzmeye gidiyor . 
+__label__jpn	日本語版があったらいいな。
+__label__bre	ne c’hallan ket ober se . 
+__label__nob	måtte tom også gjøre det ? 
+__label__ita	lei soffre . 
+__label__tur	böcekleri sever misiniz ? 
+__label__deu	du darfst keine hunde in dieses gebäude bringen . 
+__label__pol	taki plan nie może się udać . 
+__label__ita	ci sono lotte giuste e lotte sbagliate . 
+__label__swe	sänk volymen på tv:n . 
+__label__tur	tom mary ' nin onu öpüp öpmeyeceğini merak etti . 
+__label__fra	ils nous ont reçus à dîner hier soir . 
+__label__ido	tom parolas la franca tam bone kam me . 
+__label__rus	Один Том с этим не справится . 
+__label__kor	미안 ,  실수했어 . 
+__label__tur	babam pizzadan hoşlanır . 
+__label__hin	कनाडा जापान से बड़ा है।
+__label__spa	todo esto son palabras vacías . 
+__label__ita	ha visto un serpente . 
+__label__hun	sokan járnak hozzánk ,  de főleg a fiatalok . 
+__label__ron	tom nu a primit vești de la mary din iunie . 
+__label__ber	tedda . 
+__label__eng	tom and mary look like they ' re busy . 
+__label__eng	let ' s just forget that this whole thing happened . 
+__label__swe	tom kan höra er . 
+__label__oci	a mon pair l ' agrada que son cafè sia hòrt . 
+__label__deu	eine sache ,  die sich nicht ändern will ,  ist mein gehalt . 
+__label__bul	Искам да знам какво става тук . 
+__label__rus	Пока я купался ,  мне в голову пришла хорошая идея . 
+__label__eng	what ' s that got to do with her ? 
+__label__ber	ur iyi-ggar ara deg wuguren-nnem . 
+__label__epo	mi volas diri al vi ,  kio okazis . 
+__label__dan	nancy er en kompetent sygeplejerske . 
+__label__rus	Дважды в день сварщик Афанасий с удивительной для знающих его людей добротой расчёсывает любимого пуделя . 
+__label__rus	Том ждет внутри . 
+__label__eng	your success depends a lot on how your manager and other people in the office perceive you . 
+__label__rus	Он сходил к колодцу набрать воды . 
+__label__zsm	saya hanya mempunyai 10 naskah buku . 
+__label__ces	tys to opravdu udělal . 
+__label__eng	that lady has a fan because it is hot . 
+__label__eng	i caught up with tom . 
+__label__urd	میں اتوار کے علاوہ ہر روز کام کرتا ہوں۔
+__label__eng	he always leaves his computer on . 
+__label__jbo	mi ' o gasnu ma pe ' ipei ca lo cnino kulcitsi
+__label__eng	the truth ,  in the wrong moment ,  can be dangerous . 
+__label__spa	están enojados . 
+__label__srp	baš tako . 
+__label__ell	Το αγόρι στέκεται στη σάλα . 
+__label__fra	je pense qu ' il ne viendra pas . 
+__label__lat	mihi octonas litteras scripsit . 
+__label__deu	könnten sie mir etwas geld borgen ? 
+__label__fin	tom ei tiennyt mistä alkaisi . 
+__label__hun	elnevette magát ,  amikor meglátta a kalapját . 
+__label__epo	unu fojon en ĉiu semajno nia kara patro legadis al ni prozaĵon ,  por igi nin vidi la belecon de la mondo . 
+__label__eng	what are you going to be using the frogs for ,  mister ?  asked one of the boys . 
+__label__deu	er verschluckte einen giftpilz . 
+__label__kzj	pinantangan diau di saviavi tuhun . 
+__label__ita	dammi anche del caffè forte ! 
+__label__fra	ce n ' est pas si étrange . 
+__label__ita	scrivevate . 
+__label__lat	sapientior est eis . 
+__label__ces	nezvládá stres . 
+__label__swe	vem .  berättade för tom att jag inte mådde bra ? 
+__label__mar	देव किंवा बुद्ध अशी कोणतीही गोष्ट नसते . 
+__label__ron	nu sunt obișnuită cu un asemenea tratament . 
+__label__lfn	los ia compra un computador nova ier . 
+__label__heb	קן משחק כדורגל כל יום . 
+__label__heb	יש לי המפתח . 
+__label__eng	sami tried to kill his father . 
+__label__ita	ha migliorato molto la mia mattinata . 
+__label__eng	tom is a guy i lived with for three months . 
+__label__fin	panda syö lähes pelkästään bambua . 
+__label__mkd	Го утнавме излезот . 
+__label__mkd	Волен ли си да ми помогнеш ? 
+__label__mkd	Нека му почива душата во мир . 
+__label__cat	aixo depen del contexte
+__label__tur	onlar ortamı elektronik müzikle yorumluyor . 
+__label__epo	surprize ,  estis neniu en la vilaĝo . 
+__label__fra	sa maladie n ' est pas inquiétante . 
+__label__lfn	Он регарда ла фужи манадин ен Мина ен ла сетембре пасада комо ла десастре ла плу граве ен ла историа де ла хадж .  Ло иа авени куандо перегринорес – де ки мултес иа ес иранис – иа ваде а ла Понте Джамараат пер ла ритуо номида ла Бомбарда де ла Диабло кон петрас .  Ла ритуо ва коменса а лунди ен еста анио . 
+__label__jpn	ケンは私とならんで走った。
+__label__glg	había un bo número de estudantes na sala . 
+__label__tlh	nuvpu '  motlh vighijmeh tlhingan hoi vighojli '  . 
+__label__ukr	Том відригнув . 
+__label__dtp	monongkiboros oku disido . 
+__label__kaz	Барлығы керісінше болып шықты . 
+__label__ell	Ο φίλος μου μένει σ '  αυτό το σπίτι . 
+__label__spa	Él se enfadó mucho con mary . 
+__label__tat	Еш кына чынбарлык фантастикасы шагыйрьләр хыялын да уздырып җибәрә торган була . 
+__label__ind	tom ingin menjadi bosnya . 
+__label__ukr	Том передав Мері банан . 
+__label__pol	odwołał spotkanie w ostatniej chwili . 
+__label__avk	in tir listaf dug . 
+__label__epo	mi ne povas paroli . 
+__label__tur	tom baskı altında soğukkanlıdır . 
+__label__pol	celowo mówię głośno . 
+__label__por	ela possui idade suficiente para ter uma carteira de motorista . 
+__label__heb	אני לא יודע מה תום עושה . 
+__label__nld	ik heb het hem beloofd . 
+__label__pes	به دوستت قرض بده، از دشمنت قرض بگیر . 
+__label__ita	abbiamo aiutato tom molte volte . 
+__label__fra	dans ce chapitre on va introduire deux méthodes numériques pour le calcul des valeurs propres d ' une matrice . 
+__label__ile	esque to es mi glass ? 
+__label__eng	she has a lump on her forehead . 
+__label__tur	kız kardeşim benden sözlüğümü ona ödünç vermemi istedi . 
+__label__rus	Дай Тому закончить . 
+__label__lit	tas kambarys nėra labai didelis . 
+__label__swe	jag kan inte tro att han har kysst dig . 
+__label__lfn	me ia brosi sua capeles . 
+__label__eng	there are some tools with which to do the job easily . 
+__label__cmn	我寧願待在這裡而不去。
+__label__hin	हमने फिरसे करने की कोशीश की ,  पर नहीं कर पाए।
+__label__hun	sohasem túl késő valami jót tenni . 
+__label__rus	Уверен ,  мы можем их убедить . 
+__label__kab	ad tt-tawimt yid-kent ? 
+__label__deu	hast du dein badezeug dabei ? 
+__label__pol	jeśli można ,  przyjdę jutro . 
+__label__jpn	彼は鍵を忘れたが、針金を鍵穴に差し込むことで扉を開けることができた。
+__label__nob	hvorfor kom hun ikke i går ? 
+__label__por	o alemão é uma língua germânica . 
+__label__lat	mensam scriptoriam meam in ordinem redegi . 
+__label__fra	je pouvais seulement transmettre le problème oralement . 
+__label__war	usa ako nga speechwriter . 
+__label__eng	i don ' t like to fail . 
+__label__eng	hold your horses ,  young man . 
+__label__tgl	kasundo ko ang mga kapitbahay ko . 
+__label__ita	senza insultare non sai scrivere ? 
+__label__kab	imeḥbas ad rewwlen ! 
+__label__fin	hän on hyvin kaunis . 
+__label__vol	logols-li bödi su telefonadrat ? 
+__label__nld	ik genas . 
+__label__ita	"di che nazionalità sono le tue madri ? " "vietnamita . "
+__label__fra	juste de l ' eau ,  s ' il vous plaît . 
+__label__rus	Они отказались в том признаться . 
+__label__jpn	彼は３月に学校を終えた。
+__label__glg	debes comer alimentos nutritivos . 
+__label__ita	lui dice di chiamarsi tom . 
+__label__fra	le ski hors-piste est interdit . 
+__label__swe	vi är i en konjunktursvacka . 
+__label__spa	¡ven y mira ! 
+__label__heb	היא תמיד מתנהגת באדיבות כלפי כולם . 
+__label__ita	tom bevve un sorso di brandy . 
+__label__heb	איך זה הגיע פה למעלה ? 
+__label__epo	la produktado ĉe ĉi tiu fabriko estas pliiĝinta je dudek procentoj . 
+__label__tur	bir kitap bir arkadaşla kıyaslanabilir . 
+__label__ile	omnicos es possibil . 
+__label__ina	no ,  il ha nemo . 
+__label__hrv	igrali smo na plaži . 
+__label__ces	znáš můj názor . 
+__label__heb	משקלה בעלייה . 
+__label__mkd	Сам стоеше . 
+__label__jpn	水は冷たくて気持ちが良い。
+__label__epo	al mi plaĉas kiel vi traktas min . 
+__label__fra	mon chien va partout avec moi . 
+__label__por	ouvi que havia jacarés no esgoto . 
+__label__kor	그는 나를 설득해 가도록 만들었다 . 
+__label__ilo	mangan ti abodo ni nestor . 
+__label__ina	ille ha capitulate . 
+__label__lvs	intresanti . 
+__label__por	minha mesa é velha . 
+__label__ber	sin rnu-as kraḍ rnu-as kuẓ ad d-fken tẓa . 
+__label__lat	deleta est . 
+__label__deu	die nachricht sorgte im ganzen dorf für aufruhr . 
+__label__por	tom é um lunático . 
+__label__rus	Как вы её убедили ? 
+__label__ita	ha ricominciato . 
+__label__ber	ur jemmɛeɣ tugniwin-nwen . 
+__label__ina	il es bastante difficile de assemblar le pecias de un horologio . 
+__label__lat	amici eramus . 
+__label__dan	jeg kan godt vente . 
+__label__kab	ad ḥewwsen yid-nteɣ ? 
+__label__aze	bayquşlar qaranlıqda görə bilirlər . 
+__label__kor	제가 어른이되면 ,  나는 영어 교사가되고 싶어요 . 
+__label__tur	sana söz verdim . 
+__label__lat	corpora lente augescent cito extinguuntur . 
+__label__spa	¿cuándo nació la democracia ? 
+__label__ber	ifuk wakud n wurar a dan . 
+__label__cat	en tom estima la seva muller ,  l ' elizabeth . 
+__label__uig	قېنى بۇنى رېمونت قىلىڭ . 
+__label__fin	mitä haluaisit ruoaksi ? 
+__label__eng	he could not but admire her . 
+__label__heb	תום הכיר בכך שהוא די תחרותי . 
+__label__jpn	彼女は犬に餌をやるのを忘れた。
+__label__por	não é qualquer um que sabe usar uma calculadora científica . 
+__label__fra	il parle à tort et à travers . 
+__label__lit	meilė yra ne tik jausmas ,  bet taip pat ir menas . 
+__label__spa	tengo que responder a su carta . 
+__label__epo	tomo porparolas socialan medicinon . 
+__label__mhr	Теҥгече кас велеш мамык лум возын . 
+__label__epo	mi timas uzi aviadilon . 
+__label__eng	tom shut the lid . 
+__label__eng	it must be said that there are very few films made there . 
+__label__spa	me pidieron que hiciera esto . 
+__label__epo	tia kolero ne estas lia kutimo . 
+__label__ina	duo lineas recte coplanar non parallel se intercepta . 
+__label__kor	니 맘대로 하세요 . 
+__label__gle	sin í an bhean ar fhan siad léi . 
+__label__pes	این اتاق تهویه‌ی مطبوع دارد . 
+__label__fra	il faisait la sieste . 
+__label__cmn	這班有五十個學生。
+__label__hun	azokat már eladtam . 
+__label__fra	visiblement ,  tom ne voulait pas y aller . 
+__label__spa	estamos ladrando como perros . 
+__label__epo	mi havas du biletojn por la imperia teatro . 
+__label__eng	i don ' t think tom and mary are very talented . 
+__label__tur	geriye gitme . 
+__label__fra	l ' astronaute mit du temps à s ' habituer à la condition d ' apesanteur . 
+__label__kab	tettuceyyeε tebrat-iw ? 
+__label__pol	napiszę do was pojutrze . 
+__label__deu	mein linkes schultergelenk schmerzt . 
+__label__rus	Сейчас он очень востребованный актёр . 
+__label__kor	그 순간을 기회로 활용하세요 . 
+__label__deu	ihr seid größer als sie . 
+__label__chv	Сӑмахӑм юлмарӗ . 
+__label__zza	mérdeyi u dı keyneyé ay esta . 
+__label__spa	hazme saber cuándo esperas estar aquí . 
+__label__dan	jeg havde ingen anelse om hvor pladsen ,  hvor jeg skulle sove ,  befandt sig . 
+__label__isl	verð ég að gera það strax ? 
+__label__fin	tomin mielestä se oli outoa . 
+__label__jpn	アメリカでは酒を買うには自分を証明しなければならない。
+__label__vie	Đây là máy ghi âm của bạn ? 
+__label__tur	tom bir tür üniforma gibi görünen şeyi giyiyor . 
+__label__grn	che sy ojapo tembi ' u he . 
+__label__ell	Ποιος άφησε ανοιχτή την πόρτα;
+__label__bul	Чаках колкото ми беше възможно . 
+__label__rus	Не всегда легко отличить добро от зла . 
+__label__eng	you could ' ve stayed at my place . 
+__label__deu	hättest du ein paar minuten für mich ? 
+__label__hun	de cukorfalat ! 
+__label__hun	kivel csaltál még meg ? 
+__label__ukr	Хлопці ,  ви його знаєте ? 
+__label__tur	benim babalarım öldü . 
+__label__lit	sveiki atvykę į braziliją ! 
+__label__ita	tom si sta già vestendo . 
+__label__tlh	puh duj chu '  vije '  vineh . 
+__label__ukr	Том привітав Мері . 
+__label__spa	desearía que fuera verdad . 
+__label__aze	bizim shəhərimizdə her il tedrici deyisiklikler bas verir  . 
+__label__eng	mary is already up ,  isn ' t she ? 
+__label__jpn	私は彼の葉巻から煙の輪空中に漂っていくのをじっと見つめていた。
+__label__ber	ssazedgen idayniyen . 
+__label__tur	bugün ne yapıyorsun ? 
+__label__eng	after the bird had sung ,  it flew away . 
+__label__pes	بیایید مسابقه ی بیست سئوالی بازی کنیم . 
+__label__aze	mən zombiyəm ! 
+__label__rus	Думаешь ,  он завтра придёт ? 
+__label__rus	Ты дурак или прикидываешься ? 
+__label__eng	i doubt very seriously that tom will be here . 
+__label__epo	mi tion vidas ,  mi tion aŭdas ,  sed tamen tion kredi mi ne povas . 
+__label__cor	yma ev owth ola . 
+__label__kab	mi ldiɣ tabexsist-nni ,  ufiɣ-tt teččuṛ d tiwekwin . 
+__label__ita	suo figlio è un pilota di jet . 
+__label__por	pode deixar que eu compro os presentes . 
+__label__pol	spóźnił się z powodu śniegu . 
+__label__bel	Дзе вакзал ? 
+__label__bul	Нанси го извика на парти . 
+__label__rus	Сколько языков знает Шарлотта ? 
+__label__glg	góstalle todo o doce . 
+__label__tur	yazım tarzını beğeniyorum . 
+__label__ita	tom è un trombettista . 
+__label__tur	bu büyük bir iş fırsatı . 
+__label__toki	o tawa o pana e pona tawa jan sama sina . 
+__label__tur	tahran ' da yaşıyorum . 
+__label__pol	ziarnko do ziarnka i zbierze się miarka . 
+__label__deu	niemand hat sich beschwert . 
+__label__nds	disse länner hebbt to frankriek höört . 
+__label__tur	neden onu satın almak istiyorsun ? 
+__label__fra	nous partageâmes les profits entre nous tous . 
+__label__swe	tom hatar lögnare . 
+__label__ukr	Я презираю штучні мови . 
+__label__ber	wenni yifen ɣel Ṛebbi d wenni uggden Ṛebbi ujar . 
+__label__por	eu não quero mentir para eles . 
+__label__deu	sie sind ein selbstsicherer mann . 
+__label__afr	tom gaan nie vandag by die skool wees nie . 
+__label__pes	با فرمان‌برداری، فرمان دادن فرا گرفته می‌شود . 
+__label__ita	io non volevo nulla . 
+__label__heb	הבית שלו ליד הנהר . 
+__label__srp	niko ne ide nigde . 
+__label__epo	bonvolu ordigi vian ĉambron; hodiaŭ ni havos gastojn . 
+__label__ara	أحرز توم هدفًا . 
+__label__ron	de unde și până unde aș face eu așa ceva ? 
+__label__rus	Мы искали это везде и повсюду . 
+__label__pol	nauczyciel matematyki pewnie nie zrobi jutro testu . 
+__label__fra	vous ne pouvez pas gérer ça tout seul . 
+__label__rus	Ему завтра рано вставать . 
+__label__ita	"di che nazionalità erano le sue alunne ? " "finlandese . "
+__label__eng	i wonder whether tom really needs that or not . 
+__label__bre	kemer kafe ! 
+__label__fin	sinun pitäisi viedä autosi tomin korjaamolle .  hän tekee varsin hyvää jälkeä . 
+__label__eng	is there anything we need to do this morning ? 
+__label__ces	tamhle odjíždí překrásný kočár . 
+__label__rus	Я рассматривал и эту возможность . 
+__label__isl	hún bað hann um að lesa það fyrir sig . 
+__label__spa	se supone que iba a estar aquí antes de las diez . 
+__label__rus	Моя собака всегда лает на почтальона . 
+__label__epo	tiu radiostacio aŭdigas bonan muzikon . 
+__label__eng	mary says she didn ' t know tom wasn ' t able to speak french . 
+__label__ita	vendono tutto qui . 
+__label__rus	Ты можешь заниматься анимацией ,  а не мацать разных заразных . 
+__label__deu	du kannst mich nicht hypnotisieren . 
+__label__eus	aterki hau zenbat da ? 
+__label__por	o almoço está com um cheiro delicioso . 
+__label__epo	li senĉese almozpetas min . 
+__label__slk	to nie je ich vina . 
+__label__nld	we hebben elkaar gewaarschuwd . 
+__label__rus	Том думал поехать в Нью-Йорк . 
+__label__ukr	Ти серйозно хворий ? 
+__label__ita	vorreste che controllassi questo ? 
+__label__aze	mən belə soyuğa dözə bilmirəm . 
+__label__epo	li brue malfermis la pordon de la kuirejo . 
+__label__ukr	Що мені купити ? 
+__label__fra	c ' était la chance du débutant . 
+__label__ber	s kra ay tɛetteb ,  tagara ala d ankaṛ n lxir ay tufa . 
+__label__bul	Том седна до прозореца ,  четейки книга . 
+__label__pol	nikt mi nie powiedział . 
+__label__eng	tom came to australia to see me . 
+__label__spa	le di todo a tom . 
+__label__ces	prodáváš víno ? 
+__label__eus	ni nekien tomek dembora nahikoa zeukadala . 
+__label__hun	igen ,  de hokkaidóban többet esik ,  mint niigatában . 
+__label__epo	la edzo kaj la edzino vizitas pekinon . 
+__label__bul	Миналата година се пенсионирах . 
+__label__pol	japonia jest pełna niespodzianek ! 
+__label__cmn	我的马是白色的。
+__label__mar	त्यांनी मला खूप हसवलं . 
+__label__fra	c ' est impossible qu ' il ait oublié notre rendez-vous . 
+__label__jpn	物が二重に見えます。
+__label__rus	Том слушал грустную музыку . 
+__label__swe	eller hur ? 
+__label__afr	sy het geglimlag en my geskenkie aanvaar . 
+__label__ita	fadil ama ancora dania . 
+__label__urd	مجھے تمہارا سکارف اچھا لگا ہے۔
+__label__rus	Он глуп . 
+__label__ara	سيسعدني مساعدتك . 
+__label__ron	a venit doctorul . 
+__label__tlh	pu ' jindaq  ' oh hi ' ang ! 
+__label__nds	he hett sik dat geld von en fründ lehnt . 
+__label__ber	marie tcerreq tawwurt . 
+__label__mhr	Авам пала гын ,  унчыливуйын сака . 
+__label__heb	מה דעתך על העיר הזאת ? 
+__label__ita	noi stiamo aspettando con trepidazione di essere smentite . 
+__label__mar	टॉम खरंच उदास वाटत होता . 
+__label__nds	wie hebben eten . 
+__label__swe	jag saknar dig också . 
+__label__rus	Стратегия явно не сработала . 
+__label__ina	io simplemente non pote comprender vos ! 
+__label__eng	they already left . 
+__label__ces	nebudu připraven nějaký ten týden . 
+__label__tur	sami ,  leyla ile konuşmayı kesti . 
+__label__aze	mən çox yorğun idim . 
+__label__tur	tom havuçları doğradı . 
+__label__yue	如果我哋再多少少錢，就買到嗰架車㗎喇。
+__label__nob	vennligst skriv med blyant . 
+__label__isl	hafðu það gott í dag . 
+__label__wuu	明朝九点钟帮我打电话。
+__label__fin	tomi puraisi maria . 
+__label__bul	Бог създаде човека по свой образ и подобие . 
+__label__fra	traduis le passage mot à mot . 
+__label__ces	zavolal jsem tomovi . 
+__label__khm	ថ្ងៃនេះ នៅប្រទេសជប៉ុន មានព្យុះខ្លាំង ។
+__label__hun	nehogy felbőszítsétek apátokat ! 
+__label__pes	یک دشمن دانا بهتر از یک قوم و خویش نادان است . 
+__label__spa	tú eres la razón por la que estoy aquí . 
+__label__nds	dor is vulkaansche asch in ’e atmosphäär . 
+__label__fra	il a regardé ma belle tulipe . 
+__label__por	queres que eu te ajude com a tarefa ? 
+__label__ces	jak se nazývá tato květina ? 
+__label__cor	ty a allas gul homma . 
+__label__eng	tom ,  mary ,  john and alice all live in the same apartment building . 
+__label__tur	dere geçerken at değiştirilmez . 
+__label__mkd	Досадно ли ти е тука ? 
+__label__rus	Это видео содержит контент ,  принадлежащий третьим лицам .  По закону об авторском праве РФ я имею право использовать его для создания пародии ,  которой данное видео и является .  Я не присваиваю себе авторство над видео- и аудиозаписями ,  я лишь являюсь автором всей картины в целом . 
+__label__nds	worüm dröögst du di de hoor ? 
+__label__ina	il ha quamquam un solution . 
+__label__bul	Не се отказвам . 
+__label__por	aquele cão ,  cujo dono morreu de uma maneira que o cão não sabia ,  tendo sido enterrado num lugar que o cão ignorava ,  guardou demorado luto por ele; mas ,  como o tempo foi passando sem que nada acontecesse capaz de fazê-lo lembrar-se do dono ,  ele o esqueceu . 
+__label__jpn	得意顔の新しい父親として、私は最初の子供に本をたくさん与えた。
+__label__ita	"vanità di vanità" ,  dice il predicatore; "vanità di vanità ,  tutto è vanità . "
+__label__hun	- ez a puding az enyém !  az enyém ,  érted !  ?  - kérlek ,  vidd !  nekem egyáltalán nem kell . 
+__label__srp	da li ti je tom ikada odgovorio ? 
+__label__rus	Ты всё время делаешь одну и ту же ошибку . 
+__label__deu	mike hat ein paar freunde in florida . 
+__label__lit	tūkstančiai žmonių miršta iš bado . 
+__label__spa	ayer conocí a un estudiante americano . 
+__label__hun	magától értetődőnek tűnik ,  de azok a mondatok tűnnek a legtermészetesebbnek ,  amit saját magad írsz . 
+__label__kor	그는 꽤 젊었을 때부터 대머리가 되기 시작했다 . 
+__label__por	o que foi que ela disse ? 
+__label__tur	geçen hafta boston ' a uçtum . 
+__label__ceb	magpalit ko ug bulak para sa akong asawa . 
+__label__bel	Я хачу ,  каб ты сустрэлася з маімі татам і мамай . 
+__label__cmn	顺便说一句，你最近见过他吗？
+__label__dan	betræd ikke græstæppet ! 
+__label__ita	"di che nazionalità erano le loro cugine ? " "inglese . "
+__label__ita	mi è mancato tom . 
+__label__eng	i plan to watch a game at the baseball field the day after tomorrow . 
+__label__pol	miał jedną córkę . 
+__label__epo	lerni duan lingvon necesigas multan trejniĝon . 
+__label__rus	Ты должен сделать правильный выбор . 
+__label__bul	Ти изобщо слушаш ли ме ? 
+__label__rus	Помидоры черри вымыть ,  крупные разрезать пополам ,  мелкие оставить целиком . 
+__label__srp	Господине ,  мој шешир ! 
+__label__eng	i think that i ' m never going to get the chance to do that . 
+__label__rus	Собери свои вещи . 
+__label__dan	kunstmaleren bruger kun døde farver i sine malerier . 
+__label__fra	je ne peux pas voyager en avion . 
+__label__ita	non dimentichi di chiamarli . 
+__label__nob	i begynnelsen engstet jeg meg over feilene mine . 
+__label__tat	Ул наянланып башын артка ташлады . 
+__label__gle	tá beirt neacht agam . 
+__label__ell	Κέρδισε ένα τηλέφωνο . 
+__label__hun	tamásnak van egy autója . 
+__label__tur	"hocaların nereli ? " "paraguay . "
+__label__toki	tenpo ni li tenpo mun pi nanpa tu wan li tenpo suno pi nanpa luka luka luka luka luka tu . 
+__label__hun	Így már értünk mindent . 
+__label__hye	Մենք արդեն հանդիպե՞լ ենք:
+__label__chv	Кунсерен ҫуршар сехет акӑлчанла вӗренетӗп . 
+__label__dan	vi pyntede juletræet med lys . 
+__label__ita	tom e mary sono occupati ? 
+__label__rus	Вас все дети любят . 
+__label__epo	kian aŭton stiras tomo ? 
+__label__hun	azon a ponton a hibát már el fogják követni . 
+__label__war	diri ako maaram sumayaw . 
+__label__jbo	xu ja ' ai do na nu ' ogle
+__label__bel	Ён толькі што выйшаў з майстэрні . 
+__label__spa	el prominente médico fue investido doctor honoris causa . 
+__label__por	fique de joelhos . 
+__label__cat	ell té una entrada . 
+__label__vie	tôi sẽ gửi cho anh tiểu phẩm tôi vừa viết xong . 
+__label__spa	adoro esa historia . 
+__label__eng	tom said that he doesn ' t think he ' ll ever be able to do that . 
+__label__fin	miten tom saattoi tehdä näin meille ? 
+__label__por	todas as manhãs leem e releem os jornais . 
+__label__ber	nezmer daɣen ad nebdu imir-a . 
+__label__hun	a szentmise végén eljátszották a himnuszt is orgonán . 
+__label__por	eles vão me matar . 
+__label__hin	टॉम दरवाज़े के पास खड़ा हुआ।
+__label__eng	he has a strong shoulder for you to lean on . 
+__label__rus	Марк плачет ,  потому что мать его шлёпает . 
+__label__rus	Том не любит ,  когда в доме гости .  От шума и мелькания лиц у него болит голова . 
+__label__tur	her şeyi yapmak istiyorum . 
+__label__avk	inya tir tel losagaf kurenik : va mek fertik al rester . 
+__label__hrv	oni se ne slažu . 
+__label__nds	wen häöert düsse tasken ? 
+__label__ina	quando io audi tal nonsenso de tu bucca ,  io non pote impedir me de rugar le supercilios . 
+__label__epo	oni ne trovis la armilo de la murdo . 
+__label__ita	per studio andiamo in estonia . 
+__label__vie	Ở hoa kỳ ,  bạn sẽ nhớ món ăn nhật bản . 
+__label__fin	tom kysyi minulta haluanko ketsuppia hampurilaiseeni . 
+__label__eng	mary got what she needed . 
+__label__deu	wir sind gestern nicht daheim geblieben . 
+__label__cat	aixeca ' t ,  amiga meva ,  bonica meva ,  i vine ! 
+__label__ukr	Ви лякаєте дітей . 
+__label__nds	vondaag is dat temlich koold . 
+__label__rus	Она пересекла финишную черту последней . 
+__label__fra	mes chaussures sont trop serrées . 
+__label__bre	ganeoc ' h e vez evet gwin ? 
+__label__jpn	実際彼は間抜けに見えた。
+__label__ind	di mana jaketmu ? 
+__label__deu	tom stand zeitig auf ,  um den ersten zug zu nehmen . 
+__label__hun	pontosan az ellenkezője igaz . 
+__label__fra	je l ' ai fait de plein gré . 
+__label__epo	Ŝi malrapide iris for de ni . 
+__label__epo	mi alpruntas monon . 
+__label__fra	je ne sais pas qui tu veux rencontrer . 
+__label__pol	początki tenisa miały miejsce we francji ,  w trzynastym wieku . 
+__label__lfn	tota de mundo ia comensa disputa . 
+__label__lat	sol egressus est super terram ,  et lot ingressus est segor . 
+__label__lzh	真者，精誠之至也。不精不誠，不能動人。
+__label__avk	ant awalkoda va naboxapursara sogruper . 
+__label__ber	ur asen-sserɣayeɣ lɣella-nsen . 
+__label__eng	tom doesn ' t care about anyone but himself . 
+__label__ido	ca pupeo havas granda okuli . 
+__label__nld	ik betaal belastingen . 
+__label__heb	אינני אוהבת ברחשים . 
+__label__deu	es ist frisch heute morgen ,  oder ? 
+__label__gle	an bhfuil tú i do chónaí i meiriceá ? 
+__label__tur	anne ezici bir sahne korkusu saldırısının kurbanıydı . 
+__label__nld	eén zwaluw maakt de lente niet . 
+__label__heb	אנחנו יכולים לקבל אחד בשבילכם . 
+__label__hun	nem érzem magam bűnösnek . 
+__label__bre	n ' em eus c ' hoant ebet da ganañ . 
+__label__hun	ezt nem bocsátja meg nekem az apám . 
+__label__hun	volna pár kérdésünk . 
+__label__lat	manibus edo . 
+__label__fin	jos ystäväsi hyppäisivät sillalta ,  hyppäisitkö sinäkin ? 
+__label__eng	he is a tough cookie . 
+__label__ukr	Не думаю ,  що ти будеш розчарована . 
+__label__xal	Сәәнд бичә зуһуд ,  мууг бичә даҗр . 
+__label__ber	cikkeɣ zemreɣ ad d-lemdeɣ aṭas n tɣawsiwin sɣur-m . 
+__label__rus	Я встретил Тома на аукционе несколько лет назад . 
+__label__hrv	nismo mogli to napraviti . 
+__label__hin	तुम्हारे उठने का समय हो गया है।
+__label__spa	monsanto controla el 27% del mercado mundial de semillas . 
+__label__ina	le anarchistas crede que le societate pote functionar per adjuta mutual . 
+__label__tur	Şimdi ne yapmamız gerektiğini düşünüyorsun ? 
+__label__nds	en wrede martel- un richtmethood is ,  de persoon över en bambusspruut fasttobinnen un de plant denn dör em dör wassen to laten . 
+__label__slv	si prepričan ? 
+__label__ile	il ha scrit mult libres pri china . 
+__label__hun	féltem . 
+__label__mkd	Том има црна мачка . 
+__label__hin	मैंने ज़िन्दगी में पहली बार कोई अच्छा काम किया पर वह भी बेकार निकला।
+__label__epo	li ne sciis ,  kion diri ,  tial li restis silenta . 
+__label__ukr	Йому обов ' язково вдасться . 
+__label__fin	ketä kiinnostaa ? 
+__label__tur	her türlü ödemeyi kabul ediyoruz . 
+__label__por	preciso de uma enfermeira agora mesmo . 
+__label__por	ei ,  você ! 
+__label__tur	bırak da güleyim ! 
+__label__eng	we need all the money we can get . 
+__label__rus	Ты заставляешь меня смеяться . 
+__label__deu	ich habe nicht die absicht ,  ihn zu heiraten . 
+__label__eng	sami isn ' t a friend . 
+__label__fra	je viens de me lever .  donne-moi quelques minutes pour me préparer . 
+__label__nno	dei driv og grev eit hol . 
+__label__mkd	Тоа е интересен избор . 
+__label__lat	nemo hoc problema solvere potest . 
+__label__heb	השניים התחבקו . 
+__label__deu	ihr habt überlebt . 
+__label__heb	יש יותר מדי גשרים בעיר הזאת . 
+__label__rus	Ты что ,  дальтоник ?  Красное от зелёного отличить не можешь ? 
+__label__tlh	dahjaj qonoslijdaq bighitlhta '  ' a '  ? 
+__label__deu	tom öffnete ziehend die türe und trat ein . 
+__label__tur	o ,  bana anlamlı bir şekilde baktı . 
+__label__mkd	Знам дека си му помогнал . 
+__label__hun	hű ,  a teringettét ! 
+__label__tur	bir cismin dayanıklılığı boyutları ile ters orantılıdır . 
+__label__ukr	Том зняв капелюх . 
+__label__isl	hvað mundirðu gera í mínum sporum ? 
+__label__heb	בוא נפעיל את המזגן . 
+__label__tur	yolsuzluk bir sorundu . 
+__label__fra	elle est en bons termes avec lui . 
+__label__rus	Может быть ,  этого хватит . 
+__label__mhr	Тудо льыптырий ӱдырамаш огыл . 
+__label__ina	io debe conferer con mi collegas sur iste question . 
+__label__ukr	Я бачу пана та пані . 
+__label__pes	می خواهم بدانم چقدر پول در حساب ام دارم . 
+__label__tur	bu paltonun kollarının uzatılması gerek . 
+__label__uig	ئاپام مېنى دورا ئىچكۈزدى . 
+__label__fra	" ici nous ignorons dans quel climat nous sommes ;  /  ici nous ignorons et les lieux et les hommes :  /  des honneurs solennels vous paîront vos bienfaits .  "
+__label__ita	voglio che andiate al piano di sopra immediatamente . 
+__label__cmn	john不是三年前的那个人了。
+__label__epo	mi esperas ,  ke tomo baldaŭ fartos bone . 
+__label__orv	Мьнить ми сѧ тъı нє правъ . 
+__label__jpn	彼は息を深くすいこんだ。
+__label__srp	misliš li da je tom slomio prozor ? 
+__label__ukr	Будьте шанобливі . 
+__label__ber	nnan-d tameṭṭut-nni tella d tasegbart . 
+__label__wuu	我肯定侬会得欢喜阿拉今朝夜到个菜肆个。
+__label__rus	Ты помнишь ,  что делал в прошлую пятницу ? 
+__label__ita	lei abbaiava . 
+__label__cmn	他病了，所以他不能來。
+__label__rus	Она только улыбнулась . 
+__label__heb	אומנם היא לא מכירה שם איש . 
+__label__eng	they say they can ' t do that yet . 
+__label__deu	gelangweilt kaute er auf seinem kaugummi herum . 
+__label__spa	los camellos siempre sonríen amistosamente a los niños . 
+__label__por	está frio demais . 
+__label__kab	mlaleleɣ yid-s . 
+__label__glg	a nosa casa é a sua casa . 
+__label__nld	en vanavond denk ik aan alles dat zij in haar eeuw in amerika heeft gezien; het lief en het leed; het vallen en het opstaan ,  de keren dat ons gezegd werd dat we het niet kunnen ,  en de mensen die voortzetten met die amerikaanse overtuiging: we kunnen het wel . 
+__label__cat	he visitat el canadà fa molt de temps . 
+__label__ind	saya ingin mengundang kamu ke pesta . 
+__label__mar	आम्हाला अजून सांगा . 
+__label__ron	destul ! 
+__label__ukr	Де і коли подають сніданок ? 
+__label__kor	우리는 다 같은 처지에 있지 않는다 . 
+__label__tur	onu nerede bulabileceğinizi biliyorum . 
+__label__glg	os paxaros son vermellos . 
+__label__kab	tebɣiḍ ad tettekkiḍ d wegraw-iw ? 
+__label__ces	vrátil se do své rodné vesnice . 
+__label__deu	tom erblasste . 
+__label__eng	the police have called off the search . 
+__label__jpn	山の向こうに日が落ちた。
+__label__jpn	そんな事を言ったのを許してください。
+__label__kor	개 눈에는 똥만 보인다
+__label__bel	Я купіла смартфон для сваёй жонкі . 
+__label__epo	samio donis al lanjo sesdek-dolaran trinkmonon . 
+__label__eng	tom should ' ve been able to do that for you . 
+__label__slv	ne vem kaj naj rečem . 
+__label__hun	ma nem akarok dolgozni . 
+__label__epo	mi nur volas scii ,  kio okazis . 
+__label__deu	krimis üben auf mich eine ganz besondere anziehungskraft aus . 
+__label__ukr	Тома повісили за вбивство ,  яке він не вчиняв . 
+__label__ara	تغيّرت حياة سامي بين ليلة و ضحاها . 
+__label__toki	sina awen e jan lili .  pona ! 
+__label__eng	i thought that you said tom wasn ' t going . 
+__label__pol	dała mleko swojemu dziecku . 
+__label__mar	मला जबरदस्ती माझ्या नावाची सही करायला लागली . 
+__label__nld	iemand heeft mijn paasei opgegeten . 
+__label__ina	tu egoismo te facera perder tu amicos . 
+__label__mkd	Да ти помогнам со багажот .  Сигурно си уморен од патувањето и ти тежи . 
+__label__epo	nur en la vespero oni aprezas la hejmon . 
+__label__tur	bu tek çıkış yolu . 
+__label__epo	Ŝi estas studema . 
+__label__bul	Светът е изправен пред проблема със замърсяването на околната среда . 
+__label__fin	olet todella kaunis . 
+__label__eus	biolina jotzen dut . 
+__label__khm	ថម បាន​ប្រាប់​ខ្ញុំ​ថា គាត់​មិន​ចង់​ធ្វើការ​រួម​គ្នា​ជាមួយ​អ្នក​ទេ​ ! 
+__label__ile	tu es un idiot ! 
+__label__nld	tom glimlacht vaak . 
+__label__eng	do you think tom is still home ? 
+__label__ukr	Ти не можеш на нього покластися . 
+__label__epo	ogai estas lia plej ŝatata aŭtoro . 
+__label__ara	حلّت تلك العمارة محلّ العديد من المنازل . 
+__label__spa	hay que masticar bien la comida para que se digiera bien . 
+__label__ara	ملأ الزجاجة بالماء . 
+__label__deu	„hat ihnen dieser abend gefallen ? “ – „ja ,  er war traumhaft . “
+__label__bre	pa vez da chom evit atav eo gwelloc ' h mat evit brav . 
+__label__grn	Ñane mbo ' ehára he ' i y opupúva oguahẽramo 100 grádo sélsio . 
+__label__ukr	Він не міг приєднатись до нас ,  оскільки хворів . 
+__label__dan	hun ved alt . 
+__label__mkd	Зошто да ти го дадам тоа ? 
+__label__hun	láttad már a "három nővér" c .  drámát csehovtól ? 
+__label__slk	nemôžem uveriť ,  že tom spravil toto všetko . 
+__label__dan	du må ikke ryge her . 
+__label__dan	jeg har aldrig før set en så stor vandmelon . 
+__label__eng	tom was not seriously injured . 
+__label__ita	vanno a costruire case in regno unito ? 
+__label__ron	iarna se înnoptează repede . 
+__label__eng	they don ' t have a choice . 
+__label__tur	lütfen kapıyı açar mısınız ? 
+__label__uig	مەن بىلەن سەن، ئىككىمىز جەم بولۇۋاتىمىز . 
+__label__aze	niyə ofisə getmədin ? 
+__label__mkd	Ова е исклучок . 
+__label__mkd	Сѐ уште не можам да ти раскажам за тоа . 
+__label__ita	in giappone quasi tutte le strade hanno una sola corsia . 
+__label__ina	interlingua continuara a esser ille belle monumento que nos omnes cognosce . 
+__label__tur	kore ' de hangi diller konuşuluyor ? 
+__label__spa	ella quería saber si lo que había descubierto era cierto . 
+__label__bul	Спомням си събитията толкова живо ,  сякаш че беше вчера . 
+__label__nld	hij was aan het bellen . 
+__label__epo	la fianĉo de mia filino estas modesta fraŭlo . 
+__label__mkd	Безимен сум . 
+__label__ita	vanno a costruire cimiteri in finlandia ? 
+__label__eng	i ' m afraid i ' m not who you think i am . 
+__label__wuu	侬生日个辰光，我送侬一部脚踏车。
+__label__spa	su madre escribe una carta . 
+__label__bul	Бяхме задължени да се откажем от плана си . 
+__label__wuu	伊有交关钞票。
+__label__aze	tom mənə harada yaşadığını demədi . 
+__label__hun	neked köszönhetően ,  elment az étvágyam . 
+__label__eng	the pen is spilling ink . 
+__label__kab	yettru tikwal ɣef yemma-s mi temmut  ? 
+__label__hun	azt hiszem ,  közted és tom között sokkal több a hasonlóság annál ,  amit el akarsz ismerni . 
+__label__ita	divertitevi ,  ragazzi . 
+__label__bre	"ped anezhi ,  va mabig ,  ped gwerc ' hez remungol .  m ' he fedez a wir galon ,  ned i jamez da goll" . 
+__label__ell	Το καλοκαίρι ,  ευχαριστιόμαστε τα αθλήματα ανοικτού χώρου . 
+__label__rus	Я ненадолго отходил . 
+__label__tur	tom kutuya uzandı . 
+__label__eus	zergatik egin nuen egin nuena azaltzeko aukera bat izatea gustoko litzaidake . 
+__label__fin	karhu hyökkäsi tomin kimppuun . 
+__label__hun	judit munkája sem könnyebb a tiednél . 
+__label__srp	danas sam ustao na levu nogu . 
+__label__cor	a yll ' ta neuvya ? 
+__label__ido	me rakontas . 
+__label__ber	ula d nekk ssneɣ ad rekbeɣ ayis . 
+__label__jpn	キンキンに冷えた水を買った。
+__label__hun	lecsapkodta a legyeket . 
+__label__ron	ea găsise o lingură ruginită în podul casei . 
+__label__tlh	dahjaj po nah chatlh sopta '  tam . 
+__label__pol	czy bezpieczne jest jedzenie w ciąży surowych ryb ? 
+__label__heb	תום הפטיר משהו בצרפתית . 
+__label__lit	tu tokia naivi . 
+__label__tur	bu kahvenin tadı bulaşık suyu gibi . 
+__label__hun	Ő majdnem mindig kórházban van . 
+__label__ukr	Чому Том не зробив цього сьогодні ? 
+__label__rus	Почему бы тебе не сделать перерыв ? 
+__label__ita	tom dice di aver lasciato un appunto . 
+__label__srp	tri puta tri je devet . 
+__label__eng	did you see her often ? 
+__label__ita	non possiamo abbandonarle adesso . 
+__label__eng	tom asked mary to wait for him here . 
+__label__ces	tom má v plánu si koupit další auto . 
+__label__rus	Мы очень разочарованы в вас . 
+__label__eng	you must treat them with more consideration . 
+__label__pol	policjant dał się przekupić . 
+__label__tur	om ,  mary kadar sabırsız değil ,  değil mi ? 
+__label__tgl	parang talagang malayo ang ehipto . 
+__label__ron	agentul de voiaj ne-a sugerat să luăm cu noi câteva cecuri de călătorie . 
+__label__spa	a tom no le gusta hacer la tarea . 
+__label__epo	Ĉu tomo konfesis ? 
+__label__ukr	Шановні пасажири !  Мінська міська рада депутатів та Мінський міський виконавчий комутет сердечно вітають Вас з Різдвом Христовим та Новим роком ,  бажають щастя ,  здоров’я та добробуту . 
+__label__fin	tom sanoo ,  ettei hän tiedä mistä mary osti helmikaulakorunsa . 
+__label__hun	az igazi nőket telt formákkal áldotta meg az isten . 
+__label__por	É um assassino em série . 
+__label__ara	كان سامي يحتضر . 
+__label__rus	Я все знаю . 
+__label__tur	tom beni kızdırdı . 
+__label__ber	saɛet‑ncemt teẓẓa s ɛecṛ dqayeq . 
+__label__orv	Пришьлъ єсмь само по тѧ . 
+__label__ber	tom ur yezmir ad yeqqim . 
+__label__ber	yella d amedyaz yernu d adiplumati . 
+__label__jpn	その２人の若い女の子は幸せそうに微笑んだ。
+__label__rus	Хотел бы я не быть таким идиотом . 
+__label__nob	jeg er likevel kjempestolt . 
+__label__ron	este o problemă . 
+__label__isl	Þú verður að efna þau loforð sem þú gefur . 
+__label__ukr	Ти дуже кумедний . 
+__label__swe	jag fick dig att skratta ,  eller hur ? 
+__label__tlh	biqan . 
+__label__nds	he seet op ’t bedd . 
+__label__tur	bu sabah istasyona kadar bütün yolu koştum . 
+__label__nob	ikke legg fra deg brillene dine på bordet ! 
+__label__por	eu tentei ligar para você . 
+__label__por	gostaria de visitá-lo . 
+__label__jpn	もちろん彼女はそれをやるだろう。
+__label__spa	este libro lo compré ayer . 
+__label__mhr	Эчан Манян ӱмбак ончале ,  тудыжо ,  вожылын ,  шинчажым шылтыш . 
+__label__swe	hösten hade kommit till landet . 
+__label__deu	wollt ihr mit uns tennis spielen ? 
+__label__ita	rifletti ancora ! 
+__label__lit	tai mūsų kaimynė . 
+__label__por	não perca a calma ,  não importa o que ele também possa dizer . 
+__label__spa	a la niña le dieron un premio por buena conducta . 
+__label__tur	zümre yedinci sınıfta sona erdi . 
+__label__pol	nagle usłyszał dziwny dźwięk . 
+__label__nob	han er på ingen måte klok . 
+__label__heb	ברוכה השבה .  חסרת לנו ! 
+__label__eng	send him upstairs . 
+__label__kaz	Біреудің айтуымен жазғым келеді . 
+__label__ber	tettban-d meẓẓiyet . 
+__label__ces	je jedno jak schopný jsi ,  stejně tě nepovýší . 
+__label__dan	også mig ! 
+__label__fra	malgré cela ,  vous êtes un être humain . 
+__label__ukr	Не говоріть . 
+__label__dan	den er lavet af messing . 
+__label__slk	je zbytočné kričať o pomoc .  nikto ťa nebude počuť . 
+__label__bul	Бил и Джон обичат да се събират един път месечно да разменят някоя и друга дума . 
+__label__nld	mevrouw wood was een uitstekende kok . 
+__label__ind	anak kucing minum susu di bawah meja . 
+__label__tur	Özgürlük her şeyi mümkün olduğu kadar zararsız yapabilmekten oluşur . 
+__label__eus	ez dakit zer esan nahi duzun . 
+__label__heb	אני חושב שאני מוכן לצאת לדרך . 
+__label__por	você já permaneceu num relacionamento de longo prazo ? 
+__label__slk	bežal som až na stanicu . 
+__label__dan	jeg er nødt til at tage hjem og lave lektier . 
+__label__hun	megyek zuhanyozni . 
+__label__rus	Что такое Интернет ? 
+__label__fra	trois quarts de la surface terrestre sont recouverts par les eaux . 
+__label__epo	mia vivo estas malplena sen li . 
+__label__ido	tom parolis france . 
+__label__swe	jag har massor med vänner . 
+__label__ind	apa yang kau rasakan ketika istrimu meninggalkanmu ? 
+__label__jpn	彼らは西洋人がやってくる以前から、もともと住んでいたニュージランド人なのです。
+__label__ukr	Том спробує дізнатися ,  чому Мері зробити це саме так . 
+__label__heb	להפתעתי ,  הוא נכשל בבחינה . 
+__label__glg	a cor desa gravata non che vai co traxe . 
+__label__cmn	我認為我要坐巴士去。
+__label__tur	tom doğruyu söylüyor olabilir mi ? 
+__label__yid	איך האב קיין מאל נישט מתכון געווען אז דאס וועט פאסירן . 
+__label__oci	m ' ac cau raportar au tòm . 
+__label__heb	נמצא איתך המכתב ? 
+__label__rus	Я не сдался из-за нехватки надежды . 
+__label__rus	Кем работает Ваш отец ? 
+__label__tur	parası olmadığı için geziye gidemedi . 
+__label__deu	tom füllte den einkaufswagen mit süßigkeiten ,  während seine mutter an der fleischtheke stand . 
+__label__isl	nafnið hans er ekki á listanum . 
+__label__eng	sami wants to be an arabic teacher . 
+__label__ita	ancora non funziona . 
+__label__zza	no merdém xura mı di . 
+__label__rus	Ты сегодня не в настроении . 
+__label__vie	chị ấy trả lời không ngần ngại . 
+__label__pol	stowarzyszenie składa się z dwunastu muzyków . 
+__label__oci	qu ' ei un deu scientifics mei grans deu japon . 
+__label__epo	tomo kaj manjo ne tiel riĉas ,  kiel vi opinias . 
+__label__fra	notre rencontre fut vraiment fortuite . 
+__label__epo	mi aĉetis tiun rakedon antaŭ du monatoj . 
+__label__cat	vull veure l ' oceà . 
+__label__epo	mi nur volas ,  ke oni lasu min sola momenteton . 
+__label__dan	vognen stod i skuret . 
+__label__mar	उद्या सुट्टीचा दिवस आहे . 
+__label__nob	jeg kjenner jenta som spiller tennis . 
+__label__jpn	パイプ屋は通りの向こう側です。
+__label__pam	mébilís ing kayáng pámagretíru úling king pámagkámalî . 
+__label__bul	В стаята имаше само едно легло ,  маса и стол . 
+__label__eng	i ' ll allow it . 
+__label__tur	o ,  kapıyı açar açmaz ,  beyaz bir köpek evden kaçtı . 
+__label__deu	tom ist nicht gefahren . 
+__label__jpn	なにが起ころうとも、私は最後まで、私の主義を守るつもりだ。
+__label__ita	io vorrei leggere il suo nuovo libro . 
+__label__ukr	Комахоїдні рослини мають різні види пасток для ловлі комах . 
+__label__vie	tôi nghĩ tom đang giấu cái gì đó . 
+__label__kat	მე მეგრელი ვარ . 
+__label__ber	ih ,  bob iɛawen-iyi . 
+__label__vie	hãy uống mừng cho thành công của anh ấy . 
+__label__run	urora hehe ? 
+__label__ell	Ιδού δέκα δολλάρια . 
+__label__tur	biz birbirimizle mektuplaştık . 
+__label__ber	ejj tom ad d-yerr . 
+__label__pol	podróżni musieli wyruszyć przed świtem . 
+__label__run	turashobora gutangura ubu ? 
+__label__lat	et ligula et fuscinula et cultro egeo .  gratias . 
+__label__rus	Летом я одеваюсь только в белое . 
+__label__ita	ora però vediamo cosa decidono per la data di recupero ! 
+__label__mkd	Том сака да го проба . 
+__label__pes	نهایتا به هدف زد . 
+__label__eng	tom had the life of his dreams . 
+__label__zsm	saya mesti meyakinkan tom . 
+__label__eng	i know you slept with my husband . 
+__label__hun	meglep ,  mennyire nincs felelősségérzete . 
+__label__tur	tom her zaman kapısını kilitlemek için dikkat eder . 
+__label__ita	ha il desiderio di essere ricco . 
+__label__eng	i suspect that tom and mary are depressed . 
+__label__jpn	この城は美しい。
+__label__eng	mary did that until she died . 
+__label__rus	Я тебе сейчас пинка дам ! 
+__label__spa	¿mary llevaba una capa ? 
+__label__heb	למה שלא תתן להם לעזור לך ? 
+__label__heb	כולם בבניין ,  בבת אחת ,  פנו לכיוון היציאה . 
+__label__pam	Éku kasalánan . 
+__label__ita	lei è una disgrazia per questa famiglia ! 
+__label__ukr	Том усе ще працює в Бостоні . 
+__label__fin	anna kun selitän . 
+__label__eng	what you ' re looking for is in the kitchen . 
+__label__dan	tror du de vil ansætte mig ? 
+__label__ita	in italia si mangia bene ? 
+__label__eng	i think that tom didn ' t want me to do that . 
+__label__fra	ce n ' était vraiment pas beau à voir . 
+__label__por	vou abrir um comes e bebes . 
+__label__swe	jag tror det är dags för mig att dra . 
+__label__nld	ik verafschuw mensen die leugens vertellen . 
+__label__fra	le bruit soudain débusqua les oiseaux . 
+__label__hun	tom valószínűleg nem volt tisztában a problémával . 
+__label__pes	من سگی جدید می خواهم . 
+__label__rus	Он был тайно в неё влюблён . 
+__label__lit	kur yra mano tėtis ? 
+__label__epo	mi maltrankvilegas kun nekonatoj . 
+__label__fra	récemment ,  nous vous demandions si la qualité des produits capillaires avait baissé ces dernières années . 
+__label__hun	tomit várod még mindig ? 
+__label__mar	मला वाटतं की ती फ्रान्सची आहे . 
+__label__ber	d acu ay yessefk ad t-yeg ,  ɣef leḥsab-nwent ? 
+__label__lit	Žmona turi būti geriausias draugas . 
+__label__por	tom sempre dá azar para o nosso time .  sai daqui urubu !  ! 
+__label__pol	czy jesteśmy pewni ,  że to jest prawdziwe życie ? 
+__label__por	o par ordenado é representado por  ( x ,  y )  . 
+__label__swe	jag bryr mig inte om vad tom gör . 
+__label__cmn	他喜欢橙子。
+__label__pol	jestem na diecie ponad rok . 
+__label__por	vocês não sabem ler ? 
+__label__deu	ich versuche nur zu überleben . 
+__label__mar	तो शाळेत कसा जातो ? 
+__label__isl	tímar byrja bráðum aftur . 
+__label__deu	ich bin zu alt für solche späße . 
+__label__eng	why don ' t you tell me what happened last night ? 
+__label__fin	emme ole täydellisiä . 
+__label__pol	to przez ciebie się spóźniliśmy . 
+__label__fra	ce n ' est pas moi qui ai claqué la porte . 
+__label__eng	the girl was made a prisoner and condemned . 
+__label__tlh	yosvamdaq beh qengnislu '  . 
+__label__deu	das ist ganz nach meinem geschmack . 
+__label__toki	tenpo pini la tomo tawa mi pi nanpa wan li kule loje . 
+__label__ita	"dove vai per lavoro ? " "in irlanda . "
+__label__ita	"di che nazionalità sono i vostri insegnanti ? " "islandese . "
+__label__slk	dlho sa ma snažila očariť . 
+__label__epo	paragrafo 214 ,  miaopinie unu el la ankoraŭ pli strangaj reguloj de la ĝenerala administracia leĝaro de la lando Ŝlesvigholstinio ,  ŝajnas komprenigi ,  ke iu ,  kiu forkaptas personon de iu alia ,  devas liveri al tiu lasta ricevatestaĵon pri tio . 
+__label__ita	fatti una doccia ,  zozzone ! 
+__label__fra	qui a essayé de tuer tom  ? 
+__label__spa	dijeron que no . 
+__label__kab	ur uḥwaǧeɣ ula d yiwen . 
+__label__ita	io non indosso più occhiali . 
+__label__eng	i didn ' t know tom wouldn ' t help mary do that . 
+__label__rus	Ой !  Моя нога ! 
+__label__eng	i know that you and tom are planning to do that together . 
+__label__bul	Бебето не спи . 
+__label__tur	esp diye bir şey yoktur . 
+__label__vie	an toàn là trên hết . 
+__label__eng	all the students returned home . 
+__label__arq	كسّر ست تواقي، واحدة مور لوخرة . 
+__label__spa	el tuyo era mejor . 
+__label__epo	tomaso aĉetis ilin por mi . 
+__label__por	gostaria de conhecê-lo melhor . 
+__label__tur	ben her zaman sevimli bir çift olacağınızı düşündüm . 
+__label__eng	let ' s have a look inside . 
+__label__eng	conformity is an essential element of our homogeneous community . 
+__label__nld	elk dier houdt van zijn nest . 
+__label__ido	quante tu definas "feliceso" ? 
+__label__tur	neden beni başından savdın ? 
+__label__ber	nedder s weɣrum ed ṛṛuz . 
+__label__ido	la puerulo restis silence . 
+__label__epo	eksciu ,  ke ĉiu flatinto vivas malavantaĝe de tiu ,  kiu aŭskultas lin . 
+__label__fin	koulutusuudistuksissa on vielä paljon parannettavaa . 
+__label__ukr	Батьки Тома були вчителями . 
+__label__tur	senin arkadaşlığın önemli . 
+__label__ber	tsetteḍ imekli n tnezzayt yal ass ? 
+__label__lat	conditorium est arca ubi corpus hominis mortui ponitur . 
+__label__deu	gibt es ein richtig oder falsch in der liebe ? 
+__label__fra	dans notre famille ,  tout tourne autour des enfants . 
+__label__tur	boş zamanın olunca ,  seninle konuşmak istiyorum . 
+__label__deu	„villa hügel“ ,  die palastähnliche einstige villa der industriellenfamilie krupp ,  befindet sich im süden der deutschen stadt essen .  dieses sehr imposante gebäude wurde im jahre achtzehnhundertdreiundsiebzig fertiggestellt . 
+__label__rus	Я беззащитный . 
+__label__por	qual a serpente que de plantas venenosas  /  empachada passou todo o inverno enterrada  /  e agora volta à luz do dia em nova pele ,   /  e ,  rejuvenescida ,  as lisas roscas  /  desenrola ,  a cabeça erguendo ao sol ,   /  enquanto a língua trífida dardeja . 
+__label__jpn	あなたの新しい帽子、なんて素敵な帽子なんでしょう。
+__label__tur	tom şimdi duş almaya gidecek . 
+__label__mkd	Тоа би било трагедија . 
+__label__eng	we ' ve got a long day tomorrow . 
+__label__cmn	他及時趕到了會議。
+__label__hun	ki ez a fiatal ember  ? 
+__label__kab	lemer kan d ilemẓiyen i nella . 
+__label__pol	skończyły jej się pieniądze . 
+__label__orv	Нє заимаи сєго . 
+__label__jpn	彼は他言しないと約束した。
+__label__eng	sami wanted to be with his people . 
+__label__tur	bazen çok basit sözcükler ,  gerçekten önemli olanı ifade etmek için yeterli geliyor . 
+__label__cor	an re na yw howlvleujen . 
+__label__nds	de deern springt . 
+__label__rus	Я не ел . 
+__label__oci	la planta es blava . 
+__label__rus	Аврааму было сто лет ,  когда у него родился сын Исаак . 
+__label__jpn	彼らはいつも武器を持っていた。
+__label__pam	burén mung yatád daká king kótsi mu . 
+__label__isl	mér er illt í höfðinu . 
+__label__heb	זה דבר נהדר . 
+__label__spa	ahí detrás hay un café . 
+__label__epo	Ĉu vi havas respondon: kio estas la unua: ovo aŭ kokino ? 
+__label__ukr	Якщо не можеш сказати нічого доброго ,  нічого не кажи . 
+__label__kab	ur yufi ara acu ara yexdem . 
+__label__ces	tom marii nenáviděl . 
+__label__pol	pogasiła wszystkie światła o dziesiątej . 
+__label__eng	if that is not true ,  she is a liar . 
+__label__nld	heren ,  ik hoef jullie niet te zeggen dat de boot aan is .  nu ,  hoe trekken we de boel weer recht .  zijn er suggesties ? 
+__label__kab	yefka-yas-tent-id . 
+__label__rus	Я не задавал никаких вопросов . 
+__label__hun	Úgy szeret ,  mint egy apa . 
+__label__eng	the session will be prolonged again . 
+__label__spa	llegó . 
+__label__fra	l ' italie subit la pire crise économique de son histoire . 
+__label__wuu	轧煞老娘有饭吃。
+__label__jpn	ダイヤモンドの硬度は１０である。
+__label__srp	Том је дефинитивно извукао дебљи крај . 
+__label__tgl	huwag mag-alala . 
+__label__orv	Се моıа таина · Єсть сама проста · право видить одино сьрдьце · єстьство невидимо очима
+__label__fra	j ' ai horreur des fanatiques . 
+__label__heb	באוניברסיטה שלי יש מעונות . 
+__label__tur	tom orada olacak tek kişi değil . 
+__label__deu	ruf mich morgen nachmittag an . 
+__label__ita	potete riportarlo ? 
+__label__hun	nagyon egyszerű ötlet . 
+__label__hin	शुरुआत उसने की थी ! 
+__label__srp	bela porodica će doći u tokijo u pola jedanaest . 
+__label__mar	त्यांनी मेरीला सांगितलं . 
+__label__lat	misereor tui . 
+__label__tgl	nakakapagsalita ng tatlo o apat na wika ang karamihan ng mga suwiso . 
+__label__ile	yo esset bon . 
+__label__eng	if you ' re cheeky once more ,  i won ' t read you a story tonight . 
+__label__kaz	Өлтірдің ғой мені . 
+__label__ron	ambele sunt în viață . 
+__label__spa	pasé dos noches en ese hotel . 
+__label__ita	voi siete il peggio . 
+__label__por	joão vestiu-se rapidamente ,  chamou um táxi ,  mas ainda chegou atrasado . 
+__label__fra	je ne sais pas si je peux rester . 
+__label__lit	ji staiga tapo įžymi . 
+__label__por	o tom já me disse obrigado . 
+__label__ido	voluntez ne esar tarda . 
+__label__lit	ji šiuo metu yra pavojuje . 
+__label__srp	meri je vođa tima . 
+__label__ron	Ținta lui este să devină avocat . 
+__label__jbo	mi ralte lo mudri jubme
+__label__pol	zwykle chodzę piechotą . 
+__label__vie	em vẫn muốn ở bên anh . 
+__label__deu	ich glaube ,  tom würde keinen rosa regenschirm kaufen . 
+__label__eng	did you ever do that ? 
+__label__por	eu não preciso de um desses . 
+__label__toki	mi lon ala la sina o pona . 
+__label__nob	tom gjorde det samme i 2013 . 
+__label__por	eu aluguei um apartamento quando morava em boston . 
+__label__eng	is now an appropriate time ? 
+__label__fra	je ne veux pas qu ' on ait pitié de moi . 
+__label__mkd	Том сакаше да може да и го каже на Мери она што таа сакаше да го знае . 
+__label__srp	rekao sam mu to . 
+__label__glg	o característico pelo rizo da señora tanaka estaba de punta tras a súa orella . 
+__label__ita	era una domanda stupida . 
+__label__eng	tom wired some money to mary . 
+__label__ita	scegli una canzone e trascrivi il testo . 
+__label__lit	Šiandien jai sekasi daug geriau . 
+__label__ind	tom jatuh dari tangga . 
+__label__kor	고양이는 빵을 먹는다 . 
+__label__ber	tettwali iman-nnes ad teqqel d titrit . 
+__label__swe	de ville ha bevis . 
+__label__bel	Будзь асцярожны ў справах ,  бо свет поўны ашуканства . 
+__label__ita	eravamo fieri di lui . 
+__label__eng	stop reading comic books while working . 
+__label__isl	ertu með smokk ? 
+__label__jpn	おいケン、ちょっといいか？
+__label__fra	je pense qu ' il vaudrait mieux que vous restiez avec nous . 
+__label__spa	el valor es una excelente virtud . 
+__label__por	sempre pensei que soubesses nadar . 
+__label__cmn	你们也太大胆了吧！
+__label__epo	mi ne povas ĉesi rigardi ŝin . 
+__label__por	a visão é considerada como o mais complexo entre os cinco sentidos . 
+__label__tur	bizim altı tane yumurtamız var . 
+__label__ind	aku mau lebih banyak . 
+__label__deu	möchtet ihr euch ein paar minuten setzen ? 
+__label__rus	Том не любит это делать . 
+__label__ukr	Хіба ти це не полагодиш ? 
+__label__heb	תום חובש כובע בעל שוליים רחבים . 
+__label__isl	Ég veit ekki hvernig þú gast gert okkur þetta . 
+__label__yue	會唔會好耐先好得返㗎？
+__label__hun	semmit sem tehetünk .  meg kell tanulnod megbirkózni vele . 
+__label__hun	péter is kilépett a pártból . 
+__label__hin	टॉम आख़िरकार आ ही गया ।
+__label__eng	and jesus wondered because of their unbelief ,  and he went through the villages round about teaching . 
+__label__ile	nud púeres svimmat in li rivere . 
+__label__vie	tôi đặt số lượng sau chất lượng . 
+__label__fin	oletko varma ,  että tom antaa meidän tehdä noin ? 
+__label__pol	publiczność tupała ,  wiwatowała i klaskała . 
+__label__rus	Я наивный . 
+__label__yue	有冇人可以解釋俾我聽呀？
+__label__eng	i ' m sure tom means well . 
+__label__pol	jim nie jest adwokatem ,  ale lekarzem . 
+__label__hun	tom heti hat napot dolgozik ,  de csak ötért kap fizetést . 
+__label__afr	hoe spel jy jou naam ? 
+__label__tur	yemeklerden sonra dişlerinizi fırçalayın . 
+__label__eng	possibly he knows who broke the windows . 
+__label__tur	biz büyük mutlu bir aileydik . 
+__label__eus	hona heldu zela enteratu nintzen . 
+__label__deu	er hat den ganzen tag hindurch gearbeitet . 
+__label__ita	esiste un programma di tirocini . 
+__label__cmn	我们不会死。
+__label__eng	the children were delighted to see their grandparents whom they had not seen for quite a long time . 
+__label__eng	it ' ll probably be tough for tom to win . 
+__label__epo	Ŝi petis min legi 5 poemojn . 
+__label__hun	hát ,  mit is mondjak ? 
+__label__por	por que eu deveria ter que fazer isso ? 
+__label__rus	Вчера я познакомился с вашим отцом . 
+__label__oci	e atz ua cramba qui sia un pauc mensh cara  ? 
+__label__heb	הוא לעולם לא צוחק . 
+__label__epo	tomo brakumis manjon kaj kisis ŝin . 
+__label__eng	you didn ' t tell tom anything ,  did you ? 
+__label__ita	io riesco ad andare a scuola a piedi in 10 minuti . 
+__label__swe	tom gavs en dödande elektrisk stöt . 
+__label__lit	jūs nieko nežinote . 
+__label__jpn	神は自分の形に人を創造された。
+__label__cmn	你在奧地利的什麼地方長大？
+__label__mar	तू या बिल्डिंगमध्ये राहतेस का ? 
+__label__deu	tom redet lustig . 
+__label__fra	tu t ' es inclinée . 
+__label__glg	iso é un pouco estraño ,  non é ? 
+__label__eng	have fun !  see you in an hour . 
+__label__ber	atni ḍḍfen-t . 
+__label__jpn	日本食はお好きですか。
+__label__deu	jungen interessierten sich meist nur für marias hübsche stiefschwester; nur tom wollte von der stiefschwester nichts wissen ,  sondern schwärmte nur für maria . 
+__label__epo	nur kiam nia sanstato malfortiĝas ,  ni konscias pri ĝia graveco . 
+__label__rus	А с твоим что не так ? 
+__label__epo	mi estas pufa . 
+__label__eus	galdera bat egin niezazuke ? 
+__label__heb	חתיכת נוד ! 
+__label__por	a rua luís coelho corta a rua augusta . 
+__label__tur	Öbürü çalışmıyor . 
+__label__fra	il a pris sa retraite à soixante ans . 
+__label__tur	hangisini istiyorsun ? 
+__label__heb	מצאו את הלווייתן ליד חופי ואקאיאמה . 
+__label__ber	nekk ad k-neṣḥeɣ ad teẓreḍ mass white . 
+__label__fra	on verra bien . 
+__label__hin	मेज़ पर एक फूल है।
+__label__lzh	時不我與
+__label__lfn	el es bela e intelijente . 
+__label__tat	Максат чараларны тергезә . 
+__label__bel	Дакладна ! 
+__label__slk	milujem okcitánčinu . 
+__label__spa	nada ha cambiado . 
+__label__hun	ez még lógni fog . 
+__label__eng	being unfamiliar with foreign languages ,  you ' ll never be able to understand the foreigner ' s silence . 
+__label__ita	quando è morto geronimo ? 
+__label__eng	our teacher demonstrated the experiment in chemistry . 
+__label__rus	Раньше в Японии в любой реке было много рыбы . 
+__label__tlh	hoch jaj wa ' mah mu ' mey chu '  vighoj . 
+__label__por	É a primeira vez que eu interrompo o gerente . 
+__label__fra	si vous connaissez la réponse à cette question ,  dites-la-moi ,  s ' il vous plait . 
+__label__nno	ikkje bråk så fælt ,  er du snill . 
+__label__pes	کامپیوتر را استفاده میکنم . 
+__label__spa	¡por favor perdóname ! 
+__label__ukr	Дійсно ? 
+__label__tur	eğer bunu yaparsan , bu sadece aksi sonuçlar doğuracak . 
+__label__toki	ona mute li utala ala tawa ijo . 
+__label__fra	pourquoi est-ce que tout le monde pense que je suis stupide  ? 
+__label__lvs	iedod cilvēkam zivi un viņš būs paēdis vienu dienu .  iemāci cilvēkam ķert zivis un viņš būs paēdis visu mūžu . 
+__label__heb	התפוחים האלה טעימים . 
+__label__eus	ez duzu haiekin joan behar . 
+__label__epo	tomo volas la plej bonan . 
+__label__spa	podrías haber dicho algo . 
+__label__tur	bir harita bizim coğrafya çalışmamıza yardım eder . 
+__label__eng	he has been in tokyo for a year . 
+__label__epo	li milde kisis min surlipe . 
+__label__afr	het jy  ' n pen by jou ? 
+__label__ukr	Я певен у його успіху . 
+__label__por	já é setembro; no entanto ,  está muito quente . 
+__label__mhr	Кок арня наре . 
+__label__eng	do you want mary to do that by herself ? 
+__label__deu	man darf einen menschen nicht nach seinem namen beurteilen . 
+__label__toki	telo nasa jelo li ike tawa jan pue . 
+__label__ukr	Я не студентка . 
+__label__eng	some friends of mine are building their own house .  they hope to finish it next summer . 
+__label__jbo	 . i ' o nai do ro roi se funca lo zabna
+__label__tat	Этем бар . 
+__label__ces	Žádáš příliš hodně za to auto . 
+__label__eng	have you ever shaken with cold ? 
+__label__uig	ئىنتېرنېتتا تاتارچە توربەتلەر ئاز . 
+__label__eng	don ' t you have an accountant ? 
+__label__ita	per favore ,  allacci la cintura . 
+__label__fra	merci d ' avoir fait bouillir l ' eau . 
+__label__eng	as you know ,  we were late due to the heavy rain . 
+__label__ita	c ' è solo testo all ' esame ? 
+__label__bre	peur ec ' h evoc ' h kafe ? 
+__label__pol	usiadłem pod drzewem i czytałem książkę . 
+__label__por	john fez uma estante de livros . 
+__label__slk	už nikdy s jasonom nepôjdem nakupovať . 
+__label__ber	ternid-d seg ddemma-nnem . 
+__label__tgl	alam mong eksperto ako at ulol ka . 
+__label__tur	onu bana söyleyen kişi tom ' dur . 
+__label__ukr	Я певен ,  що Тому буде цікаво . 
+__label__ita	noi abbiamo tenuto un seminario . 
+__label__ber	acḥal n yessi-s ay yesɛa tom ? 
+__label__jbo	lo munje saske cu zmadu lo jikca saske lo ka pluja
+__label__ita	lui mi ha scritto dal giappone . 
+__label__deu	mach darum nicht so viel lärm ! 
+__label__tur	tom kendini fransızca olarak ifade edemedi . 
+__label__tur	artık kaybetme lüksüm var mı ? 
+__label__ber	yessefk ad thellan yilemẓiyen s tdawsa-nsen . 
+__label__nds	de mood von vör dörtig johr is wedder mood worrn . 
+__label__yue	啲叻嘅人通常都好大支嘢。
+__label__tur	sami çimlerine manikür yapmaktan hoşlandı . 
+__label__orv	Ѿче на́шъ иже еси на небесехъ ,  да свѧти́тсѧ и́мѧ Твое́ ,  да прїидетъ царствїе Твое́ ,  да будетъ волѧ Твоѧ́ ,  ѧко на небеси и на земли́ .  Хлѣ́бъ на́шъ насущныи да́ждъ на́мъ дне́сь и оста́ви на́мъ долъгы на́ша ,  ѧко и мы оставлѧ́емъ долъжникомъ на́шимъ и не въведи на́съ в напа́сть но изба́ви насъ ѿ лука́ваго . 
+__label__glg	penso que iso está mal . 
+__label__rus	Он делает это быстрее меня . 
+__label__jpn	それは日本人形だ。
+__label__nld	het is niet gemakkelijk van slechte gewoonten af te raken . 
+__label__bul	Можеш ли да говориш френски ? 
+__label__ber	tawwurt ya ad teɣleq ,  ya ad teldey . 
+__label__cmn	意大利的国际号码前缀是三十九 ( +39 ) 。
+__label__deu	wann wurde dieser tempel erbaut ? 
+__label__fin	rannalla ei ollut ketään . 
+__label__tur	herkesin bildiğini düşünüyorum . 
+__label__deu	das märchen ist gleichsam der kanon der poesie — alles poetische muss märchenhaft sein . 
+__label__mkd	Двете сестри се русокоси . 
+__label__kab	isers-d iṣiḍ uqcic-a . 
+__label__epo	ni fuŝis la laboron . 
+__label__pol	zmarł na zawał serca . 
+__label__eng	i bought tom a toy car . 
+__label__hrv	moj šal je plav . 
+__label__nld	hij was een fransman .  dat merkte ik aan zijn uitspraak . 
+__label__cmn	汤姆不是必须这么做。
+__label__cmn	加油！
+__label__jpn	さて、犯人は、告白するか否かが、沈黙するＭＬ参加者たちの焦眉の関心事となる。
+__label__swe	han blev tilldelad en ansvarsfull position . 
+__label__eng	after that newspaper wrote that no farmer wanted to work as a tenant in vestfold ,  interest has skyrocketed . 
+__label__tat	Америка футболыннан мин мөкиббән . 
+__label__epo	esti vendinta al li la armilon por la murdo igas vin kunkriminto en edzinmurdo . 
+__label__ita	lui ha dell ' esperienza ? 
+__label__epo	la efektuloj iritas lin . 
+__label__fra	À quelle heure ça ouvre et ça ferme  ? 
+__label__epo	tiu parcelo ne apartenas al unu persono ,  sed al pluraj proprietuloj . 
+__label__rus	Том наконец-то здесь . 
+__label__eng	doesn ' t tom remind you of john ? 
+__label__fra	je sais ce que tu étais en train de faire . 
+__label__eng	tom was shocked to learn that the dna was mary ' s . 
+__label__spa	mejor apurémonos .  no quiero llegar tarde al concierto . 
+__label__mhr	Мый олаш каем . 
+__label__jpn	彼の負担を軽くしてやった。
+__label__pes	سرد و خشک، غروب زیبا، واقعاً هوای خوب زمستانی است ! 
+__label__ita	io non ho una ragazza . 
+__label__epo	novembro estas la dek-unua monato de la jaro . 
+__label__epo	lasu liberan spaceton ! 
+__label__jpn	この荷物全部は持ちきれない。
+__label__spa	córdoba es una ciudad en el sur de españa . 
+__label__nld	ik ging daar omdat ik dat wou . 
+__label__fin	mihin sitä tarvitaan ? 
+__label__tur	ben bu motoru çalıştıramam .  bu bozuk . 
+__label__glg	bos días ,  durmiñones ! 
+__label__pol	dżin spełnił życzenie toma . 
+__label__rus	Хотите знать ,  зачем я помог ? 
+__label__tlh	seng viyajlahbe '  . 
+__label__hun	ezen már nem lehet változtatni ,  törődj bele ! 
+__label__cmn	把書放回原來的地方。
+__label__ber	ur ɣurk ( m )  ɛzzan tɣawsiwin n tayri
+__label__por	não foi isso que o tom disse para a mary ? 
+__label__deu	du müsstest wenigstens einmal mein land besuchen . 
+__label__fra	petit à petit ,  vous remarquerez des améliorations dans vos écrits . 
+__label__tur	mary ve ben aynı sınıftayız . 
+__label__yue	隻紙鷂𠽤咗喺棵樹度。
+__label__eng	it ' s very unlikely that we will ever find a solution to this problem . 
+__label__epo	pro multo da ĝojo pri la eksperimento tom preteratentis kelkajn gravajn detalojn . 
+__label__wuu	十、廿、三十、四十、五十、六十、七十、八十、九十、一百。
+__label__tur	tom ,  mary ' yi asla affetmeyeceğini biliyor . 
+__label__deu	man muss immer daran denken ,  dass die kultur den menschen zum menschen macht . 
+__label__ukr	Він завжди поводиться зі мною ,  як із дитиною . 
+__label__fra	je te promets de m ' occuper de toi . 
+__label__ile	il parla deci lingues . 
+__label__ita	va a costruire basi militari in regno unito . 
+__label__ita	tom ha chiesto a mary di aiutarlo . 
+__label__rus	Время - девять минут одиннадцатого . 
+__label__eng	sami called layla ' s name in a mocking kind of tone . 
+__label__jbo	ko cadzu ka ' ai mi ' a
+__label__mhr	Мый тудым лачак теҥгече ужым . 
+__label__wuu	发票拿好，物事勿要忘记拉车子高头。
+__label__mkd	Тој очајуваше поради здравствените проблеми . 
+__label__por	não tem água nestes copos . 
+__label__ell	Να σε ρωτήσω κάτι προσωπικό ? 
+__label__fin	sinä luovutit . 
+__label__yid	האסט דו א הונד ? 
+__label__ell	Έθεσα το αυτοκίνητό μου στη διάθεσή του . 
+__label__mar	रोम एका दिवसात बांधलं गेलं नव्हतं . 
+__label__spa	¿me dirás cómo tocar la guitarra ? 
+__label__ido	quon tu volas ? 
+__label__eng	really ,  i don ' t look at it that way . 
+__label__ukr	Я хропів ? 
+__label__nld	tom is waarschijnlijk verdwaald . 
+__label__por	meu esporte preferido é o futebol . 
+__label__epo	ni adoptis ŝin . 
+__label__ber	yessefk ad d-tnekkremt ɣef tis sḍiset . 
+__label__ukr	Вам необхідно ,  щоб я дав вам гроші ? 
+__label__eng	does tom do that a lot ? 
+__label__fra	j ' ai regardé la télévision avec plaisir ,  hier . 
+__label__deu	es gibt nichts gutes ,  außer man tut es .  stammt von erich kästner . 
+__label__dan	jeg ønsker at lære . 
+__label__lit	jie tomą nugabeno į ligoninę . 
+__label__zsm	saya tidak pernah mempertimbangkan kemudahan dan kegembiraan sebagai tujuan hidup itu sendiri . 
+__label__epo	mi volis aflikti lin . 
+__label__yue	飲少啲啤酒啦！
+__label__vie	hằng ngày sau khi tan học cô ấy chơi quần vợt . 
+__label__fin	olet hapannaama . 
+__label__rus	Он навсегда останется в наших сердцах . 
+__label__bul	Бездомен ли си ? 
+__label__run	abantu bose bagiye hehe ? 
+__label__wuu	侬学英语𠲎？
+__label__rus	Как измерить силу ? 
+__label__epo	Ĉu mi ne devintus diri tion al tomo ? 
+__label__pes	من می توانم به تو کمک کنم . 
+__label__ita	non è un po '  piccola ? 
+__label__eng	tom escaped from prison through a tunnel that he found . 
+__label__pes	این تصمیم نهایی است . 
+__label__ceb	gipaburosan si rosi pagpayaya sa kastilyo . 
+__label__hun	miért kell neked egy új létra ? 
+__label__ara	لم الجو حار هكذا؟
+__label__spa	me desperté muy tarde . 
+__label__nld	ik maak koffie . 
+__label__eng	tom is just trying to survive . 
+__label__kab	tameṭṭut werεad teffiɣ deg yiri n wergaz-is . 
+__label__zsm	susah untuk memahami kenapa awak nak pergi . 
+__label__hun	hívd a zsarukat ! 
+__label__tur	tom anahtarını yitirdi . 
+__label__ita	non ho abbastanza soldi per il mio viaggio . 
+__label__kab	yeɛreq tom anaɣ ? 
+__label__toki	jan tone li toki e ni: ona li ken ala kama jo kon . 
+__label__kab	ad nesḥissef ass-a imi neɣli di tatut . 
+__label__ita	la sta aspettando ora . 
+__label__tur	bir insanın değeri ,  onun neye sahip olduğuna değil ,  ne olduğuna bağlıdır . 
+__label__eng	they want our help . 
+__label__isl	Ég er með timburmenn . 
+__label__pes	من به رادیو گوش نکردم . 
+__label__fra	aimerais-tu chanter  ? 
+__label__vol	ogekömob no suno . 
+__label__deu	vögel trinken wasser . 
+__label__hun	te voltál a szobámban ? 
+__label__dan	ved i hvor mange mennesker der dør af sult i hele verden om året ? 
+__label__dtp	nunu maan nu dilo hodi ? 
+__label__por	o transporte público só é mais rápido que o individual nas zonas urbanas . 
+__label__deu	der krankenhauspfarrer saß neben ihr auf der bettkante und deklamierte psalmen .  „das ist eine große ehre für eine atheistin“ ,  dachte sie . 
+__label__ara	هناك ما يقارب الثّلاثة آلاف مسجد في إسطنبول . 
+__label__kab	amecṭuḥ-a yettlemmid taɣuri d tira . 
+__label__lat	elaine est in nosocomio . 
+__label__ber	netta ed tmeṭṭut-nnes taqburt zedɣen deg yiwen wexxam . 
+__label__kha	ngam kwah tip eiei shaphang kata . 
+__label__bre	aet eo taro da anaon daou vloaz zo . 
+__label__fra	je pensais que tom t ' avait dit ce que tu devais faire . 
+__label__pol	musimy wymyślić plan . 
+__label__uig	بىزنىڭ ئارىمىزدا قىز يوق . 
+__label__rus	Это так плохо ? 
+__label__ber	deg tegnit n tuɛjilt ,  sqedcet isunan ,  maci d amsawen . 
+__label__ita	quando saprete com ' è andata ? 
+__label__ara	ضرب سامي ليلى بصفعة . 
+__label__jpn	彼は質素に暮らした。
+__label__cor	skrif dhymm . 
+__label__nld	ik drink water ,  want ik heb dorst . 
+__label__hun	leszedte az evőeszközöket az asztalról . 
+__label__spa	nuestras tuberías se reventaron . 
+__label__jpn	彼は１０年前にそこに行った。
+__label__fin	hänellä oli yllään nilkkoihin ulottuva punainen leninki . 
+__label__nld	ze is geen goede kokkin . 
+__label__mar	आम्ही त्याचं नाव "टॉम" ठेवणार आहोत . 
+__label__cmn	請用鉛筆寫下你的名字。
+__label__tur	benim suçum . 
+__label__tlh	tetdi '  chuch ,  betgham moj . 
+__label__eng	the payment for labor and return on invested capital was several millions . 
+__label__vie	bỗng nhiên ,  cô con gái đầu lòng thét lên: "con muốn ăn kẹo ! "
+__label__mar	सापडायला कठीण नाहीये . 
+__label__ita	la capienza non è solo una questione di spazio . 
+__label__fra	choisissez-en une parmi ceux-là . 
+__label__fra	j ' ai acheté du tabac et je l ' ai fumé . 
+__label__dan	denne mine er 500 meter dyb . 
+__label__jpn	人は自分の義務を果たさねばならない。
+__label__nld	sami houdt van dit restaurant . 
+__label__swe	jag håller dig informerad . 
+__label__ile	oblivia it ! 
+__label__ind	aku dengar para menteri di pemerintahan akan mengundurkan diri . 
+__label__ben	তুমি পড়তে পারো ? 
+__label__jpn	お気の毒ですが、番号違いです。
+__label__deu	im jahre 1453 fiel konstantinopel in die hände der osmanen . 
+__label__mar	मानव फक्त सुमारे ७० वर्ष जगतात . 
+__label__eng	tom dried the dishes . 
+__label__eng	i don ' t think tom is afraid . 
+__label__nds	wi seten merrn in ’e kamer . 
+__label__hun	a gyerekek nem mernek bejönni . 
+__label__fin	voit mennä minne ikinä haluat . 
+__label__ukr	Вона хотіла відкласти весілля . 
+__label__por	ela já sofreu muito . 
+__label__ron	o traducere e ca o femeie .  dacă e frumoasă ,  nu e fidelă .  dacă e fidelă ,  nu este cu siguranţă frumoasă . 
+__label__ces	už je deset let mrtvý . 
+__label__nld	toen ze het verschrikkelijke nieuws hoorde ,  viel ze in zwijm . 
+__label__hun	tom azt mondta ,  hogy mary nagyon kövér . 
+__label__epo	vi ne rajtas juĝi homojn laŭ ilia aspekto . 
+__label__rus	Том никогда нигде ,  кроме Бостона ,  не жил . 
+__label__fra	je dois perdre quelques kilos . 
+__label__yue	我哋幾時可以傾吓呢樣嘢呀？
+__label__eng	you ' re short ,  aren ' t you ? 
+__label__swe	jag kommer att sakna tom så mycket . 
+__label__kaz	Батар күннің атар таңы бар . 
+__label__eng	the long-range forecast says we will have a mild winter . 
+__label__fin	uljas ritari pelasti kauniin prinsessan julmalta lohikäärmeeltä . 
+__label__rus	Пойду .  Меня ,  наверное ,  уже дома потеряли . 
+__label__toki	tenpo pini la mi mute li lukin ala e sina . 
+__label__dan	tom og mary mødtes da de begge var ude at gå tur med hunden . 
+__label__ita	non andate a costruire moschee in islanda del nord ? 
+__label__jpn	今同じ事を感じる。
+__label__spa	deberías dejar de fumar ,  porque no es saludable . 
+__label__ara	تتبع أمي حميةً . 
+__label__eng	do not disturb ,  i ' m studying languages ! 
+__label__jpn	１泊６０ドルくらいのシングルの部屋を２室、２１日から３泊でお願いします。
+__label__tur	o ,  aceleyle valizini hazırladı . 
+__label__ukr	Я працюю у саду . 
+__label__nld	kunt ge haar onderscheiden van haar zus ? 
+__label__spa	mi destino está en sus manos . 
+__label__tur	değişiklik olsun diye keyfine bak . 
+__label__fin	tom haluaa mennä uudelleen naimisiin . 
+__label__mkd	Не можам да си купам точак . 
+__label__toki	mi wawa e sina . 
+__label__uig	ئۇنى كىم سۆزلەيدۇ؟
+__label__rus	Я должен Тому триста долларов . 
+__label__eng	which kind of watch do you prefer ,  digital or analog ? 
+__label__est	maavärinad on jaapanis tavalised . 
+__label__deu	ich gebe meine mappe persönlich ab . 
+__label__tlh	mej be ' nalli '  . 
+__label__epo	tion vi instruis al ni en nia infanaĝo . 
+__label__nld	ik nam een taxi ,  omdat het regende . 
+__label__nds	tom is op ’t linke ohr doov . 
+__label__ces	jdi radši spát . 
+__label__hun	tom pont olyan ,  mint mindenki más . 
+__label__slk	nie som smädná . 
+__label__rus	Том только укоряюще покачал головой . 
+__label__pol	ona zawiesiła pranie na sznurze . 
+__label__slk	ak sa nemýlim . 
+__label__cat	ja puc marxar ? 
+__label__tat	Күктәге Атабыз !  Исемең һәрдаим изге дип икърар ителсен; Синең патшалыгың килсен ,  күктәге кебек ,  җирдә дә Синең ихтыярың гамәлгә ашсын .  Бу көнгә кирәкле икмәгебезне безгә бүген бир .  Бурычларыбызны кичер ,  без дә үзебезгә бурычлы булганнарга кичергән күк: безне алдануга юлыктырма һәм явыздан сакла ,  чөнки Синең патшалыгың ,  көч-куәтең hәм даның мәңгелек . 
+__label__hin	वह भागते हुए आया।
+__label__swe	de gick i armkrok . 
+__label__tur	hiç kimse senin hakkında konuşmuyor . 
+__label__ces	skutečně žijete sám ? 
+__label__jbo	i ' a do na catlu lo ve tivni
+__label__fra	marie est complètement folle . 
+__label__ell	Λατρεύω να μαθαίνω γλώσσες ακούγοντάς τες . 
+__label__mar	हवंय ? 
+__label__slk	kde si bol minulý pondelok ? 
+__label__rus	Мне его дал Том . 
+__label__hye	Դանդա՛ղ աշխատեք:
+__label__rus	Мэри ведь не страдала ? 
+__label__cor	yma dhodho unn gath ha dew gi . 
+__label__nld	houd u aan de regels ! 
+__label__spa	todos en el pueblo lo admiran . 
+__label__jpn	それは討論に適切な論題ではない。
+__label__ces	tohle není tvůj šálek čaje . 
+__label__glg	¿queres vir pescar comigo ? 
+__label__rus	Том использует мёд вместо сахара . 
+__label__rus	Однако и эти врачи проживают главным образом в городах и обслуживают европейское население . 
+__label__cbk	bien pronto crecí el ponô . 
+__label__fra	il aggravait la situation . 
+__label__spa	mañana voy a preguntarle al respecto . 
+__label__ita	penso che andrete per soldi in islanda . 
+__label__pol	ważne jest to ,  na ile efektywnie wykorzystujesz dostępny czas . 
+__label__epo	por tom stari sen movo estas malfacile . 
+__label__swe	det finns ett parallellt universum i bermudatriangeln . 
+__label__nld	mijn vaders spreken geen nederlands . 
+__label__dan	min tante gav mig blomster . 
+__label__hun	tisztában van tomi azzal ,  hogy mit tett ? 
+__label__vie	bạn có thể dịch bài hát này cho tôi không ? 
+__label__wuu	伊勿惜用私人辰光来工作。
+__label__fin	tomilla ei ole varaa kumpaankin . 
+__label__bul	Ти знаеше ли ,  че Том е напуснал града ? 
+__label__ces	je si jistý ? 
+__label__tur	onlar müzik hakkında konuşuyorlar . 
+__label__epo	kial vi ne venos iam post la deka ? 
+__label__cmn	沿着这条大道走，你就会找到电影院了。
+__label__rus	Идёт дождь ,  а мы забыли закрыть окна . 
+__label__cmn	今天下雪。
+__label__fra	ils ont cassé la fenêtre . 
+__label__deu	sie werden euch beschützen . 
+__label__hun	szeptemberben sok medúza van a tengerben . 
+__label__por	os cavalos comem capim . 
+__label__nld	welkom in de hel ! 
+__label__srp	nisam bogat . 
+__label__deu	erledige ihn ,  bevor er noch davonkommt ! 
+__label__tgl	nakalimutan ni tom ang numero ni mary . 
+__label__deu	das heilmittel wirkte . 
+__label__rus	Я тоже один из них . 
+__label__ben	টম খেলোয়ার।
+__label__ber	yeqqel ɣer udrar . 
+__label__spa	así es como me siento . 
+__label__ukr	Шкода ,  що я не такий молодий ,  як ти . 
+__label__fra	je ne suis jamais chez moi le dimanche . 
+__label__nds	dat is vondaag temlich koold . 
+__label__bre	hi a ouelas . 
+__label__por	eu sou mais bonito que você . 
+__label__eng	these insects are different species . 
+__label__bul	Не знам защо ,  но изглежда ,  че той ми има зъб за нещо . 
+__label__hun	tom hetente egyszer kenyeret süt . 
+__label__ukr	Том сказав ,  що не хоче більше лишатися у Бостоні . 
+__label__hun	nevezd nevükön a dolgokat . 
+__label__fra	il doit commencer le plus tôt possible . 
+__label__lfn	Бонвени ! 
+__label__mhr	Аҥысыр йолгорно дене орва каен ок керт . 
+__label__ina	ille ha tote le confidentia de su amico . 
+__label__pol	zawsze narzekała na swojego męża . 
+__label__ita	abbiamo giocato a baseball ieri . 
+__label__kab	glan yes-kent . 
+__label__nld	tom bestelde een appelsap . 
+__label__rus	Почему это должно кого-то удивлять ? 
+__label__swe	jag fick inbjudan . 
+__label__ara	كان المدرّس يسخر من جسمي حرفيّا . 
+__label__por	eu deveria ter posto filtro solar . 
+__label__ido	me lavigis l ' automobilo da il . 
+__label__ita	non va a costruire ponti in nigeria . 
+__label__fin	harkitsetko vakavissasi lähtemistä ? 
+__label__rus	Это та же самая . 
+__label__hun	attól félek ,  már nincs idő rá . 
+__label__nld	bretels is het veiligste . 
+__label__kab	amek zemreɣ ad ẓreɣ aqcic ma iḥemmel-iyi . 
+__label__epo	mi demandis ,  kie ŝi loĝas . 
+__label__ita	prima che l ' aereo atterrasse le hostess passarono con le bevande . 
+__label__rus	При помощи кино и литературной макулатуры идет идеологическое воспитание убийц и грабителей ,  ландскнехтов империалистических полчищ ,  диверсантов и штрейкбрехеров . 
+__label__ber	anwa ay ak-yeslemden tanhaṛt ? 
+__label__mar	हे औषध घे . 
+__label__dan	de søde sager er på bordet . 
+__label__swe	du fixade det ju helt själv ! 
+__label__fin	tomin löytäminen ei tule olemaan helppoa . 
+__label__ell	Μην υπογράψεις το συμβόλαιο με μολύβι . 
+__label__ita	vorrei una pianta della città . 
+__label__hun	vigyázz !  kész !  rajt ! 
+__label__epo	al mi estas indiferente ,  al kiu tomo parolas . 
+__label__slk	nemôžem rozosmiať taninnu .  nepáčia sa jej moje vtipy . 
+__label__por	você quer ficar ? 
+__label__fra	après quoi il alla chez lui . 
+__label__eng	are they satisfied ? 
+__label__ukr	Це було складно зробити . 
+__label__eng	the girl nudged her friend in the side . 
+__label__heb	כמה זמן היית באנגליה ? 
+__label__lit	jūreivis daugiausia laiko praleidžia jūroje . 
+__label__mkd	Ќути и слушај . 
+__label__deu	tom und maria haben johannes gesagt ,  dass sie nervös seien . 
+__label__jpn	彼は不養生がたたって今入院している。
+__label__toki	tenpo suno pi nanpa luka tu la tomo esun li pini . 
+__label__swe	jag tror att tom inte förstod skämtet . 
+__label__pol	możliwe ,  że przyjdzie na naszą imprezę . 
+__label__eng	i thought you were a nurse . 
+__label__ita	i poveri si stanno impoverendo di più . 
+__label__tur	tom ' un ailesi ona benim ebeveynlerimin yapmama izin vermediği bir sürü şeyi yapmasına izin verir . 
+__label__srp	prevod je veoma veran originalu . 
+__label__fra	essaie de faire quelque chose d ' autre . 
+__label__spa	no me culpes por eso . 
+__label__ile	tom regardat se in li spegul . 
+__label__epo	Ĉu ŝarkosupon aŭ balenan bifstekon ?  - vi povas elekti . 
+__label__ell	Τι του  ' πατε;
+__label__ita	c ' è da fidarsi ? 
+__label__fra	couvrons le passé par un voile . 
+__label__eng	tom and mary got married in a small church . 
+__label__eng	in this case ,  i think he is correct . 
+__label__run	ndashobora kuza nanje ? 
+__label__fra	qu ' est ce que tu dirais d ' aller boire un verre après le travail ? 
+__label__deu	vor 10 000 jahren reisten die tommarianer mit ihren raumschiffen durch die galaxis und kolonisierten planeten .  heute leben sie wieder als jäger und sammler von dem ,  was die natur hier in ihrer erwählten heimat ihnen gibt .  das alte wissen wurde der vergessenheit anheimgegeben .  man ist zu einem einfacheren ,  erfüllteren leben zurückgekehrt . 
+__label__rus	Вы совершили ужасную ошибку . 
+__label__jbo	mi na krici fi lo cevni
+__label__bul	Как сте ? 
+__label__heb	אם אזכה בלוטו ,  לא אצטרך למכור את בנותיי . 
+__label__ita	È da trent ' anni che questo tipo di abbigliamento si trova nei negozi . 
+__label__cmn	我和他是朋友。
+__label__ber	ahat yewweḍ-d wakud ad d-tesɣemt aselkim amaynu . 
+__label__nob	han gikk alltid med en brun sixpence . 
+__label__deu	die form ist nicht im geringsten von bedeutung . 
+__label__swe	jag kan skydda dig . 
+__label__ita	sono seria questa volta . 
+__label__fra	commencez à chercher  ! 
+__label__pol	musisz się tylko skupić . 
+__label__deu	mir gefällt jeder satz ,  den du geschrieben hast .  folglich werde ich sehr gern die fortsetzung lesen . 
+__label__nds	woneem is mien auto ? 
+__label__lit	Čia yra vienas iš geriausių bostono viešbučių . 
+__label__tlh	bijatlhtahvis bichusnis . 
+__label__cat	qui es fa poderós ja no pot estimar . 
+__label__deu	sie probierte ein neues kleid an . 
+__label__sqi	une dua shumë më tepër . 
+__label__eng	who ' s the better driver ? 
+__label__kab	tban taɣẓint . 
+__label__lzh	聖人不煩卜筮。
+__label__spa	¿puedes sumar estos números ? 
+__label__mal	അവർ ഒരേ സമയം ചിരിക്കുകയും കരയുകയും ചെയ്തു . 
+__label__rus	Тебе нужно работать быстро . 
+__label__mkd	Сакам да се вратам . 
+__label__hun	hagyd meg a címedet . 
+__label__zsm	kotak ini mengandungi epal . 
+__label__deu	sie haben schöne lieder gesungen . 
+__label__deu	mein buch ist fast fertig .  aber immer wieder finde ich fehler . 
+__label__est	kuigi sadas ,  läksin ma välja . 
+__label__lat	sparta ,  delphi tusculumque tria oppida sunt: duo oppida graeca et unum oppidum romanum . 
+__label__por	sinto uma pressão no peito . 
+__label__hye	Սովորաբար ,  ավելի դժվար է շփվել նոր մարդկանց հետ ,  քան հին ծանոթների:
+__label__eus	biziarteko kartzela-zigorrak indonesian kartzelan hilko zarela esan nahi du . 
+__label__por	comi-o todo sozinho . 
+__label__epo	tomo komencis kredi ,  ke li neniam plu kapablos iri . 
+__label__spa	aprendo lojban; porque me gusta . 
+__label__run	uri umutamvyi mwiza ? 
+__label__heb	זה מטורף . 
+__label__kab	ad k-d-ɣlint waṭas n tegnatin akken ad tissineḍ tullas asmi ara teɣreḍ deg tesdawit . 
+__label__por	eu não fui ao médico . 
+__label__fra	la corbeille est remplie de pommes . 
+__label__eng	tom said i might be wrong . 
+__label__isl	Það er ókey . 
+__label__nld	ik wilde net uitgaan toen hij me kwam zien . 
+__label__bul	Не спортувам заради конкуренция ,  а за удоволствие . 
+__label__ita	uno parla con uno e tutti dicono che sono alleati . 
+__label__eus	hori al zenuen esan beharra ? 
+__label__vol	gonob vifiko . 
+__label__eng	i told them what i know . 
+__label__fra	pourquoi ne mangez-vous pas de légumes  ? 
+__label__ara	إنه يعزف على البيانو أفضل مني . 
+__label__epo	mi legis tiun dokumenton nur supraĵe . 
+__label__tur	fiyatları daha fazla düşüremeyiz ve hâlâ kâr yapamayız . 
+__label__eng	did he look like a doctor ? 
+__label__jpn	雨季が始まったようだ。
+__label__ita	sarà difficile trovarli . 
+__label__tur	katliamda hayatta kalan sadece tom değildi . 
+__label__mkd	Том не зборува . 
+__label__ita	vorrei che tu rimanessi per la notte . 
+__label__ita	vomitai tre volte . 
+__label__srp	kada imaš pitanje ,  pitaj učitelja . 
+__label__nds	wi weet ,  dat tom dat nich doon hett . 
+__label__srp	da li se slažete ? 
+__label__ber	maɣef ay tḥemmel taninna asaru-a ? 
+__label__heb	את זה אני יודע עליו . 
+__label__tur	Çocukluğundan beri bir pilot olmak istedi ve oldu . 
+__label__hun	a válasz helyes . 
+__label__tur	su her şeyin anasıdır; her şey sudan gelir ,  ve suya döner . 
+__label__glg	previmos que chegariamos a ese lugar no prazo de dúas semanas . 
+__label__deu	unter den partygästen waren zwei ausländerinnen . 
+__label__ido	jim ne arivis adheme til nun . 
+__label__eng	if you had studied harder ,  you would have passed the exam . 
+__label__por	você parece um paranoico falando . 
+__label__kab	anda-t Ṛebbi-m tura ? 
+__label__tur	İmdat ?  onlar beni bıçaklayacaklar . 
+__label__lfn	Лунди ,  мартеди ,  меркурди ,  жоведи ,  венерди ,  сатурди ,  е солди ес ла диас де ла семана . 
+__label__uig	دۇنيادا ئىككى 10خىل ئىنسان بار . ئىككىلىك سېستىمىنى چۈشۈنىدىغانلار ۋە چۈشەنمەيدىغانلار . 
+__label__dan	det skete ikke tidligere . 
+__label__ind	kau dulu seorang tentara kan waktu perang itu terjadi ? 
+__label__pol	nieznane są przyczyny jej samobójstwa . 
+__label__eus	ondo ! 
+__label__cor	res yw dhodho mos ena a-vorow . 
+__label__jpn	この前の日曜日に小型トラックで家に帰ったのを覚えている。
+__label__eng	tom seemed to want me to stay . 
+__label__deu	wir haben das fußballspiel im fernsehen gesehen . 
+__label__fin	katso taivaalle . 
+__label__spa	ella dio a luz a su primer hijo a los veinte años . 
+__label__bul	Том така и не се оправи . 
+__label__deu	mache die türe zu . 
+__label__ukr	Том не мустив платити так багато . 
+__label__pes	سفر کردن برای اطلاعات عمومی بسیار خوب است . 
+__label__ita	io ho sempre voluto imparare a giocare a scacchi . 
+__label__hin	और कुछ ? 
+__label__pol	gdzie jest moja mamusia ? 
+__label__cbk	bien temprano ya llegá si tom; hindé pa preparáo si mary . 
+__label__rus	Мы не можем есть на таком грязном столе ! 
+__label__deu	weißt du ,  wann er kommen wird ? 
+__label__rus	Вы любите грозу ? 
+__label__ido	julius cezaro esis romala imperiestro . 
+__label__sqi	të lumtë ! 
+__label__ara	أنا أغسل ملابسي . 
+__label__tur	tom muhtemelen mary ' yi korkutan kişidir . 
+__label__ina	qual die es hodie ?  — hodie es dominica .  heri esseva sabbato ,  e deman essera lunedi . 
+__label__cat	sense aigua no podries viure . 
+__label__spa	la tienda vende diferentes productos . 
+__label__eng	there were a lot of things mary said she had to do . 
+__label__cmn	请说慢点儿！
+__label__ber	d acu ay tella tetteg-it yemma-twent mi d-teqqlemt ɣer uxxam ? 
+__label__hun	a madarak repülnek . 
+__label__ces	to byla jeho jediná naděje . 
+__label__rus	Я умирал ? 
+__label__ido	me ja vizitis la usa . 
+__label__tat	Элеккеге кебек калдым . 
+__label__epo	jen la malneto de la manuskripto ,  sed krome necesos korekti la erarojn . 
+__label__tur	tom ' un ettiği laflar kendi ayağına dolandı . 
+__label__est	meie varud ei kesta igavesti . 
+__label__ukr	Чому ви завжди такі підозрілі ? 
+__label__mar	आम्हाला जपानी गाणी शिकायची आहेत . 
+__label__eng	tom is tired of people telling him what to do . 
+__label__tlh	nadev tam wighom . 
+__label__tgl	kahit kailan hindi kami sasang-ayon . 
+__label__bel	Зараз добрай музыкі стала мала . 
+__label__hun	a nyomda pontos korrektúrát igényel . 
+__label__lvs	viņa ir daudz garāka par mani . 
+__label__lit	kas tiki dievu ? 
+__label__lfn	me ia vide nunca un noza tan dur . 
+__label__ell	Δε θέλω να μιλήσω στον Τομ αυτήν τη στιγμή . 
+__label__tur	bir gün anlayacaksın ,  kalbimin tek sahibi . 
+__label__spa	el guion de esta película es el mismo que el de 1994 ,  solo ha cambiado el elenco . 
+__label__fra	l ' accident est de votre faute . 
+__label__oci	Ès prèst  ? 
+__label__ces	zatím se nudím . 
+__label__deu	endlich ist der schatz in meinen händen ! 
+__label__epo	tomo ŝajnas kolera . 
+__label__fin	se voisi kestää viikkoja . 
+__label__glg	o intérprete tenta dar toda a información e detalles posíbeis . 
+__label__rus	Убери это . 
+__label__ido	me kredas ke il esos kun ni hodie . 
+__label__eng	i don ' t think that tom knows what happened to mary . 
+__label__por	os azulejos estão partidos . 
+__label__zsm	tom dan mary sedang bermain mahjong . 
+__label__hun	a kockás zakóhoz nem illik a csíkos nyakkendő . 
+__label__ita	io non posso permettermi di comprare una macchina costosa . 
+__label__cbk	sabe yo donde tu ta quedá . 
+__label__ara	أستك من فضلك .  لا تحدث أي صوت . 
+__label__jpn	細かい所は省いて構わない。
+__label__heb	תפוחי האדמה הובאו ע"י ההולנדים מג ' אקארטה . 
+__label__ind	apa kamu jatuh cinta padanya pada pandangan pertama ? 
+__label__ita	sono molto impegnata oggi . 
+__label__hun	srácok ,  apa megjött ,  és mindenkinek hozott ajándékot . 
+__label__ita	ci si sente orribilmente ad essere compatiti . 
+__label__eng	tomorrow we will receive our report cards . 
+__label__dan	tom har tre hunde . 
+__label__spa	pensé que tom planeaba quedarse por un mes . 
+__label__fra	À l ' aide  !  sauve-moi  ! 
+__label__nld	hij zou juist in slaap gevallen zijn ,  toen hij iemand zijn naam hoorde roepen . 
+__label__ces	tom si myslel ,  že učitel mu dal na jeden den příliš domácích úkolů . 
+__label__heb	כנראה חלמתי . 
+__label__epo	mia interretkonekto estas malrapida . 
+__label__deu	ich war mir nicht sicher ,  ob tom schon gegessen hatte . 
+__label__jpn	アメリカも飛行機なら５時間ぐらいで横断できます。
+__label__mkd	Секоја ситуација изискува посебна анализа . 
+__label__por	a torta que tom fez estava deliciosa . 
+__label__jpn	今日銀行から下ろしたばかりで、万札しか持ち合わせがないんだよ。
+__label__mhr	Мый палем ,  молан Том таче тыште уке улеш . 
+__label__mkd	На Силвија многу и се допаднаа концертите . 
+__label__epo	Ĉu mi tion povas kunpreni en la aeroplanon ? 
+__label__cat	m ' ha entrat alguna cosa a l ' ull . 
+__label__ita	"di che nazionalità sono i loro nonni ? " "statunitense . "
+__label__afr	dis logies . 
+__label__ita	il mio bagaglio è stato danneggiato . 
+__label__kor	내친구는 한국어를 공부해요 . 
+__label__rus	А ты хорошо играешь на скрипке .  Кто тебя научил ? 
+__label__pol	przedłuż umowę
+__label__ita	non ero pronta . 
+__label__aze	kobudsan . 
+__label__heb	אצלנו הכוס תמיד חצי ריקה ,  אצל האמריקנים היא חצי מלאה . 
+__label__ell	Αγαπάω την κηπουρική . 
+__label__epo	la malmoraluloj estis en la sesdekaj jaroj sendanĝeraj ,  labormalŝatantoj ,  kies maksimo estis vivi de tago al tago . 
+__label__pam	mibálik ya ibát king iskwéla . 
+__label__kaz	Екі баланың ортасындағы бір шал бала болады ,  екі шалдың ортасындағы бір бала дана болады . 
+__label__kzj	nokuo o nopudaan ku sundung potu osopung zou mooi odop ? 
+__label__por	"no entanto ,  se o fiscal aparecer ,  pensará que estamos a tagarelar . " "de que é que estás com medo ,  se não há nada a temer ?  se ele vier ,  não nos vai encontrar na ociosidade ,  nem fazendo nada de errado; que ouça ,  se quiser ,  nossa conversa . "
+__label__tur	tom ' un bunu yaptığı için mary ' yi affedeceğinden şüpheliyim . 
+__label__eng	did you know that he bought a condominium ? 
+__label__eng	what does tom usually eat ? 
+__label__lat	quali animali perterritissimus es ne cum eo congredereris ? 
+__label__lat	date mihi quaeso apocham . 
+__label__dan	midt i haven var der et blomsterbed . 
+__label__por	tom está deitado na cama com sono . 
+__label__uig	خىزمىتىڭلارگە ئۇتۇق تىلەيمەن . 
+__label__eng	work was tougher than usual today . 
+__label__fra	je vous les rapporterai demain . 
+__label__deu	du startetest den wagen . 
+__label__ind	menariknya ,  pemain quidditch di hogwarts boleh menggunakan sapu yang mana yang mereka suka atau sponsornya mampu ,  walaupun sapu lebih mahal sering memberi keuntungan besar  ( dan mungkin tidak adil )  dengan kecepatan dan cara mengerakkan . 
+__label__eng	dan didn ' t even speak english until he was thirteen . 
+__label__run	uranezerewe ? 
+__label__ita	non è finita qui . 
+__label__ita	era in orario al lavoro oggi ? 
+__label__ber	ur zmireɣ ad beddleɣ iceḍḍiḍen-inu .  ur telli texxamt aydeg zemreɣ ad geɣ aya . 
+__label__cmn	你把门开着真是太不小心了。
+__label__tur	tom ' u ziyaret etmek için çok geç . 
+__label__ron	i-a plăcut să citească romane polițiste . 
+__label__pol	on jest aż za bardzo szczodry . 
+__label__rus	Я совсем этого не жду . 
+__label__ron	s-a schimbat mult de când am văzut-o ultima oară . 
+__label__heb	כוונתו של תום טובה . 
+__label__heb	אתם לא יכולים לתת לזה לקרות . 
+__label__toki	ona mute li tawa lon tomo ma insa tawa moku e moku piko . 
+__label__tur	grönland ' a tatile gidiyorsun . 
+__label__tha	ทอมบอกว่าแมรี่กำลังมาในมื้อเย็น
+__label__eng	we ' d like to see a wine list . 
+__label__eng	i wasn ' t expecting this . 
+__label__jpn	その地域ではまだ食料が不足している。
+__label__mkd	Ќе правам како што сакаш . 
+__label__war	kinahanglan maupay . 
+__label__tur	hiç dört yapraklı yonca buldun mu ? 
+__label__zsm	soalan anda tiada jawapan . 
+__label__toki	mi olin e sina . 
+__label__est	ma räägin iiri keelt . 
+__label__eng	tom takes his children to the park every afternoon . 
+__label__ukr	Том попросив сказати вам ,  що йому шкода ,  що він не може бути сьогодні тут . 
+__label__jpn	すばらしいニューヨークの連絡相手でいてくれてありがとうございました。
+__label__nds	de bodden lett natt . 
+__label__spa	tom fumó . 
+__label__deu	probiere beide mäntel an und vergleiche sie . 
+__label__ukr	Ти колись бачила НЛО ? 
+__label__tur	rahatladım ,  o ,  eve sağ salim geldi . 
+__label__srp	on je proverio da li u svojem džepu ima upaljač . 
+__label__lit	miesto dalys tapo ugnies aukomis . 
+__label__cmn	我得要在一週內回家。
+__label__pol	jestem przeciwko każdego typu wojnie . 
+__label__ber	ad kem-ssiwḍeɣ ? 
+__label__lat	avunculus meus tabernam florum prope stationem habet . 
+__label__eng	tom moped on his moped . 
+__label__jpn	彼は水でも飲むかのようにウイスキーを飲んだ。
+__label__jpn	外に出るや否や雨が降ってきた。
+__label__spa	los coches eléctricos contaminan bastante menos que el resto . 
+__label__deu	ich betrachte die sache als erledigt . 
+__label__glg	xacando adicábase á música . 
+__label__deu	wir können uns treffen und darüber reden . 
+__label__ber	teqqel-d seg tnedlist-nni . 
+__label__eng	today ' s not my day . 
+__label__nld	ik kom morgen niet . 
+__label__ces	obelhat systém je neobyčejně jednoduché . 
+__label__cmn	呆在家里多舒服。
+__label__spa	¿participarías en el proyecto ? 
+__label__spa	no quiero esperar tanto . 
+__label__ita	a me piacerebbe migliorare la mia pronuncia francese . 
+__label__oci	mintjatz fòrça legumatge . 
+__label__eng	tom remained on the train . 
+__label__eng	mary showed up at school wearing a nice dress . 
+__label__fra	c ' est l ' idéologie pour laquelle mon discours est écrit . 
+__label__deu	tom sah näher hin . 
+__label__epo	estas facile ekhavi geamikojn ,  sed malfacile liberiĝi de ili . 
+__label__rus	На твоём месте я бы его об этом не спрашивал . 
+__label__nld	de volgende keer zal ik meer doen . 
+__label__war	waráy ta na mahihimo kan tom . 
+__label__dan	glem ikke at du er gravid . 
+__label__ita	vai a costruire cimiteri in lettonia ? 
+__label__uig	ئۇنى كىم ئۆلتۈردى؟
+__label__ido	quon tu esas preparanta ? 
+__label__rus	Я вчера встретил твоего сына ,  и он вежливо со мной поздоровался . 
+__label__arq	ما رانيش ناوي ندير واش طلب منّي طوم نديرو . 
+__label__ita	ha iniziato a urlare e sono scappato via . 
+__label__cbk	hinde yo ta entendé cosa tu quiere hablá . 
+__label__jpn	彼女にはいたずらっぽいところがあってますます好きだ。
+__label__tur	ben gülümsememeye çalıştım . 
+__label__est	tom on miljardär . 
+__label__mhr	Илышнам ме шке пӱрена . 
+__label__fra	je suis sûre que c ' est faux . 
+__label__eng	mary decided that she wouldn ' t do that . 
+__label__epo	Ŝi estis malsana en la lito la pasintan semajnon . 
+__label__ina	in nahuatl il ha nulle casos ni generos ,  assi que le nomines solo recipe indication de plural e de possession . 
+__label__por	nunca pensei encontrar-te por aqui . 
+__label__pol	tak ,  dokładnie !  dobrze to zapamiętałaś ! 
+__label__lfn	Ла торе аве куатро метрес де алтиа . 
+__label__ber	jjet tazewwut-a teɣleq ! 
+__label__hun	ez átmeneti . 
+__label__fin	kirsikkapuun alla on ruumis ! 
+__label__deu	dieser schüler schnell läuft ,  nicht wahr ? 
+__label__mkd	Дочитајте го романот . 
+__label__heb	איפה תום התחבא ? 
+__label__epo	mi ne scias ,  kio okazis . 
+__label__ukr	Це перший рік викладання Тома . 
+__label__heb	לא סיימתם כאן . 
+__label__rus	Берег очень изрезанный . 
+__label__bul	Мария има дълги черни коси и кафяви очи . 
+__label__fra	jouer au tennis est son hobby . 
+__label__mar	साहेब ,  तुम्ही चिनी आहात का ? 
+__label__eng	the enemy gave in without further resistance . 
+__label__eng	everyone needs to get out of here right away . 
+__label__dan	jeg har betalt for dem . 
+__label__por	que fazer ? 
+__label__rus	Она купила ему билет . 
+__label__fra	je passe par derrière . 
+__label__pes	آن پیرمرد انگار یک واژه‌نانه‌ی زنده است . 
+__label__epo	urĝiĝu malrapide . 
+__label__ces	tady bydlím . 
+__label__bre	krogerezh a veze etrezomp . 
+__label__rus	Городок наш небольшой ,  всё на виду . 
+__label__isl	ef þú ætlar út í búð ,  geturðu keypt nokkrar appelsínur handa mér ? 
+__label__wuu	伊拉垃海画展高头授予了伊一等奖。
+__label__spa	ella nunca ha tenido una mala experiencia . 
+__label__deu	was hat shakespeare geschrieben ? 
+__label__ido	la rani kantas e la rospo dancas . 
+__label__por	você está aqui a negócio ou por prazer ? 
+__label__bel	Спачатку я мушу выслухаць абодва бакі . 
+__label__eng	tom and i have played poker together many times . 
+__label__epo	la malantaŭaj radoj de tiu traktoro havas globlagrojn same dikajn kiel mia pugno . 
+__label__epo	en la ferioj ĉe la balta maro ni kolektis sukcenon . 
+__label__deu	tom sagte ,  er habe seine schlüssel gefunden . 
+__label__spa	ichiro irá a nagoya por la primera vez . 
+__label__vol	kisi vilol givön omes ? 
+__label__eng	tom is going to be here by 2:30 . 
+__label__mhr	Мэрилин Монро кумло кум ий ончыч колен . 
+__label__hun	a megrendelő azonnal elvitte a kész árut . 
+__label__ita	probabilmente ogni scienziato metterà a punto la sua teoria per spiegare questo fenomeno . 
+__label__tha	ดื่มเบียร์ซิ
+__label__ile	yo esset tro timid . 
+__label__ita	"di che nazionalità sono i tuoi professori ? " "nigeriana . "
+__label__jpn	彼は、森の中に一人ぼっちで住んでいる。
+__label__eng	it ' s no use trying to do that . 
+__label__nld	chris krijgt 7 gouden munten ! 
+__label__tur	meg birçok yeni arkadaş edindi . 
+__label__epo	mi ĵus estis elironta butikumi ,  kiam vi telefonis . 
+__label__ber	tom iban-d yemmut seg lxelεa . 
+__label__ile	ples devestir vor abdómine . 
+__label__epo	mi certas ,  ke mi vidis ŝin kun karno kaj ostoj . 
+__label__ukr	Візьми картку . 
+__label__bel	Вы ведаеце пра Сінгапур ? 
+__label__ido	me prizas kavali . 
+__label__spa	¿me ayudás a limpiar la sala ? 
+__label__bel	Кажуць ,  што ён у яго закахаўся . 
+__label__tgl	mas gusto ni morgan ang tosilog kaysa sa tapsilog . 
+__label__ber	ad neṛju arma tfuked amahil-nnem . 
+__label__lat	paratus sum . 
+__label__jpn	冷静でいようとしたのだが、最後には切れてしまった。
+__label__por	você vai me deixar tocar o piano ? 
+__label__mal	ഇതാണ് ഫിന്ലാണ്ടിലെ ഏറ്റവും വലിയ വൈദ്യുതിനിലയം . 
+__label__lit	jeigu tau reikia tušinuko ,  aš tau vieną paskolinsiu . 
+__label__pes	او راه می رفت و صحبت می کرد . 
+__label__cmn	他說的話跑題了。
+__label__pol	czujesz to ? 
+__label__nld	ik heb mijn foto ' s ingescand . 
+__label__heb	פרות הרועות באחו מלוח עושות חמאה מלוחה . 
+__label__deu	Über dem tisch hing ein kronleuchter . 
+__label__kaz	Шаш ал десе ,  бас алу . 
+__label__deu	sie hat geschworen ,  mit dem trinken aufzuhören . 
+__label__ina	parla me de tu plano . 
+__label__glg	cóntame como solucionaches o problema . 
+__label__srp	Протерали смо га из земље . 
+__label__ben	তাঁরা স্বাস্থ্যকর খাবার খান।
+__label__rus	Том возвращается . 
+__label__bel	Аня вырашыла выкарыстаць гатовы гульнявы рухавік ,  каб зэканоміць час . 
+__label__ita	voi sentivate . 
+__label__fra	la fin ne justifie pas toujours les moyens . 
+__label__ita	sono seduto in fila . 
+__label__mar	उभा राहू नकोस . 
+__label__ces	skončil citací z bible . 
+__label__eng	tom said he was very drunk . 
+__label__nld	zij viel halverwege haar rede flauw . 
+__label__ita	il suo crimine è imperdonabile . 
+__label__cor	ev a wrug hy tholla . 
+__label__por	ele não está nem um pouco preparado para assumir um cargo de tamanha responsabilidade . 
+__label__ell	Παζαρέψαμε μαζί του για το σπίτι . 
+__label__deu	lassen sie es tom tragen . 
+__label__tur	kaplumbağaları seviyorum . 
+__label__epo	li estis lerta sportisto . 
+__label__ido	elu ne esas tam yuna kam elu aspektas . 
+__label__yue	呢樣等遲啲先。
+__label__rus	Том бросил курить ? 
+__label__hun	ez pont a házasságunk napján történt ,  drágám . 
+__label__ita	quanta libertà di pensiero .  .  . 
+__label__jpn	この地方で最も出世した軍人の名は知ってるか・・・？
+__label__lvs	tas ir viņa mājas . 
+__label__hun	tényleg mind akarjuk azt az autót ,  amelyik szennyezi a levegőt ? 
+__label__rus	Доктор Л . М .  Заменгоф  ( 1859-1917 )  сам переводил литературные шедевры на эсперанто . 
+__label__jpn	彼女にはこの事言わないで欲しいんだけど。
+__label__epo	meze de l '  arbaro ,  al li montriĝis lia patrino: laŭ ŝiaj trajtoj ,  ŝiaj vestoj kaj eĉ la armiloj ,  kiujn ŝi kunportas ,  oni povus diri ke ŝi estas juna spartanino; aŭ ,  laŭ ŝia maniero lacige ekrajdi la ĉevalon ,  la traca harpalice ,  venkante en la kurado la rapidan hebron . 
+__label__aze	biz alma yeyirik . 
+__label__ron	am pus-o pe sora mea să îmi facă poză . 
+__label__tur	utanmadan onu ağızdan öptü . 
+__label__fra	ta coupe de foufoune ,  c ' est plutôt paillasson que ticket de métro .  t ' as pris un ticket de métro allemand comme pochoir  ? 
+__label__bel	Я не ведаў ,  адкуль гэта прыйшло . 
+__label__heb	המצב הפיננסי מידרדר שבוע אחרי שבוע . 
+__label__eng	tom will probably be lonely . 
+__label__epo	tom ne scias la diferencon inter sofo ,  lito kaj sofolito . 
+__label__toki	o pali e ijo ni poka mi . 
+__label__ile	quelcvez it es facil . 
+__label__ido	quale vu savas ,  vivo esas komparebla kun voyajo . 
+__label__rus	Какое отношение это всё имеет к Тому ? 
+__label__jpn	それを３人の間で分けよ。
+__label__fra	l ' odeur des macaronis au fromage me donne la nausée . 
+__label__lvs	viņš gāž kokus uz kalna . 
+__label__spa	en esa fiesta conocí a un buen número de personas famosas . 
+__label__tur	sizin de bunları söylemeniz bir şey değiştirmeyecek . 
+__label__yue	你啱啱先食完晚餐，無理由咁快就肚餓嗰喎。
+__label__deu	die sache läuft nicht glatt . 
+__label__deu	dieser verlag ist spezialist für kinderbücher . 
+__label__eng	i am usually lean yet right now i am fat . 
+__label__ukr	Не соромтеся . 
+__label__hun	feltevésem ellenére a film mesterműnek bizonyult . 
+__label__eus	katua mahai gainera salto egin zuen . 
+__label__hun	most menj a szobádba ! 
+__label__cmn	我們老師開車來學校。
+__label__tlh	chunbej tam . 
+__label__eng	she has done that again ,  hasn ' t she ? 
+__label__nds	dat ei will klöker wesen as de hehn . 
+__label__jpn	友に変わり彼はその責任を引き受けるつもりだ。
+__label__mkd	Ќе ѝ помагаме . 
+__label__eng	refugees in that camp have been living from hand to mouth for a month . 
+__label__mkd	Можам и без ова . 
+__label__nld	laten we de rekening delen . 
+__label__vol	kanob dunön te nosi plo om . 
+__label__cmn	反对的人再多，政府也要实行这项改革。
+__label__por	um torrão de açúcar ,  por favor . 
+__label__rus	Ты когда-нибудь был в Германии ? 
+__label__jpn	アンはヘンリーの求婚を受け入れた。
+__label__tur	tom ' dan daha büyük olmayan bir oğlum var . 
+__label__eng	tom isn ' t looking . 
+__label__ind	saya setuju pada rencana ini . 
+__label__por	sei que cheguei cedo . 
+__label__jpn	私はスキーをしていて怪我をした。
+__label__ile	tom e mary esset ambi ambitiosi . 
+__label__nld	tom zei dat hij dacht dat mary zou wachten . 
+__label__jpn	私の覚えてる限りではこの前お会いしたのは３年前ですね。
+__label__ell	Μη μου λες ψέμματα ! 
+__label__cmn	我不懂这些 . 
+__label__hun	kit vigyek ma haza ? 
+__label__afr	melk is baie verfrissend op sy tyd . 
+__label__dan	bliv nu ikke for kæphøj ! 
+__label__pes	دنیا باید منابع انرژی جدیدی به جای نفت توسعه دهد . 
+__label__afr	tom se drome het waar geword . 
+__label__fra	le bateau était sous voile . 
+__label__deu	das experimentieren mit der sprache ist ein grundrecht der werbung . 
+__label__ina	paulo es un amico multo generose . 
+__label__ara	أبي أميّ لا يعرف القراءة
+__label__rus	Не думаю ,  что Том хотел ,  чтобы Мэри это сделала . 
+__label__ara	سمع سامي صوت ليلى . 
+__label__ukr	Вона має кота .  Кіт білий . 
+__label__jbo	mi viska lo melbi cipni
+__label__epo	vi scias ,  ke mi foriru . 
+__label__tur	matematik benim en sevdiğim konudur . 
+__label__nld	ik heb nu geen geld . 
+__label__tur	bu korkunç olacak . 
+__label__tgl	lahat ay may isang katapusan at ang longganisa lamang ay may dalawa . 
+__label__vie	hãy thuê 1 chiếc xe tải nhỏ  ( có 8 chỗ )  theo giờ đi . 
+__label__eus	windows-en bezterik ez dabil . 
+__label__ukr	Реалізуй це . 
+__label__nld	zonder zon was leven onmogelijk . 
+__label__eng	sami grew up in a loving family . 
+__label__lfn	el es un person eselente . 
+__label__srp	teme problema koje su ranije bile čisto unutarpolitičke ,  su poprimile međunarodni karakter . 
+__label__bul	Защо казваш това ? 
+__label__slv	mary je zelo ganjena . 
+__label__ara	ماذا تمسك في يدك؟
+__label__pes	تو چه رنگی دوست داری؟
+__label__eng	i think i ' ll call tom . 
+__label__swe	sextio nya museer öppnade . 
+__label__glg	hai un mando a distancia debaixo do sofá . 
+__label__epo	li havis mankojn ,  sed malgraŭ tio mi amis lin . 
+__label__rus	Я учу испанский . 
+__label__avk	kas grupel : toktel tid  ? 
+__label__wuu	我拿伊看成老板娘。
+__label__mkd	Најде ли некој да го чува детето ? 
+__label__epo	Ĉu vi aŭdis ion ,  kion oni diris ? 
+__label__ita	ho riso talmente tanto che mi sono scese le lacrime . 
+__label__cat	mentre tenim ocasió ,  fem el bé . 
+__label__ita	non hanno divertito i bambini . 
+__label__ita	perché non posso farlo anche io ? 
+__label__por	quero me lavar . 
+__label__epo	kio estas tiu makulo ? 
+__label__por	tenho um outro plano . 
+__label__kab	d ayla-w ,  neɣ xaṭi ? 
+__label__ben	আমরা দুজনেই জানি যে সেটা সত্যি নয়।
+__label__heb	הוא מנהל מרכול בעיירה . 
+__label__rus	Дай мне пару дней на размышление . 
+__label__hun	elnézést kérek ,  ha valakit megbántottam volna . 
+__label__eng	tom was attentive ,  but mary wasn ' t . 
+__label__ces	rád vás vidím . 
+__label__cbk	masquín el pinakalargo viaje ta principiá cun un paso . 
+__label__spa	mi televisión tiene 15 años ,  pero todavía funciona perfectamente . 
+__label__tur	hikayenin gerisini bilmek istiyorum . 
+__label__mhr	Те тидым колында ? 
+__label__cmn	我從沒看過那個人。
+__label__epo	vi estas fidindaj . 
+__label__kab	nesra ad ɣ-tɛiwnem tameddit-a . 
+__label__ces	ona ví ,  kdo jsi . 
+__label__rus	Это не так уж хорошо . 
+__label__ber	ad asment tmeddukal-nwent . 
+__label__swe	deras kontrakt går ut i slutet av den här månaden . 
+__label__hun	mennem kell . 
+__label__ita	mi dirai la verità ? 
+__label__por	tom está em boston ,  não está ? 
+__label__ron	m-a întrebat dacă am o cunoștință în guvern . 
+__label__spa	mi cerebro está frito después de ese examen de inglés . 
+__label__rus	Как искусно всё это сделано ! 
+__label__pes	نام‌هایشان را فراموش کرده‌ام . 
+__label__ita	tom era sdraiato sul divano a leggere un libro . 
+__label__hun	feldobjak egy kávét ? 
+__label__ita	il ghiaccio è solido . 
+__label__ido	me ne prizas teo . 
+__label__pol	nie potrafię nawet zagotować wody ,  a co dopiero upiec indyka . 
+__label__ber	terɣa tasa-inu akken ad k-ẓreɣ . 
+__label__deu	ich traf sie auf meinem nachhauseweg . 
+__label__pol	to jest zabawne . 
+__label__eng	the ballboys and ballgirls all came from surrounding schools . 
+__label__fra	cette cheminée est de briques . 
+__label__mar	मी ब्रेड खाते . 
+__label__rus	Я сказал тебе уйти . 
+__label__mkd	Јас сум тој што ќе му помага ,  а не ти . 
+__label__srp	ona je samouverena . 
+__label__deu	jetzt fehlen uns noch nur ideen . 
+__label__lfn	me ia ariva a london . 
+__label__kab	Ɣriɣ adlis-agi di Ṛuma
+__label__uig	ھازىر سائەت نەچچە بولدى؟
+__label__epo	li volas iri studi en finnlando . 
+__label__lzh	聖人處上，能無害人，不能使人無己害也。
+__label__ron	- vorbiţi germana ?  - nu ,  nu vorbesc . 
+__label__eng	tom and mary called me almost every day while they were in boston . 
+__label__toki	ona mute li lon sewi lawa pi ona sama e ona meli . 
+__label__ukr	Люди не вміють творити чудес . 
+__label__fin	tom ja mari ovat siellä jonin kanssa nyt . 
+__label__cat	d ' on véns ? 
+__label__ara	هل تريدني أن اتحدث إليهم؟
+__label__zsm	lucy dan saya mempunyai sebanyak rakan-rakan . 
+__label__bre	dont a ran da glask ac ' hanout . 
+__label__eng	it sounds like tom is going to boston . 
+__label__rus	Я думаю ,  тебе нужно немного передохнуть . 
+__label__uig	مەندىن شۈبھىلىنىۋاتامسىز؟
+__label__toki	jan pona pi jan mawi li jan seme ? 
+__label__uig	نېمە تاتلىق يېمەك يەيمىز؟
+__label__ita	non sono sufficientemente buono per loro . 
+__label__por	não quero ir dormir . 
+__label__epo	Ŝi trinkas akvon . 
+__label__tur	ben haftada bir kez tatoeba ' da oturum açarım . 
+__label__rus	Кто вам сказал ,  что он умер ? 
+__label__hin	मैं आपके साथ अब और बात नहीं करना चाहता . 
+__label__ber	tegreḍ-d fell-i lekdeb ? 
+__label__ara	الكثير من الناس يجهلون أن المضادات الحيوية ليست لديها تأثير على الأمراض الفيروسية . 
+__label__eng	i told tom i wouldn ' t go to australia with him . 
+__label__rus	Нам нужно немного больше времени . 
+__label__ell	Είδα τον Τομ να φιλάει τη Μαίρη . 
+__label__por	detestamos filmes de terror . 
+__label__lfn	Мариа но иа воле ес медикисте комо суа мадре . 
+__label__khm	muiriel ឥឡូវ​អាយុ ២០​ឆ្នាំ​ហើយ​។
+__label__rus	Да ,  немного . 
+__label__spa	no tiene categoría para ese puesto . 
+__label__hun	van bármi bizonyíték erre ? 
+__label__ita	perché siete corse via ? 
+__label__mkd	Јас сум попаметен од Том . 
+__label__rus	Мэри потеряла управление . 
+__label__por	quando tom chegou atrasado ao trabalho pela terceira vez seguida ,  seu chefe lhe disse que aquilo era a gota d ' água e que ele teria de despedi-lo . 
+__label__spa	el engaño y el robo van de la mano . 
+__label__fra	je crains qu ' elle ait pu se perdre . 
+__label__chv	Иртнӗ уйӑхра эпир Манилана кайнӑ . 
+__label__por	vamos ver como que o tom está indo . 
+__label__cmn	我繼續唱歌。
+__label__ber	ad d-iwet tuzzya s tesnasɣalt . 
+__label__ita	posso prenderlo in prestito per un secondo ? 
+__label__slk	tomáš verí v svoju intuíciu . 
+__label__ita	c ' è del cibo nel frigo . 
+__label__fra	t ' es pas longtemps à faire un hectare . 
+__label__zsm	kau katakan cinta gunakan akal ,  bila aku gunakan ,  kau yang menyangkal .  bagaimana nak kekal ?  kau katakan cinta gunakan minda ,  bila aku gunakan ,  kau yang tak percaya ,  macam mana nak bahagia ? 
+__label__bul	Понякога не мога да си сдържа емоциите . 
+__label__ukr	Тому подобається Бостон . 
+__label__rus	Тебе они никогда не нравились . 
+__label__uig	ئۇ بىر ئالىي مەكتەپ ئوقۇغۇچىسى . 
+__label__ilo	iserram dayta nga ridaw ! 
+__label__cbk	ta arreglá si mary cunel cama . 
+__label__ita	lo sapeva ? 
+__label__ukr	Том помітив ,  що щось було не так . 
+__label__tur	onlar tom ' un burada olmadığını fark edemeyebilir . 
+__label__pes	کسی که همیشه جایش را عوض می کند، هرگز خود را مرتب نمی کند . 
+__label__ita	non ha avuto un briciolo di coraggio . 
+__label__por	mac é amado por todos . 
+__label__fra	le penses-tu  ? 
+__label__ile	esque tu ama canes ? 
+__label__nds	dat is nich licht för em engelsch to lehren . 
+__label__deu	du kannst tom nicht mehr sehen . 
+__label__rus	Сэми была на том самолёте . 
+__label__fra	une femme a été assez bonne pour m ' indiquer le chemin . 
+__label__jbo	lo prenu be pa ' a mi cu nitcu lo mapku
+__label__bre	plijout a ra kalz din ar bara . 
+__label__por	você tem um futuro brilhante . 
+__label__fra	nos billets doivent être retirés une heure à l ' avance . 
+__label__ita	avete bisogno di un po '  di soldi ? 
+__label__por	queira assinar ,  por favor . 
+__label__rus	Том мог бы прийти сюда ,  если б хотел . 
+__label__fin	luulen ,  että sinun on parasta lähteä nyt . 
+__label__ces	německo je země plná kontrastů . 
+__label__jbo	lo cabdei pu ca ' o zdile
+__label__dan	han blev meget rig ,  før han døde . 
+__label__spa	me quedé donde mi tío por el verano . 
+__label__vie	chúng tôi có cầm tay một lần . 
+__label__epo	je dio ,  silentigu lin ! 
+__label__heb	נוח לך עם זה ? 
+__label__spa	¡sonríe y sé feliz ! 
+__label__dan	som barn gik jeg sædvanligvis kun med bukser . 
+__label__hrv	gdje je ,  dovraga ,  problem ? 
+__label__fra	comparer les deux variantes est intéressant et instructif . 
+__label__ces	nečekal jsem dlouho ,  než přijel autobus . 
+__label__pol	spotkaliśmy się ,  kiedy obaj zwiedzaliśmy australię . 
+__label__aze	sizin üç pişiyiniz var . 
+__label__tur	annem ben genç bir çocukken bana hikayeler okurdu . 
+__label__uig	ئۇ ئۆتكەن فېۋرال ئېيىدىن بېرى بىزگە خەت يازمىدى . 
+__label__hun	ez a különbség . 
+__label__ell	Η γάτα μου είναι άσπρη . 
+__label__heb	עכשיו גם אני דוקטור . 
+__label__afr	my selfoon werk nie . 
+__label__rus	Я уверен ,  что найду способ . 
+__label__dan	terrorgruppen is ,  islamiske stat ,  har hejst sit flag på tre forskellige steder i den syriske landsby ziyaret . 
+__label__tur	burası tom ' un dairesidir . 
+__label__ita	tom dove ha comprato tutto questo ? 
+__label__deu	ich habe meinen besten freund bei einem verkehrsunfall verloren . 
+__label__nob	du må finne ut av om det føles rett for deg ,  og han må bestemme om det er rett for han . 
+__label__mkd	Не го ни чув . 
+__label__aze	qan damcısı . 
+__label__pol	mimo wszystkich wysiłków ,  wciąż stał w miejscu . 
+__label__nld	een vector is een eenheidsvector als zijn norm gelijk is aan een . 
+__label__ukr	Щоразу я бачу її ,  то згадую її матір . 
+__label__kab	Ḥemleɣ-t ugar n kullec . 
+__label__isl	Það er annað mál . 
+__label__deu	da ich in der stadt gewohnt habe ,  fühle ich mich dort nicht fremd . 
+__label__ita	non volevamo preoccuparle . 
+__label__eng	nothing like that could happen . 
+__label__jbo	je lo nanla cu co ' e
+__label__por	eu não poderei dormir . 
+__label__ukr	Це дуже прекрасний фільм . 
+__label__mkd	Смее ли да пијам алкохол ? 
+__label__ber	keṛheɣ-ken . 
+__label__por	tom não comprará um carro novo . 
+__label__uig	ئۇ ئون تىلنى سۆزلىشەلەيدۇ . 
+__label__nds	de demonstranten smeten steen na de polizei . 
+__label__ina	al merda . 
+__label__fin	maa pyörii auringon ympäri . 
+__label__lzh	凡能聽說者，必達乎論議者也。
+__label__ukr	Візьміть все . 
+__label__nds	ik kann mien tasch nich finnen . 
+__label__ces	můžu za to já ,  ne vy . 
+__label__hun	ezek a képek a tiéid ? 
+__label__deu	tom war im letzten monat schwer erkältet . 
+__label__ber	yetteddu ɣer din . 
+__label__ukr	Я не дуже добрий гравець в теніс . 
+__label__rus	К вечеру разыгралось ненастье . 
+__label__tat	Кире беткәнне үгез дә сөзә . 
+__label__dan	jeg forstår absolut intet . 
+__label__tur	o ,  düğün için sakalını kesti . 
+__label__pol	jak przyjdzie wiosna ,  zacznę uprawiać nowy sport . 
+__label__zsm	leher saya sakit hari ini . 
+__label__ber	yedda ɣer tnerdabt . 
+__label__ron	cât costă pe cutie ? 
+__label__nld	we zijn allebei gek op poëzie . 
+__label__fra	en dehors de ses parents personne ne le connait bien . 
+__label__cbk	tiene yede aquí . 
+__label__ber	Ɣilen i yiman-nsen ay llan . 
+__label__ita	tom sedeva sulle ginocchia di suo padre . 
+__label__fra	un robot tueur peut choisir et attaquer des cibles sans intervention humaine . 
+__label__ber	d acu ay txemmem fell-as ? 
+__label__swe	var bodde du ? 
+__label__mkd	Треба да одам кај Том . 
+__label__nob	folk begynner ofte å sammenligne seg med dem som allerede er vellykket ,  som har en demotiverende effekt i stor grad . 
+__label__zza	ney to ard mı viri . 
+__label__ukr	Я знаю ,  що дехто з вас вважає Тома ледачим . 
+__label__tur	yönetimle birlikteyim . 
+__label__tur	tom arabaya atladı ve onu vitese taktı . 
+__label__rus	Мне бы очень хотелось написать на Татоэбе много-много предложений ,  но у меня есть другие дела . 
+__label__ido	me vidis homo vestizita quale ninjo . 
+__label__srp	evo jedne male tajne . 
+__label__rus	В кафе пьют кофе . 
+__label__deu	um es zu bestrafen ,  buk sie für ihr kind pfirsichkernbrot . 
+__label__wuu	侬哪能动也勿动？
+__label__slk	prečo kričís ? 
+__label__ita	io non sono un bugiardo . 
+__label__hun	a legtöbb barátom így szólít . 
+__label__ukr	Вона нахилилася та підняла камінчик . 
+__label__pes	او روی درب می‌زد . 
+__label__ita	non l ' ha vista per caso ieri ? 
+__label__bel	Добрымі намерамі выбрукавана дарога ў пекла . 
+__label__tur	film iki büyük aktristi baş rolde oynattı . 
+__label__lvs	labāk miris nekā sarkanā . 
+__label__por	eu quero ter um irmão . 
+__label__tur	mary etkilenmemişti . 
+__label__epo	mi diris al la loĝejdezajnisto ,  ke la internaĵo de la banĉambro estu tute nova ,  kaj kompreneble multe pli bela ,  sed ke la muroj restu sen ŝanĝo . 
+__label__pes	این کوچه بن‌بست است . 
+__label__epo	mi ne povos min kaŝi por ĉiam . 
+__label__vol	lefat obik spikom vemo nevifiko . 
+__label__ita	tu giochi davvero bene a starcraft . 
+__label__rus	Люди иногда сравнивают смерть со сном . 
+__label__jpn	我々は吹雪の中をベースキャンプに戻るのに苦労した。
+__label__fin	kukaan ystävistäni ei juo kahvia . 
+__label__hun	Úgy gondoltam ,  ma este elmennénk itthonról . 
+__label__ukr	Ти будеш мені потрібен . 
+__label__ita	non ho detto che la avete presa . 
+__label__por	É vergonhoso o senhor proceder assim . 
+__label__ina	george h .  w .  bush esseva un criminal de guerra responsabile del bombardamento de soldatos in retraite ,  ex qui multes esseva conscriptos . 
+__label__deu	tom hat großes potential . 
+__label__tur	tom ' un ne yapmak isteyeceğini düşünüyorsun ? 
+__label__ita	tom è contorto . 
+__label__oci	los trins se son estancats pr ' amor de fòrtas plojas . 
+__label__pam	ot ému ne mû paburéng sumáup i tom ? 
+__label__mar	त्यांनी नावांची यादी बनवली . 
+__label__tat	Миңа акча кирәк иде . 
+__label__rus	Я пока не хочу ложиться спать ! 
+__label__tha	ทอมเป็นไงบ้าง ? 
+__label__heb	אני אנגן למענך סונטה . 
+__label__deu	ich werde euch helfen können . 
+__label__tur	tom ve mary hiç dini bütün değildi . 
+__label__lat	ostium pulsavit . 
+__label__aze	mən bilirəm ki ,  siz də bilmirsiniz . 
+__label__mar	"तुम्हाला काय हवंय ? " इंडियन मुख्याने विचारलं .  "आम्हाला उत्तरध्रुवापासनं दक्षिणध्रुवापर्यंतची सर्व जमीन हवी आहे , " इंग्रज सेनापती म्हणाला . 
+__label__fin	luulen ,  että voin estää tomia kiusaamasta sinua enää . 
+__label__ber	ssarameɣ ad tesɛuḍ azekka yelhan . 
+__label__oci	lo tòm sap pas se la maria va vénguer en veitura o a bicicleta . 
+__label__fra	s ' il te plaît ,  tiens cette échelle fermement . 
+__label__bre	dalc ' h da vont . 
+__label__nds	dor laat uns ees een von drinken gahn . 
+__label__ell	Ο Τομ μισεί τους αλλοδαπούς . 
+__label__spa	su hermano se perdió en la ciudad . 
+__label__rus	Том подумывает о том ,  чтобы купить новую машину . 
+__label__fra	le mariage est la dernière chose que j ' ai en tête . 
+__label__mkd	Имаме вакцина . 
+__label__mkd	Том понекогаш оди во Бостон . 
+__label__aze	bugünlük kifayətdir . 
+__label__heb	יש לה אופניים . 
+__label__bel	Што мне зараз рабіць ? 
+__label__spa	Él ardía de fiebre . 
+__label__nld	hoeveel tijd blijft er nog over ? 
+__label__spa	hoy es un día especial . 
+__label__ell	Κάποτε θα μπορώ να τρέχω τόσο γρήγορα όπως ο άνεμος . 
+__label__ell	Αυτοί χάσανε . 
+__label__eng	this pair of shoes is a size larger . 
+__label__epo	ne koncernas al mi kontraŭparoli la senaton . 
+__label__ita	elimini quella foto . 
+__label__ind	tolong perlihatkan itu padaku sebentar . 
+__label__fra	les pirates trouvent de nouvelles méthodes et manières de pénétrer dans les réseaux privés et publics . 
+__label__mkd	Направив се што е човечки возможно . 
+__label__eng	this has practical implications . 
+__label__pol	proszę wypełnić deklarację celną . 
+__label__hrv	gdje si vidio te žene ? 
+__label__ber	medlet tazewwut ! 
+__label__ita	il mio lavoro mi tiene impegnata . 
+__label__lat	nescio quid me faciam . 
+__label__ita	a lei non piace ballare ? 
+__label__ukr	Щодо цього питання маємо три думки . 
+__label__eng	matthew dreaded all women except marilla and mrs .  rachel; he had an uncomfortable feeling that the mysterious creatures were secretly laughing at him . 
+__label__wuu	侬个朋友叫啥个名字？
+__label__hye	Ձեր տղան ինչո՞վ է զբաղվում:
+__label__rus	Откровенно говоря ,  мне не нравится твоя идея . 
+__label__tur	john kapıyı açık bıraktı . 
+__label__srp	Да ли разумеш ? 
+__label__rus	Оно было заперто . 
+__label__ita	tom probabilmente piangerà . 
+__label__por	todos estavam vestidos de palhaço . 
+__label__ina	le reformistas resiste . 
+__label__tur	ne diyorsak o . 
+__label__deu	„tom und ich sind angeln gegangen . “ – „tom – ist das dein bruder ? “ – „nein ,  ich spreche von meinem freund . “
+__label__heb	מעודי לא הייתי כל כך משועממת . 
+__label__por	estamos arrulhando como pombos . 
+__label__yue	至今我去過多過九個國家。
+__label__tur	bu ofis ona değil ,  bana ait . 
+__label__eng	who do you think will win this year ' s super bowl ? 
+__label__vol	no älogob omis du muls kil . 
+__label__eng	sami wanted to know what happened to her . 
+__label__srp	Čudno je . 
+__label__heb	אתמול התרחש רעש אדמה . 
+__label__por	todo dia é a mesma coisa . 
+__label__eng	i think tom did something he shouldn ' t have . 
+__label__khm	ក្លិនវាគួរឱ្យឆ្ងាញ់  ! 
+__label__hrv	otpušten si . 
+__label__spa	es exactamente lo que pensé yo . 
+__label__ita	lei deve essere a scuola . 
+__label__cmn	月球不是一颗行星，而是地球的一颗卫星。
+__label__swe	jag tillbringade min semester utomlands . 
+__label__kab	yefrari wass . 
+__label__avk	abica lava ware tir . 
+__label__ukr	Ключ лежить на столі . 
+__label__epo	mi estas haristo . 
+__label__yid	איך האב אים נישט געזעהן אין א לאנגע צייט . 
+__label__eng	have you found your key ? 
+__label__dan	stormen gik over byen og ødelagde den fuldstændigt . 
+__label__heb	זו מובאה מספר . 
+__label__nob	du kan ikke røyke her . 
+__label__deu	ich kann die hand nicht auf die bücher legen ,  so schwör ich droben bei den ew’gen sternen ,  dass ich mich nimmer will vom recht entfernen . 
+__label__lat	asinus asino et sus sui pulcher est . 
+__label__ell	Σώσ '  τους . 
+__label__yue	我哋仲有好多嘢要傾。
+__label__ita	vi serve un ' auto ? 
+__label__pol	było mnóstwo denerwujących owadów latających dookoła . 
+__label__ell	Τουλάχιστον το 10% των ατόμων με πνευμονική εμβολή πεθαίνουν μέσα στην πρώτη ώρα . 
+__label__deu	wenn ein mann über eine frau nachzudenken beginnt ,  gehört er ihr schon halb . 
+__label__ber	tameddurt n sami maci d ugur-nnem . 
+__label__heb	אני לא זוכר ! 
+__label__mkd	Том обично никому не верува . 
+__label__fin	hän ei ole koskaan ollut sairaana . 
+__label__spa	tom me propuso matrimonio . 
+__label__epo	sur la lago estis kelkaj boatoj . 
+__label__tur	hiç mutlu değildiniz . 
+__label__tlh	dochmey law '  vije ' ta '  . 
+__label__lit	sukutis buvo padarytas iš minkštos liepos medienos . 
+__label__hun	látom ,  szereti a zenét . 
+__label__deu	kein wunder ,  dass du diese wörter nicht gefunden hast ! 
+__label__ber	pskov tella deg wenẓul n rusia . 
+__label__deu	wir freuen uns alle darauf . 
+__label__dan	man tager mig ofte for min bror . 
+__label__eng	we made friends with at least ten americans . 
+__label__heb	אני צריך שאת תישארי מרוכזת . 
+__label__ber	ssedhant igerdan . 
+__label__hun	ez részben helyes . 
