@@ -13,14 +13,16 @@ from tensorflow.python.keras.preprocessing.sequence import pad_sequences
 from tensorflow.python.keras.models import Sequential
 from tensorflow.python.keras.layers import Dense, Dropout, LSTM, Embedding, GlobalMaxPool1D, Dropout
 from tensorflow.python.keras.callbacks import EarlyStopping, ModelCheckpoint
-from keras.layers import Input, Embedding, Dropout, Bidirectional, GRU, CuDNNGRU, CuDNNLSTM,TimeDistributed, Dense, Concatenate, add
+from keras.layers import Input, Embedding, Dropout, Bidirectional, GRU, CuDNNGRU, CuDNNLSTM,TimeDistributed, Dense, Concatenate, add, Flatten
 from keras.optimizers import SGD, Adam, Nadam, Adamax, RMSprop, Adagrad, Adadelta
 from keras.models import Model
+import keras.optimizers as optimizers
 from keras.utils import to_categorical
-from AttentionWithContext import AttentionWithContext
 from SelfAttention import SeqSelfAttention
 
 
+
+### It recoginzes my GPU as XLA-GPU so i add to add those few line to make it works... Yes...
 config = tf.ConfigProto()
 jit_level = tf.OptimizerOptions.ON_1
 config.graph_options.optimizer_options.global_jit_level = jit_level
@@ -28,12 +30,14 @@ sess = tf.Session(config=config)
 tf.keras.backend.set_session(sess)
 
 
-with open("data/cookingClean/Cooking_Train.pkl", 'rb') as f:
-    df_train = pickle.load(f)
-with open("data/cookingClean/Cooking_Test.pkl", 'rb') as f:
-    df_test = pickle.load(f)
-with open("data/cookingClean/Cooking_Valid.pkl", 'rb') as f:
-    df_valid = pickle.load(f)
+path = "./"
+
+with open(path + "data/Cooking_Clean_train.pkl", 'rb') as f:
+        df_train = pickle.load(f)
+with open(path + "data/Cooking_Clean_test.pkl", 'rb') as f:
+        df_test = pickle.load(f)
+with open(path + "data/Cooking_Clean_valid.pkl", 'rb') as f:
+        df_valid = pickle.load(f)
 
 
 labels = list(df_train)
@@ -80,10 +84,11 @@ MAX_NB_WORDS = 20000
 MAX_SEQUENCE_LENGTH = 200
 EMBEDDING_DIM = 100
 output_size = n_labels
-embedding_vector_length = 100
-batch_size = 128
-nb_epochs = 150
+batch_size = 64
+nb_epochs = 1000
 
+
+## Creating the data for a keras neural network and starting the embedding.
 
 comments = df_train.text.tolist() + df_test.text.tolist() + df_valid.text.tolist()
 tokenizer = Tokenizer(num_words=MAX_NB_WORDS, char_level=False)
@@ -108,14 +113,7 @@ print('Shape of test tensor ', x_test.shape)
 print('Shape of valid tensor ', x_valid.shape)
 
 
-embedding_matrix = np.zeros((MAX_NB_WORDS, EMBEDDING_DIM))
-for word, i in word_index.items():
-    if i > MAX_NB_WORDS:
-        continue
-    embedding_vector = embeddings_index.get(word)
-    if embedding_vector is not None:
-        # words not found in embedding index will be all-zeros.
-        embedding_matrix[i] = embedding_vector
+
 
 # load pre-trained word embeddings into an Embedding layer
 # note that we set trainable = False so as to keep the embeddings fixed
@@ -124,14 +122,21 @@ for word, i in word_index.items():
 word_index = tokenizer.word_index
 
 num_words = min(MAX_NB_WORDS, len(word_index)) + 1
-embedding_matrix = np.zeros((num_words, embedding_vector_length))
+embedding_matrix = np.zeros((num_words, EMBEDDING_DIM))
+for word, i in word_index.items():
+    if i > MAX_NB_WORDS:
+        continue
+    embedding_vector = embeddings_index.get(word)
+    if embedding_vector is not None:
+        # words not found in embedding index will be all-zeros.
+        embedding_matrix[i] = embedding_vector
 
 def bidir_gru(my_seq,n_units):
         return Bidirectional(CuDNNLSTM(units=n_units,
                                       return_sequences=True),
                              merge_mode='concat', weights=None)(my_seq)
 
-def create_model(embeddings, n_gru_layers=4, n_units=50, n_context=5, drop_rate = 0.4 ):
+def create_model(embeddings, n_gru_layers=2, n_units=100, n_context=2, drop_rate = 0.3):
     
     sent_ints = Input(shape=(MAX_SEQUENCE_LENGTH,))
     sent_wv = Embedding(input_dim=embeddings.shape[0],
@@ -155,48 +160,55 @@ def create_model(embeddings, n_gru_layers=4, n_units=50, n_context=5, drop_rate 
     if n_context > 1:
         contxt_list = []
         for k in range(n_context):
-            x, y  = AttentionWithContext(return_coefficients=True)(sent_wa)
+            x  = SeqSelfAttention(attention_activation='sigmoid')(sent_wa)
             contxt_list.append(x)
         sent_att_vec = Concatenate()(contxt_list)
     else :
-        sent_att_vec, y = AttentionWithContext(return_coefficients=True)(sent_wa)
+        sent_att_vec= SeqSelfAttention(attention_activation='sigmoid')(sent_wa)
     sent_att_vec_dr = Dropout(drop_rate)(sent_att_vec)
-    pre_preds = Dense(units=2000,
-                  activation='relu')(sent_att_vec)
-    pre_preds = Dropout(drop_rate)(pre_preds)
-    pre_pre_preds = Dense(units=200,
-                  activation='relu')(pre_preds)
-    pre_pre_preds = Dropout(drop_rate)(pre_pre_preds)
+    sent_att_vec_dr = sent_wa
+    sent_att_vec_dr =Flatten()(sent_att_vec_dr)
+
+    pre_pred1 = Dense(units=100,
+                  activation='relu')(sent_att_vec_dr)
+    pre_pred1 = Dropout(drop_rate)(pre_pred1)
+    pre_pred2 = Dense(units=2048,
+                  activation='relu')(pre_pred1)
+    pre_pred2 = Dropout(drop_rate)(pre_pred2)
+
+
 
     preds = Dense(units=output_size,
-                  activation='sigmoid')(pre_pre_preds)
+                  activation='sigmoid')(pre_pred2)
     model = Model(sent_ints,preds)
     return model
 
 model = create_model(embedding_matrix)
 print(model.summary())
 
-model.compile(loss='binary_crossentropy',
-                  optimizer='adam')
+
+model.compile(optimizers.adam(lr=0.00005, decay=1e-6),loss="binary_crossentropy",metrics=["accuracy"])
 
 my_callbacks = [EarlyStopping(monitor='val_loss', patience=10, mode='min', verbose =1), ModelCheckpoint(filepath='params/cooking', 
                                        verbose=1, 
                                        save_best_only=True,
                                        save_weights_only=True)]
 
+### if a model exist
+#model.load_weights( './params/cooking')
+
 model.fit(x_train, y_train, epochs=nb_epochs, batch_size=batch_size, validation_data = (x_test, y_test),  callbacks = my_callbacks)
 
-predicts = model.predict(x_valid)
 
-with open('results/cooking_predict.txt', 'w') as file:
-        file.write('id,pred\n')
+predicts_train = model.predict(x_train)
+predicts_test = model.predict(x_test)
+predicts_valid = model.predict(x_valid)
 
-        for idx,pred in enumerate(predicts):
 
-            file.write(str(idx) + ',' + str(pred[0]) + ',')
-            for predi in pred[1:-1] :
-                 file.write(str(predi) + ',')
-            file.write(str(pred[-1]) + '\n')
+np.save("results/cooking_train", np.array(predicts_train))
+np.save("results/cooking_test", np.array(predicts_test))
+np.save("results/cooking_valid", np.array(predicts_valid))
+
 
 
                
