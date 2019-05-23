@@ -18,13 +18,13 @@ from sklearn.decomposition import TruncatedSVD
 ### We import the preprocessed data sets:
 
 try: 
-    path = "/home/gonzales/Documents/NLP//NLP-ENSAE-GP//"
+    path = "./"
 
-    with open(path + "data/cookingClean/Cooking_Train.pkl", 'rb') as f:
+    with open(path + "data/Cooking_Clean_train.pkl", 'rb') as f:
         df_train = pickle.load(f)
-    with open(path + "data/cookingClean/Cooking_Test.pkl", 'rb') as f:
+    with open(path + "data/Cooking_Clean_test.pkl", 'rb') as f:
         df_test = pickle.load(f)
-    with open(path + "data/cookingClean/Cooking_Valid.pkl", 'rb') as f:
+    with open(path + "data/Cooking_Clean_valid.pkl", 'rb') as f:
         df_valid = pickle.load(f)
 except:
     print('Please write the good path and check preprocessed data are there')
